@@ -1611,3 +1611,14 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.03.29-15.39.46:140][ 51]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
 [2024.03.29-15.39.46:140][ 51]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
 [2024.03.29-15.39.46:548][ 51]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.03.29-15.39.49:279][ 51]LogStylusInput: Shutting down StylusInput subsystem.
+[2024.03.29-15.39.50:967][ 51]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2024.03.29-15.39.54:421][ 51]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2024.03.29-15.39.54:421][ 51]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2024.03.29-15.39.54:421][ 51]LogAudio: Display: Audio Device unregistered from world 'ThirdPersonMap'.
+[2024.03.29-15.39.54:525][ 51]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 1
+[2024.03.29-15.39.54:554][ 51]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2024.03.29-15.39.54:556][ 51]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2024.03.29-15.39.54:637][ 51]LogAudio: Display: Audio Device Manager Shutdown
+[2024.03.29-15.39.55:390][ 51]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2024.03.29-15.39.55:575][ 51]LogExit: Preparing to exit.
