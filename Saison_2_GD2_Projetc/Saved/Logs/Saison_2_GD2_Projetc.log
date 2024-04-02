@@ -3201,3 +3201,56 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.04.02-10.54.26:382][151]LogFileHelpers: InternalPromptForCheckoutAndSave took 117 ms (total: 968 ms)
 [2024.04.02-10.54.26:388][151]AssetCheck: New page: Asset Save: BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871
 [2024.04.02-10.54.26:388][151]LogContentValidation: Display: Validating /Game/Push/BP_Cube_Push.BP_Cube_Push_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871
+[2024.04.02-11.06.18:427][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2024.04.02-11.06.18:431][ 94]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.032
+[2024.04.02-11.06.18:431][ 94]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Push/BP_Cube_Push] ([2] browsable assets)...
+[2024.04.02-11.06.18:431][ 94]OBJ SavePackage: Finished generating thumbnails for package [/Game/Push/BP_Cube_Push]
+[2024.04.02-11.06.18:442][ 94]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Push/BP_Cube_Push_Auto3
+[2024.04.02-11.06.18:442][ 94]LogSavePackage: Moving 'C:/Users/33638/OneDrive/Documents/GitHub/Projet_Saison_2_GD2/Saison_2_GD2_Projetc/Saved/BP_Cube_Push_Auto3935ED13F478A2376CCF01D9E1A1EC66A.tmp' to 'C:/Users/33638/OneDrive/Documents/GitHub/Projet_Saison_2_GD2/Saison_2_GD2_Projetc/Saved/Autosaves/Game/Push/BP_Cube_Push_Auto3.uasset'
+[2024.04.02-11.06.18:443][ 94]LogFileHelpers: Auto-saving content packages took 0.012
+[2024.04.02-11.15.18:712][301]BlueprintLog: New page: Compile BP_Cube_Push
+[2024.04.02-11.15.18:773][301]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2024.04.02-11.15.19:475][335]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.02-11.15.19:602][335]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Push/BP_Cube_Push" FILE="C:/Users/33638/OneDrive/Documents/GitHub/Projet_Saison_2_GD2/Saison_2_GD2_Projetc/Content/Push/BP_Cube_Push.uasset" SILENT=true
+[2024.04.02-11.15.19:613][335]LogSavePackage: Moving output files for package: /Game/Push/BP_Cube_Push
+[2024.04.02-11.15.19:613][335]LogSavePackage: Moving 'C:/Users/33638/OneDrive/Documents/GitHub/Projet_Saison_2_GD2/Saison_2_GD2_Projetc/Saved/BP_Cube_Push95DA2BD24EC09B39A7BAACAF47E5A430.tmp' to 'C:/Users/33638/OneDrive/Documents/GitHub/Projet_Saison_2_GD2/Saison_2_GD2_Projetc/Content/Push/BP_Cube_Push.uasset'
+[2024.04.02-11.15.19:621][335]LogFileHelpers: InternalPromptForCheckoutAndSave took 145 ms (total: 1.11 sec)
+[2024.04.02-11.15.19:626][335]AssetCheck: New page: Asset Save: BP_Cube_Push
+[2024.04.02-11.15.19:626][335]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Push/BP_Cube_Push.BP_Cube_Push
+[2024.04.02-11.15.21:164][415]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.02-11.15.21:262][415]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/TR/7JHKD6NN31COL0X3F1EROK
+[2024.04.02-11.15.21:262][415]LogSavePackage: Moving 'C:/Users/33638/OneDrive/Documents/GitHub/Projet_Saison_2_GD2/Saison_2_GD2_Projetc/Saved/7JHKD6NN31COL0X3F1EROKB59044844E4D2CBA1BD9E89CC983EB29.tmp' to 'C:/Users/33638/OneDrive/Documents/GitHub/Projet_Saison_2_GD2/Saison_2_GD2_Projetc/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/TR/7JHKD6NN31COL0X3F1EROK.uasset'
+[2024.04.02-11.15.21:270][415]LogFileHelpers: InternalPromptForCheckoutAndSave took 106 ms (total: 1.22 sec)
+[2024.04.02-11.15.21:276][415]AssetCheck: New page: Asset Save: BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871
+[2024.04.02-11.15.21:276][415]LogContentValidation: Display: Validating /Game/Push/BP_Cube_Push.BP_Cube_Push_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871
+[2024.04.02-11.23.34:735][ 11]LogDerivedDataCache: C:/Users/33638/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:24.711 and deleted 0 files with total size 0 MiB and 93 empty folders. Scanned 12314 files in 14756 folders with total size 740 MiB.
+[2024.04.02-12.23.35:473][780]LogDerivedDataCache: C:/Users/33638/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:25.439 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 12314 files in 14663 folders with total size 740 MiB.
+[2024.04.02-12.38.42:604][498]LogHttp: Warning: 000006F89F3E6900: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB93FB6EB-4364-CFDA-28A7-53A0CD6CE1D7%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=1b15abe0464d2659ab4b95a29c705c89%7C6e100f1e424b4295bc5414d97b8a3f65%7Cfb66259b-dfc9-4eb9-bcfc-5e99915a433f&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.04.02-12.38.42:641][498]LogHttp: Warning: 000006F89F3E6900: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2024.04.02-12.38.42:642][498]LogHttp: Warning: 000006F89F3E6900: libcurl info message cache 0 (Found bundle for host: 0x6f83f970930 [serially])
+[2024.04.02-12.38.42:642][498]LogHttp: Warning: 000006F89F3E6900: libcurl info message cache 1 (Re-using existing connection #2 with host datarouter.ol.epicgames.com)
+[2024.04.02-12.38.42:643][498]LogHttp: Warning: 000006F89F3E6900: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.7.66.212) port 443 (#2))
+[2024.04.02-12.38.42:643][498]LogHttp: Warning: 000006F89F3E6900: libcurl info message cache 3 (We are completely uploaded and fine)
+[2024.04.02-12.38.42:643][498]LogHttp: Warning: 000006F89F3E6900: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, close notify (256):)
+[2024.04.02-12.38.42:644][498]LogHttp: Warning: 000006F89F3E6900: libcurl info message cache 5 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.04.02-12.38.42:644][498]LogHttp: Warning: 000006F89F3E6900: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2024.04.02-12.38.42:644][498]LogHttp: Warning: 000006F89F3E6900: libcurl info message cache 7 (Closing connection 2)
+[2024.04.02-12.38.42:644][498]LogHttp: Warning: 000006F89F3E6900: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.04.02-12.38.42:644][498]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB93FB6EB-4364-CFDA-28A7-53A0CD6CE1D7%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=1b15abe0464d2659ab4b95a29c705c89%7C6e100f1e424b4295bc5414d97b8a3f65%7Cfb66259b-dfc9-4eb9-bcfc-5e99915a433f&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.04.02-12.46.20:788][514]LogUObjectHash: Compacting FUObjectHashTables data took  19.97ms
+[2024.04.02-12.46.20:844][514]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 1.514
+[2024.04.02-12.46.20:965][514]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Push/BP_Cube_Push] ([2] browsable assets)...
+[2024.04.02-12.46.21:066][514]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Push/BP_Cube_Push.BP_Cube_Push]
+[2024.04.02-12.46.21:070][514]OBJ SavePackage: Finished generating thumbnails for package [/Game/Push/BP_Cube_Push]
+[2024.04.02-12.46.21:337][514]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Push/BP_Cube_Push_Auto4
+[2024.04.02-12.46.21:337][514]LogSavePackage: Moving 'C:/Users/33638/OneDrive/Documents/GitHub/Projet_Saison_2_GD2/Saison_2_GD2_Projetc/Saved/BP_Cube_Push_Auto44EEA730E4A6BE9A9C09C2DB4FFBE9A11.tmp' to 'C:/Users/33638/OneDrive/Documents/GitHub/Projet_Saison_2_GD2/Saison_2_GD2_Projetc/Saved/Autosaves/Game/Push/BP_Cube_Push_Auto4.uasset'
+[2024.04.02-12.46.21:417][514]LogFileHelpers: Auto-saving content packages took 0.549
+[2024.04.02-12.48.20:157][ 83]BlueprintLog: New page: Compile BP_Cube_Push
+[2024.04.02-12.48.20:712][ 83]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2024.04.02-12.48.22:365][123]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.02-12.48.22:511][123]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Push/BP_Cube_Push" FILE="C:/Users/33638/OneDrive/Documents/GitHub/Projet_Saison_2_GD2/Saison_2_GD2_Projetc/Content/Push/BP_Cube_Push.uasset" SILENT=true
+[2024.04.02-12.48.22:553][123]LogSavePackage: Moving output files for package: /Game/Push/BP_Cube_Push
+[2024.04.02-12.48.22:554][123]LogSavePackage: Moving 'C:/Users/33638/OneDrive/Documents/GitHub/Projet_Saison_2_GD2/Saison_2_GD2_Projetc/Saved/BP_Cube_Push98EFC6DE43A62482984321ABE97ED155.tmp' to 'C:/Users/33638/OneDrive/Documents/GitHub/Projet_Saison_2_GD2/Saison_2_GD2_Projetc/Content/Push/BP_Cube_Push.uasset'
+[2024.04.02-12.48.22:636][123]LogFileHelpers: InternalPromptForCheckoutAndSave took 270 ms (total: 1.49 sec)
+[2024.04.02-12.48.25:925][123]AssetCheck: New page: Asset Save: BP_Cube_Push
+[2024.04.02-12.48.25:925][123]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Push/BP_Cube_Push.BP_Cube_Push
