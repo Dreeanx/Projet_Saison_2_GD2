@@ -2869,3 +2869,335 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.04.02-10.50.50:053][566]LogFileHelpers: InternalPromptForCheckoutAndSave took 142 ms (total: 722 ms)
 [2024.04.02-10.50.50:060][566]AssetCheck: New page: Asset Save: BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871
 [2024.04.02-10.50.50:060][566]LogContentValidation: Display: Validating /Game/Push/BP_Cube_Push.BP_Cube_Push_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871
+[2024.04.02-10.53.56:800][941]BlueprintLog: New page: Compile BP_Cube_Push
+[2024.04.02-10.53.56:871][941]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2024.04.02-10.53.57:430][964]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.02-10.53.57:539][964]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Push/BP_Cube_Push" FILE="C:/Users/33638/OneDrive/Documents/GitHub/Projet_Saison_2_GD2/Saison_2_GD2_Projetc/Content/Push/BP_Cube_Push.uasset" SILENT=true
+[2024.04.02-10.53.57:552][964]LogSavePackage: Moving output files for package: /Game/Push/BP_Cube_Push
+[2024.04.02-10.53.57:552][964]LogSavePackage: Moving 'C:/Users/33638/OneDrive/Documents/GitHub/Projet_Saison_2_GD2/Saison_2_GD2_Projetc/Saved/BP_Cube_Push6EF1574A40FFD66287B7CBBC3F1457C1.tmp' to 'C:/Users/33638/OneDrive/Documents/GitHub/Projet_Saison_2_GD2/Saison_2_GD2_Projetc/Content/Push/BP_Cube_Push.uasset'
+[2024.04.02-10.53.57:559][964]LogFileHelpers: InternalPromptForCheckoutAndSave took 128 ms (total: 850 ms)
+[2024.04.02-10.53.57:565][964]AssetCheck: New page: Asset Save: BP_Cube_Push
+[2024.04.02-10.53.57:565][964]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Push/BP_Cube_Push.BP_Cube_Push
+[2024.04.02-10.54.00:381][ 97]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.02-10.54.00:387][ 97]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.04.02-10.54.00:388][ 97]LogWorldPartition: Display: GenerateStreaming started...
+[2024.04.02-10.54.00:388][ 97]LogWorldPartition: Display: GetPartitionedActors started...
+[2024.04.02-10.54.00:388][ 97]LogWorldPartition: Display: GetPartitionedActors took 8 us (total: 4 ms)
+[2024.04.02-10.54.00:388][ 97]LogWorldPartition: Display: GenerateStreaming took 154 us (total: 7 ms)
+[2024.04.02-10.54.00:389][ 97]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.02-10.54.00:389][ 97]PIE: New page: PIE session: ThirdPersonMap (2 avr. 2024 à 14:54:00)
+[2024.04.02-10.54.00:389][ 97]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.04.02-10.54.00:394][ 97]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005031s)
+[2024.04.02-10.54.00:394][ 97]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.005064s)
+[2024.04.02-10.54.00:394][ 97]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.02-10.54.00:394][ 97]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.02-10.54.00:394][ 97]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.04.02-10.54.00:395][ 97]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.04.02-10.54.00:395][ 97]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.04.02-10.54.00:395][ 97]LogWorldPartition: UWorldPartition::Initialize(Asset=ThirdPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2024.04.02-10.54.00:396][ 97]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2024.04.02-10.54.00:396][ 97]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 1.77 sec)
+[2024.04.02-10.54.00:396][ 97]LogPlayLevel: PIE: World Init took: (0.002325s)
+[2024.04.02-10.54.00:424][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2024.04.02-10.54.00:427][ 97]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2024.04.02-10.54.00:427][ 97]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.02-10.54.00:427][ 97]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.02-10.54.00:427][ 97]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.02-10.54.00:427][ 97]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.02-10.54.00:427][ 97]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.02-10.54.00:427][ 97]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.04.02-10.54.00:427][ 97]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.02-10.54.00:427][ 97]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.02-10.54.00:427][ 97]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.02-10.54.00:427][ 97]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.02-10.54.00:427][ 97]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.02-10.54.00:430][ 97]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.02-10.54.00:470][ 97]LogAudioMixer: Display: Using Audio Hardware Device Speaker (Realtek(R) Audio)
+[2024.04.02-10.54.00:470][ 97]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.02-10.54.00:470][ 97]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.02-10.54.00:470][ 97]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.02-10.54.00:472][ 97]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2024.04.02-10.54.00:472][ 97]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2024.04.02-10.54.00:473][ 97]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2024.04.02-10.54.00:473][ 97]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2024.04.02-10.54.00:473][ 97]LogInit: FAudioDevice initialized with ID 6.
+[2024.04.02-10.54.00:473][ 97]LogAudio: Display: Audio Device (ID: 6) registered with world 'ThirdPersonMap'.
+[2024.04.02-10.54.00:473][ 97]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2024.04.02-10.54.00:477][ 97]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.04.02-10.54.00:479][ 97]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2024.04.02-12.54.00
+[2024.04.02-10.54.00:479][ 97]LogWorld: Bringing up level for play took: 0.002764
+[2024.04.02-10.54.00:482][ 97]LogOnline: OSS: Created online subsystem instance for: :Context_13
+[2024.04.02-10.54.00:485][ 97]PIE: Server logged in
+[2024.04.02-10.54.00:486][ 97]PIE: Play in editor total start time 0,099 seconds.
+[2024.04.02-10.54.03:095][148]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Character can interact
+[2024.04.02-10.54.03:974][188]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.03:997][189]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.04:019][190]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.04:039][191]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.04:062][192]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.04:084][193]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.04:108][194]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.04:131][195]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.04:153][196]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.04:176][197]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.04:199][198]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.04:224][199]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.04:250][200]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.04:269][201]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.04:294][202]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.04:315][203]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.04:340][204]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.04:363][205]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.04:386][206]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.04:408][207]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.04:430][208]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.04:452][209]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.04:476][210]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.04:500][211]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.04:521][212]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.04:545][213]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.04:567][214]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.04:589][215]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.04:613][216]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.04:635][217]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.04:658][218]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.04:681][219]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.04:703][220]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.04:725][221]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.04:749][222]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.04:769][223]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.04:794][224]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.04:816][225]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.04:840][226]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.04:862][227]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.04:884][228]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.04:907][229]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.04:929][230]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.04:953][231]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.04:976][232]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.04:999][233]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.05:021][234]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.05:045][235]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.05:067][236]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.05:089][237]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.05:112][238]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.05:135][239]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.05:160][240]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is not moving Fwd or Bwd
+[2024.04.02-10.54.05:181][241]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is not moving Fwd or Bwd
+[2024.04.02-10.54.05:204][242]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is not moving Fwd or Bwd
+[2024.04.02-10.54.05:226][243]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Backward
+[2024.04.02-10.54.05:250][244]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Backward
+[2024.04.02-10.54.05:274][245]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Backward
+[2024.04.02-10.54.05:297][246]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Backward
+[2024.04.02-10.54.05:319][247]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Backward
+[2024.04.02-10.54.05:343][248]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Backward
+[2024.04.02-10.54.05:364][249]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Backward
+[2024.04.02-10.54.05:387][250]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Backward
+[2024.04.02-10.54.05:409][251]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Backward
+[2024.04.02-10.54.05:433][252]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Backward
+[2024.04.02-10.54.05:454][253]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Backward
+[2024.04.02-10.54.05:478][254]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Backward
+[2024.04.02-10.54.05:500][255]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Backward
+[2024.04.02-10.54.05:523][256]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Backward
+[2024.04.02-10.54.05:546][257]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Backward
+[2024.04.02-10.54.05:568][258]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Backward
+[2024.04.02-10.54.05:593][259]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is not moving Fwd or Bwd
+[2024.04.02-10.54.05:616][260]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is not moving Fwd or Bwd
+[2024.04.02-10.54.05:638][261]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is not moving Fwd or Bwd
+[2024.04.02-10.54.05:661][262]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.05:683][263]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.05:706][264]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.05:729][265]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.05:751][266]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.05:773][267]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.05:795][268]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.05:817][269]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.05:840][270]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.05:863][271]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.05:886][272]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.05:907][273]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.05:928][274]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.05:950][275]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.05:975][276]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.05:997][277]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.06:019][278]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.06:042][279]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.06:066][280]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.07:037][324]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Character cannot interact
+[2024.04.02-10.54.07:812][358]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Character can interact
+[2024.04.02-10.54.07:858][360]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.07:882][361]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.07:903][362]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.07:926][363]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.07:950][364]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.07:972][365]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.07:995][366]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.08:019][367]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.08:041][368]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.08:066][369]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.08:087][370]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.08:110][371]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.08:133][372]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.08:157][373]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.08:179][374]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.08:202][375]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.08:225][376]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.08:251][377]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.08:272][378]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.08:299][379]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.08:320][380]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.08:341][381]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.08:364][382]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.08:389][383]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.08:410][384]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.08:434][385]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.08:455][386]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.08:478][387]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.08:501][388]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.08:525][389]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.08:548][390]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.08:570][391]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.08:594][392]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.08:616][393]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.08:638][394]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.08:661][395]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.08:684][396]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.08:706][397]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.08:730][398]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.08:752][399]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.08:776][400]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.08:798][401]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.08:820][402]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.08:844][403]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.08:866][404]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.08:890][405]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.08:910][406]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.08:934][407]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.08:956][408]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.08:980][409]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.09:004][410]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.09:028][411]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.09:050][412]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.09:074][413]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.09:097][414]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.09:122][415]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.09:144][416]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.09:168][417]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.09:190][418]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.09:214][419]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.09:236][420]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.09:260][421]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.09:282][422]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.09:306][423]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.09:327][424]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.09:350][425]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.09:372][426]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.09:397][427]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.09:418][428]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.09:441][429]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.09:464][430]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.09:486][431]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.09:509][432]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.09:533][433]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.09:555][434]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.09:577][435]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.09:598][436]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.09:621][437]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.09:642][438]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.09:666][439]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.09:687][440]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.09:708][441]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.09:731][442]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.09:755][443]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.09:778][444]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.09:800][445]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.09:823][446]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.09:847][447]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.09:870][448]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.09:891][449]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.09:914][450]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.09:938][451]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.09:960][452]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.09:983][453]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.10:005][454]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.10:028][455]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.10:049][456]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.10:071][457]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.10:094][458]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.10:116][459]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.10:136][460]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.10:158][461]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Backward
+[2024.04.02-10.54.10:180][462]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Backward
+[2024.04.02-10.54.10:201][463]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Backward
+[2024.04.02-10.54.10:223][464]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Backward
+[2024.04.02-10.54.10:244][465]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Backward
+[2024.04.02-10.54.10:266][466]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Backward
+[2024.04.02-10.54.10:288][467]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Backward
+[2024.04.02-10.54.10:309][468]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Backward
+[2024.04.02-10.54.10:332][469]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Backward
+[2024.04.02-10.54.10:353][470]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Backward
+[2024.04.02-10.54.10:374][471]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Backward
+[2024.04.02-10.54.10:397][472]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Backward
+[2024.04.02-10.54.10:418][473]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Backward
+[2024.04.02-10.54.10:438][474]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Backward
+[2024.04.02-10.54.10:462][475]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Backward
+[2024.04.02-10.54.10:483][476]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Backward
+[2024.04.02-10.54.10:504][477]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Backward
+[2024.04.02-10.54.10:525][478]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Backward
+[2024.04.02-10.54.10:548][479]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Backward
+[2024.04.02-10.54.10:570][480]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Backward
+[2024.04.02-10.54.10:592][481]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Backward
+[2024.04.02-10.54.10:613][482]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Backward
+[2024.04.02-10.54.10:634][483]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Backward
+[2024.04.02-10.54.10:656][484]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Backward
+[2024.04.02-10.54.10:678][485]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Backward
+[2024.04.02-10.54.10:698][486]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Backward
+[2024.04.02-10.54.10:720][487]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Backward
+[2024.04.02-10.54.10:742][488]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Backward
+[2024.04.02-10.54.10:763][489]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Backward
+[2024.04.02-10.54.10:785][490]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Character cannot interact
+[2024.04.02-10.54.12:797][585]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Character can interact
+[2024.04.02-10.54.12:797][585]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.12:818][586]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.12:840][587]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.12:862][588]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.12:884][589]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.12:901][590]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.12:922][591]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.12:944][592]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.12:965][593]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.12:987][594]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.13:008][595]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.13:030][596]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.13:052][597]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.13:073][598]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.13:096][599]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.13:117][600]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.13:138][601]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.13:160][602]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.13:181][603]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.13:202][604]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.13:224][605]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.13:245][606]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.13:266][607]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Is moving Forward
+[2024.04.02-10.54.13:809][632]LogBlueprintUserMessages: [BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871] Character cannot interact
+[2024.04.02-10.54.15:221][693]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.02-10.54.15:221][693]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.04.02-10.54.15:221][693]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.04.02-10.54.15:221][693]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.02-10.54.15:221][693]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.04.02-10.54.15:236][693]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.02-10.54.15:242][693]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.02-10.54.15:267][693]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.02-10.54.15:267][693]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2024.04.02-10.54.15:267][693]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2024.04.02-10.54.15:269][693]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2024.04.02-10.54.15:273][693]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.02-10.54.15:276][693]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2024.04.02-10.54.15:468][694]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2024.04.02-10.54.26:265][151]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.02-10.54.26:373][151]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/TR/7JHKD6NN31COL0X3F1EROK
+[2024.04.02-10.54.26:373][151]LogSavePackage: Moving 'C:/Users/33638/OneDrive/Documents/GitHub/Projet_Saison_2_GD2/Saison_2_GD2_Projetc/Saved/7JHKD6NN31COL0X3F1EROKE615FAA64F214CFCDA58799EE4733AD2.tmp' to 'C:/Users/33638/OneDrive/Documents/GitHub/Projet_Saison_2_GD2/Saison_2_GD2_Projetc/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/TR/7JHKD6NN31COL0X3F1EROK.uasset'
+[2024.04.02-10.54.26:382][151]LogFileHelpers: InternalPromptForCheckoutAndSave took 117 ms (total: 968 ms)
+[2024.04.02-10.54.26:388][151]AssetCheck: New page: Asset Save: BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871
+[2024.04.02-10.54.26:388][151]LogContentValidation: Display: Validating /Game/Push/BP_Cube_Push.BP_Cube_Push_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Cube_Push_C_UAID_842AFD4B6BAD65E701_2058815871
