@@ -2822,3 +2822,16 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.04.04-16.56.16:511][893]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
 [2024.04.04-16.56.16:852][893]LogExit: Editor shut down
 [2024.04.04-16.56.16:861][893]LogExit: Transaction tracking system shut down
+[2024.04.04-16.56.22:190][893]LogExit: Object subsystem successfully closed.
+[2024.04.04-16.56.22:201][893]LogShaderCompilers: Display: ================================================
+[2024.04.04-16.56.22:201][893]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.04.04-16.56.22:202][893]LogShaderCompilers: Display: Total job queries 22, among them cache hits 0 (0.00%)
+[2024.04.04-16.56.22:202][893]LogShaderCompilers: Display: Tracking 22 distinct input hashes that result in 16 distinct outputs (72.73%)
+[2024.04.04-16.56.22:202][893]LogShaderCompilers: Display: RAM used: 534,20 KiB of 819,20 MiB budget. Usage: 0.06%
+[2024.04.04-16.56.22:202][893]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.04.04-16.56.22:202][893]LogShaderCompilers: Display: Shaders Compiled: 0
+[2024.04.04-16.56.22:202][893]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2024.04.04-16.56.22:202][893]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2024.04.04-16.56.22:202][893]LogShaderCompilers: Display: ================================================
+[2024.04.04-16.56.22:269][893]LogShaderCompilers: Display: Shaders left to compile 0
+[2024.04.04-16.56.22:694][893]LogVirtualization: UE::Virtualization was shutdown
