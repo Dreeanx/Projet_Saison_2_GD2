@@ -1037,3 +1037,83 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.04.05-16.02.07:581][  0]MemoryProfiler: OnSessionChanged
 [2024.04.05-16.02.10:758][  0]LogFileCache: Scanning file cache for directory 'C:/Users/33638/OneDrive/Documents/GitHub/Projet_Saison_2_GD2/Saison_2_GD2_Projetc/Content/' took 0.05s
 [2024.04.05-16.02.16:562][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2024.04.05-16.02.17:308][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2024.04.05-16.02.17:756][  0]SourceControl: Revision control is disabled
+[2024.04.05-16.02.17:757][  0]LogUnrealEdMisc: Loading editor; pre map load, took 122.815
+[2024.04.05-16.02.17:866][  0]Cmd: MAP LOAD FILE="C:/Users/33638/OneDrive/Documents/GitHub/Projet_Saison_2_GD2/Saison_2_GD2_Projetc/Content/ThirdPerson/Maps/ThirdPersonMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.04.05-16.02.17:893][  0]LightingResults: New page: Lighting Build
+[2024.04.05-16.02.18:325][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2024.04.05-16.02.18:508][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.05-16.02.18:887][  0]MapCheck: New page: Map Check
+[2024.04.05-16.02.18:887][  0]LightingResults: New page: Lighting Build
+[2024.04.05-16.02.19:825][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.05-16.02.20:599][  0]LogUObjectHash: Compacting FUObjectHashTables data took  24.50ms
+[2024.04.05-16.02.24:506][  0]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/Characters/Mannequins/Animations/Manny/MM_Fall_Loop.MM_Fall_Loop
+[2024.04.05-16.02.24:506][  0]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/Characters/Mannequins/Animations/Manny/MM_Idle.MM_Idle
+[2024.04.05-16.02.24:511][  0]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/Characters/Mannequins/Animations/Manny/MM_Jump.MM_Jump
+[2024.04.05-16.02.24:589][  0]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/Characters/Mannequins/Animations/Manny/MM_Land.MM_Land
+[2024.04.05-16.02.24:627][  0]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/Characters/Mannequins/Animations/Manny/MM_Run_Fwd.MM_Run_Fwd
+[2024.04.05-16.02.24:635][  0]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/Characters/Mannequins/Animations/Manny/MM_Walk_Fwd.MM_Walk_Fwd
+[2024.04.05-16.02.24:693][  0]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/Characters/Mannequins/Animations/Manny/MM_Walk_InPlace.MM_Walk_InPlace
+[2024.04.05-16.02.24:870][  0]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/Characters/Mannequins/Animations/Quinn/MF_Idle.MF_Idle
+[2024.04.05-16.02.24:880][  0]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/Characters/Mannequins/Animations/Quinn/MF_Run_Fwd.MF_Run_Fwd
+[2024.04.05-16.02.24:889][  0]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/Characters/Mannequins/Animations/Quinn/MF_Walk_Fwd.MF_Walk_Fwd
+[2024.04.05-16.02.25:183][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2024.04.05-16.02.25:689][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonMap'.
+[2024.04.05-16.02.25:690][  0]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/Crouch/CrouchWalk.CrouchWalk
+[2024.04.05-16.02.25:691][  0]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/Crouch/Crouch.Crouch
+[2024.04.05-16.02.25:705][  0]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.05-16.02.25:705][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.05-16.02.25:705][  0]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.04.05-16.02.25:817][  0]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2024.04.05-16.02.25:819][  0]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.04.05-16.02.25:841][  0]LogWorldPartition: UWorldPartition::Initialize(Asset=ThirdPersonMap, IsEditor=1, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2024.04.05-16.02.27:434][  0]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/AnimalVarietyPack/Fox/Animations/ANIM_Fox_IdleLookAround.ANIM_Fox_IdleLookAround
+[2024.04.05-16.02.27:435][  0]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/AnimalVarietyPack/Fox/Animations/ANIM_Fox_Run.ANIM_Fox_Run
+[2024.04.05-16.02.27:835][  0]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2024.04.05-16.02.27:847][  0]LogWorldPartition: Display: WorldPartition initialize took 2.02 sec
+[2024.04.05-16.02.28:835][  0]LogEditorServer: Finished looking for orphan Actors (0.001 secs)
+[2024.04.05-16.02.28:989][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.04.05-16.02.29:035][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.04.05-16.02.29:113][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 66,478ms to complete.
+[2024.04.05-16.02.29:119][  0]LogFileHelpers: Loading map 'ThirdPersonMap' took 11.309
+[2024.04.05-16.02.29:592][  0]LogUnrealEdMisc: Total Editor Startup Time, took 134.650
+[2024.04.05-16.02.29:592][  0]LogShaderCompilers: Display: ================================================
+[2024.04.05-16.02.29:592][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.04.05-16.02.29:592][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2024.04.05-16.02.29:592][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2024.04.05-16.02.29:592][  0]LogShaderCompilers: Display: RAM used: 240,00 B of 819,20 MiB budget. Usage: 0.00%
+[2024.04.05-16.02.29:592][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.04.05-16.02.29:593][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2024.04.05-16.02.29:593][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2024.04.05-16.02.29:593][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2024.04.05-16.02.29:593][  0]LogShaderCompilers: Display: ================================================
+[2024.04.05-16.02.30:717][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.05-16.02.30:759][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.05-16.02.30:763][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.05-16.02.30:769][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.05-16.02.32:114][  0]LogPakFile: Display: Mounted Pak file 'D:/Unreal Engine 5/UE_5.2/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2024.04.05-16.02.32:174][  0]LogPakFile: Display: Mounted Pak file 'D:/Unreal Engine 5/UE_5.2/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2024.04.05-16.02.32:196][  0]LogPakFile: Display: Mounted Pak file 'D:/Unreal Engine 5/UE_5.2/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2024.04.05-16.02.32:210][  0]LogPakFile: Display: Mounted Pak file 'D:/Unreal Engine 5/UE_5.2/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2024.04.05-16.02.32:240][  0]LogPakFile: Display: Mounted Pak file 'D:/Unreal Engine 5/UE_5.2/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2024.04.05-16.02.32:247][  0]LogPakFile: Display: Mounted Pak file 'D:/Unreal Engine 5/UE_5.2/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2024.04.05-16.02.32:264][  0]LogPakFile: Display: Mounted Pak file 'D:/Unreal Engine 5/UE_5.2/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2024.04.05-16.02.32:270][  0]LogPakFile: Display: Mounted Pak file 'D:/Unreal Engine 5/UE_5.2/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2024.04.05-16.02.32:276][  0]LogPakFile: Display: Mounted Pak file 'D:/Unreal Engine 5/UE_5.2/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2024.04.05-16.02.32:287][  0]LogPakFile: Display: Mounted Pak file 'D:/Unreal Engine 5/UE_5.2/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2024.04.05-16.02.36:546][  0]LogSlate: Took 0.008934 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2024.04.05-16.02.36:736][  0]LogSlate: Took 0.017373 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2024.04.05-16.02.36:783][  0]LogSlate: Took 0.016861 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2024.04.05-16.02.36:881][  0]LogViewport: Scene viewport resized to 1523x920, mode Windowed.
+[2024.04.05-16.02.37:970][  0]LogSlate: Took 0.178547 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2024.04.05-16.02.39:791][  0]LogStall: Startup...
+[2024.04.05-16.02.39:793][  0]LogStall: Startup complete.
+[2024.04.05-16.02.39:919][  0]LogLoad: (Engine Initialization) Total time: 144.98 seconds
+[2024.04.05-16.02.39:919][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2024.04.05-16.02.40:236][  0]LogEditorViewport: Clicking Background
+[2024.04.05-16.02.40:556][  0]LogAssetRegistry: AssetRegistryGather time 10.3396s: AssetDataDiscovery 5.0219s, AssetDataGather 5.2884s, StoreResults 0.0293s.
+[2024.04.05-16.02.40:732][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000008 seconds (updated 0 objects)
+[2024.04.05-16.02.40:740][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2024.04.05-16.02.41:161][  0]LogViewport: Scene viewport resized to 1523x848, mode Windowed.
+[2024.04.05-16.02.41:946][  1]LogAutomationController: Ignoring very large delta of 17135357.69 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
