@@ -8829,3 +8829,522 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.04.17-14.45.41:942][929]LogFileHelpers: InternalPromptForCheckoutAndSave took 120 ms (total: 12.9 sec)
 [2024.04.17-14.45.41:952][929]AssetCheck: New page: Asset Save: Objective
 [2024.04.17-14.45.41:952][929]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/PicKUp/Objective.Objective
+[2024.04.17-14.48.11:479][479]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2024.04.17-14.49.25:631][701]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2024.04.17-14.50.09:241][832]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2024.04.17-14.50.27:031][885]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2024.04.17-14.50.53:610][965]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2024.04.17-14.52.20:174][306]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2024.04.17-14.52.20:175][306]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.17-14.52.20:183][306]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2024.04.17-14.52.20:183][306]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.17-14.52.21:586][372]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2024.04.17-14.52.21:586][372]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.17-14.52.22:121][393]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2024.04.17-14.52.22:121][393]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.17-14.52.29:891][768]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.04.17-14.52.29:914][768]LogContentBrowser: Creating deferred item: NewFolder
+[2024.04.17-14.52.29:925][769]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.04.17-14.52.33:853][967]LogContentBrowser: Attempting asset rename: NewFolder -> Pressure_Plate
+[2024.04.17-14.52.33:854][967]LogContentBrowser: End creating deferred item NewFolder
+[2024.04.17-14.52.38:279][132]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.04.17-14.52.38:288][132]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.04.17-14.52.38:294][132]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.04.17-14.52.38:327][134]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2024.04.17-14.52.45:945][513]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Pressure_Plate
+[2024.04.17-14.52.45:952][513]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.04.17-14.52.48:302][628]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Pressure_Plate/BP_Pressure_Plate.BP_Pressure_Plate
+[2024.04.17-14.52.48:302][628]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.17-14.52.48:302][628]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.17-14.52.48:437][628]LogViewport: Scene viewport resized to 1262x810, mode Windowed.
+[2024.04.17-14.52.48:477][629]LogViewport: Scene viewport resized to 1262x805, mode Windowed.
+[2024.04.17-14.53.25:076][797]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2024.04.17-14.53.25:082][797]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.087
+[2024.04.17-14.53.25:082][797]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Pressure_Plate/BP_Pressure_Plate] ([2] browsable assets)...
+[2024.04.17-14.53.25:082][797]OBJ SavePackage: Finished generating thumbnails for package [/Game/Pressure_Plate/BP_Pressure_Plate]
+[2024.04.17-14.53.25:085][797]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Pressure_Plate/BP_Pressure_Plate_Auto8
+[2024.04.17-14.53.25:085][797]LogSavePackage: Moving 'C:/Users/33638/OneDrive/Documents/GitHub/Projet_Saison_2_GD2/Saison_2_GD2_Projetc/Saved/BP_Pressure_Plate_Auto83EF550E64AF336C95AF4F297D4EEA2F9.tmp' to 'C:/Users/33638/OneDrive/Documents/GitHub/Projet_Saison_2_GD2/Saison_2_GD2_Projetc/Saved/Autosaves/Game/Pressure_Plate/BP_Pressure_Plate_Auto8.uasset'
+[2024.04.17-14.53.25:085][797]LogFileHelpers: Auto-saving content packages took 0.004
+[2024.04.17-14.55.01:422][ 87]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2024.04.17-14.56.27:217][344]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2024.04.17-15.03.23:607][112]BlueprintLog: New page: Compile BP_Pressure_Plate
+[2024.04.17-15.03.23:651][112]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2024.04.17-15.03.24:265][136]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.17-15.03.24:368][136]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.17-15.03.24:390][136]LogSavePackage: Moving output files for package: /Game/Pressure_Plate/BP_Pressure_Plate
+[2024.04.17-15.03.24:390][136]LogSavePackage: Moving 'C:/Users/33638/OneDrive/Documents/GitHub/Projet_Saison_2_GD2/Saison_2_GD2_Projetc/Saved/BP_Pressure_PlateF88EC795460C573C07C7A6B0F899C65A.tmp' to 'C:/Users/33638/OneDrive/Documents/GitHub/Projet_Saison_2_GD2/Saison_2_GD2_Projetc/Content/Pressure_Plate/BP_Pressure_Plate.uasset'
+[2024.04.17-15.03.24:406][136]LogFileHelpers: InternalPromptForCheckoutAndSave took 140 ms (total: 13.0 sec)
+[2024.04.17-15.03.24:411][136]AssetCheck: New page: Asset Save: BP_Pressure_Plate
+[2024.04.17-15.03.24:411][136]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Pressure_Plate/BP_Pressure_Plate.BP_Pressure_Plate
+[2024.04.17-15.03.35:990][675]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Pressure_Plate/BP_Pressure_Plate.BP_Pressure_Plate_C
+[2024.04.17-15.03.35:990][675]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Pressure_Plate/BP_Pressure_Plate.BP_Pressure_Plate_C
+[2024.04.17-15.03.35:990][675]LogActorFactory: Actor Factory spawned Blueprint /Game/Pressure_Plate/BP_Pressure_Plate.BP_Pressure_Plate as actor: BP_Pressure_Plate_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Pressure_Plate_C_0
+[2024.04.17-15.03.35:992][675]LogActorFactory: Actor Factory spawned Blueprint /Game/Pressure_Plate/BP_Pressure_Plate.BP_Pressure_Plate as actor: BP_Pressure_Plate_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Pressure_Plate_C_0
+[2024.04.17-15.03.36:918][721]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Pressure_Plate/BP_Pressure_Plate.BP_Pressure_Plate_C
+[2024.04.17-15.03.36:918][721]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Pressure_Plate/BP_Pressure_Plate.BP_Pressure_Plate_C
+[2024.04.17-15.03.36:921][721]LogActorFactory: Actor Factory spawned Blueprint /Game/Pressure_Plate/BP_Pressure_Plate.BP_Pressure_Plate as actor: BP_Pressure_Plate_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Pressure_Plate_C_UAID_842AFD4B6BAD14ED01_1407699952
+[2024.04.17-15.03.36:923][721]LogActorFactory: Actor Factory spawned Blueprint /Game/Pressure_Plate/BP_Pressure_Plate.BP_Pressure_Plate as actor: BP_Pressure_Plate_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Pressure_Plate_C_UAID_842AFD4B6BAD14ED01_1407699952
+[2024.04.17-15.03.59:046][317]BlueprintLog: New page: Compile BP_Pressure_Plate
+[2024.04.17-15.03.59:093][317]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2024.04.17-15.03.59:605][336]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.17-15.03.59:727][336]LogSavePackage: Moving output files for package: /Game/Pressure_Plate/BP_Pressure_Plate
+[2024.04.17-15.03.59:728][336]LogSavePackage: Moving 'C:/Users/33638/OneDrive/Documents/GitHub/Projet_Saison_2_GD2/Saison_2_GD2_Projetc/Saved/BP_Pressure_Plate2E79F39B48F74938616FDA9654DD28AC.tmp' to 'C:/Users/33638/OneDrive/Documents/GitHub/Projet_Saison_2_GD2/Saison_2_GD2_Projetc/Content/Pressure_Plate/BP_Pressure_Plate.uasset'
+[2024.04.17-15.03.59:737][336]LogFileHelpers: InternalPromptForCheckoutAndSave took 131 ms (total: 13.1 sec)
+[2024.04.17-15.03.59:743][336]AssetCheck: New page: Asset Save: BP_Pressure_Plate
+[2024.04.17-15.03.59:743][336]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Pressure_Plate/BP_Pressure_Plate.BP_Pressure_Plate
+[2024.04.17-15.04.32:406][942]LogPhysics: Warning: Scale for /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Pressure_Plate_C_UAID_842AFD4B6BAD14ED01_1407699952.Plate has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.04.17-15.04.32:406][942]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Pressure_Plate_C_UAID_842AFD4B6BAD14ED01_1407699952.Plate' 
+[2024.04.17-15.04.32:407][942]LogPhysics: Warning: Scale for /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Pressure_Plate_C_UAID_842AFD4B6BAD14ED01_1407699952.Plate has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.04.17-15.04.32:407][942]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Pressure_Plate_C_UAID_842AFD4B6BAD14ED01_1407699952.Plate' 
+[2024.04.17-15.04.32:407][942]LogPhysics: Warning: Scale for /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Pressure_Plate_C_UAID_842AFD4B6BAD14ED01_1407699952.Plate has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.04.17-15.04.32:407][942]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Pressure_Plate_C_UAID_842AFD4B6BAD14ED01_1407699952.Plate' 
+[2024.04.17-15.04.32:407][942]LogPhysics: Warning: Scale for /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Pressure_Plate_C_UAID_842AFD4B6BAD14ED01_1407699952.Plate has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.04.17-15.04.32:407][942]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Pressure_Plate_C_UAID_842AFD4B6BAD14ED01_1407699952.Plate' 
+[2024.04.17-15.04.32:408][942]LogPhysics: Warning: Scale for /Engine/Transient.World_15:PersistentLevel.BP_Pressure_Plate_C_0.Plate has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.04.17-15.04.32:408][942]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_15:PersistentLevel.BP_Pressure_Plate_C_0.Plate' 
+[2024.04.17-15.04.32:408][942]LogPhysics: Warning: Scale for /Engine/Transient.World_15:PersistentLevel.BP_Pressure_Plate_C_0.Plate has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.04.17-15.04.32:408][942]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_15:PersistentLevel.BP_Pressure_Plate_C_0.Plate' 
+[2024.04.17-15.04.32:409][942]LogPhysics: Warning: Scale for /Engine/Transient.World_15:PersistentLevel.BP_Pressure_Plate_C_0.Plate has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.04.17-15.04.32:409][942]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_15:PersistentLevel.BP_Pressure_Plate_C_0.Plate' 
+[2024.04.17-15.04.32:409][942]LogPhysics: Warning: Scale for /Engine/Transient.World_15:PersistentLevel.BP_Pressure_Plate_C_0.Plate has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.04.17-15.04.32:409][942]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_15:PersistentLevel.BP_Pressure_Plate_C_0.Plate' 
+[2024.04.17-15.04.35:902][ 85]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Pressure_Plate_C_UAID_842AFD4B6BAD14ED01_1407699952.Plate, from: Remove from navoctree)
+[2024.04.17-15.04.35:904][ 85]LogPhysics: Warning: Scale for /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Pressure_Plate_C_UAID_842AFD4B6BAD14ED01_1407699952.Plate has a component set to zero, which will result in a bad body instance. Scale:X=0.700 Y=0.000 Z=0.000
+[2024.04.17-15.04.35:905][ 85]LogPhysics: Warning: Scale for /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Pressure_Plate_C_UAID_842AFD4B6BAD14ED01_1407699952.Plate has a component set to zero, which will result in a bad body instance. Scale:X=0.700 Y=0.000 Z=0.000
+[2024.04.17-15.04.35:905][ 85]LogPhysics: Warning: Scale for /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Pressure_Plate_C_UAID_842AFD4B6BAD14ED01_1407699952.Plate has a component set to zero, which will result in a bad body instance. Scale:X=0.700 Y=0.000 Z=0.000
+[2024.04.17-15.04.35:905][ 85]LogPhysics: Warning: Scale for /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Pressure_Plate_C_UAID_842AFD4B6BAD14ED01_1407699952.Plate has a component set to zero, which will result in a bad body instance. Scale:X=0.700 Y=0.000 Z=0.000
+[2024.04.17-15.04.35:906][ 85]LogPhysics: Warning: Scale for /Engine/Transient.World_15:PersistentLevel.BP_Pressure_Plate_C_0.Plate has a component set to zero, which will result in a bad body instance. Scale:X=0.700 Y=0.000 Z=0.000
+[2024.04.17-15.04.35:906][ 85]LogPhysics: Warning: Scale for /Engine/Transient.World_15:PersistentLevel.BP_Pressure_Plate_C_0.Plate has a component set to zero, which will result in a bad body instance. Scale:X=0.700 Y=0.000 Z=0.000
+[2024.04.17-15.04.35:906][ 85]LogPhysics: Warning: Scale for /Engine/Transient.World_15:PersistentLevel.BP_Pressure_Plate_C_0.Plate has a component set to zero, which will result in a bad body instance. Scale:X=0.700 Y=0.000 Z=0.000
+[2024.04.17-15.04.35:906][ 85]LogPhysics: Warning: Scale for /Engine/Transient.World_15:PersistentLevel.BP_Pressure_Plate_C_0.Plate has a component set to zero, which will result in a bad body instance. Scale:X=0.700 Y=0.000 Z=0.000
+[2024.04.17-15.04.38:241][181]LogPhysics: Warning: Scale for /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Pressure_Plate_C_UAID_842AFD4B6BAD14ED01_1407699952.Plate has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.700 Z=0.000
+[2024.04.17-15.04.38:242][181]LogPhysics: Warning: Scale for /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Pressure_Plate_C_UAID_842AFD4B6BAD14ED01_1407699952.Plate has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.700 Z=0.000
+[2024.04.17-15.04.38:242][181]LogPhysics: Warning: Scale for /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Pressure_Plate_C_UAID_842AFD4B6BAD14ED01_1407699952.Plate has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.700 Z=0.000
+[2024.04.17-15.04.38:242][181]LogPhysics: Warning: Scale for /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Pressure_Plate_C_UAID_842AFD4B6BAD14ED01_1407699952.Plate has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.700 Z=0.000
+[2024.04.17-15.04.38:243][181]LogPhysics: Warning: Scale for /Engine/Transient.World_15:PersistentLevel.BP_Pressure_Plate_C_0.Plate has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.700 Z=0.000
+[2024.04.17-15.04.38:243][181]LogPhysics: Warning: Scale for /Engine/Transient.World_15:PersistentLevel.BP_Pressure_Plate_C_0.Plate has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.700 Z=0.000
+[2024.04.17-15.04.38:243][181]LogPhysics: Warning: Scale for /Engine/Transient.World_15:PersistentLevel.BP_Pressure_Plate_C_0.Plate has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.700 Z=0.000
+[2024.04.17-15.04.38:243][181]LogPhysics: Warning: Scale for /Engine/Transient.World_15:PersistentLevel.BP_Pressure_Plate_C_0.Plate has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.700 Z=0.000
+[2024.04.17-15.04.39:553][235]LogPhysics: Warning: Scale for /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Pressure_Plate_C_UAID_842AFD4B6BAD14ED01_1407699952.Plate has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.400 Z=2.000
+[2024.04.17-15.04.39:554][235]LogPhysics: Warning: Scale for /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Pressure_Plate_C_UAID_842AFD4B6BAD14ED01_1407699952.Plate has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.400 Z=2.000
+[2024.04.17-15.04.39:554][235]LogPhysics: Warning: Scale for /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Pressure_Plate_C_UAID_842AFD4B6BAD14ED01_1407699952.Plate has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.400 Z=2.000
+[2024.04.17-15.04.39:554][235]LogPhysics: Warning: Scale for /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Pressure_Plate_C_UAID_842AFD4B6BAD14ED01_1407699952.Plate has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.400 Z=2.000
+[2024.04.17-15.04.39:555][235]LogPhysics: Warning: Scale for /Engine/Transient.World_15:PersistentLevel.BP_Pressure_Plate_C_0.Plate has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.400 Z=2.000
+[2024.04.17-15.04.39:555][235]LogPhysics: Warning: Scale for /Engine/Transient.World_15:PersistentLevel.BP_Pressure_Plate_C_0.Plate has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.400 Z=2.000
+[2024.04.17-15.04.39:555][235]LogPhysics: Warning: Scale for /Engine/Transient.World_15:PersistentLevel.BP_Pressure_Plate_C_0.Plate has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.400 Z=2.000
+[2024.04.17-15.04.39:555][235]LogPhysics: Warning: Scale for /Engine/Transient.World_15:PersistentLevel.BP_Pressure_Plate_C_0.Plate has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.400 Z=2.000
+[2024.04.17-15.04.43:431][392]LogPhysics: Warning: Scale for /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Pressure_Plate_C_UAID_842AFD4B6BAD14ED01_1407699952.Plate has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.700 Z=1.000
+[2024.04.17-15.04.43:432][392]LogPhysics: Warning: Scale for /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Pressure_Plate_C_UAID_842AFD4B6BAD14ED01_1407699952.Plate has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.700 Z=1.000
+[2024.04.17-15.04.43:432][392]LogPhysics: Warning: Scale for /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Pressure_Plate_C_UAID_842AFD4B6BAD14ED01_1407699952.Plate has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.700 Z=1.000
+[2024.04.17-15.04.43:432][392]LogPhysics: Warning: Scale for /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Pressure_Plate_C_UAID_842AFD4B6BAD14ED01_1407699952.Plate has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.700 Z=1.000
+[2024.04.17-15.04.43:433][392]LogPhysics: Warning: Scale for /Engine/Transient.World_15:PersistentLevel.BP_Pressure_Plate_C_0.Plate has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.700 Z=1.000
+[2024.04.17-15.04.43:433][392]LogPhysics: Warning: Scale for /Engine/Transient.World_15:PersistentLevel.BP_Pressure_Plate_C_0.Plate has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.700 Z=1.000
+[2024.04.17-15.04.43:434][392]LogPhysics: Warning: Scale for /Engine/Transient.World_15:PersistentLevel.BP_Pressure_Plate_C_0.Plate has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.700 Z=1.000
+[2024.04.17-15.04.43:434][392]LogPhysics: Warning: Scale for /Engine/Transient.World_15:PersistentLevel.BP_Pressure_Plate_C_0.Plate has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.700 Z=1.000
+[2024.04.17-15.05.07:539][369]LogEditorTransaction: Undo Modify Component Scale
+[2024.04.17-15.05.12:204][543]LogViewport: Scene viewport resized to 1250x805, mode Windowed.
+[2024.04.17-15.05.12:276][545]LogViewport: Scene viewport resized to 1142x805, mode Windowed.
+[2024.04.17-15.05.12:307][546]LogViewport: Scene viewport resized to 1091x805, mode Windowed.
+[2024.04.17-15.05.12:990][572]LogViewport: Scene viewport resized to 1114x805, mode Windowed.
+[2024.04.17-15.05.13:063][574]LogViewport: Scene viewport resized to 1155x805, mode Windowed.
+[2024.04.17-15.05.13:419][589]LogViewport: Scene viewport resized to 1149x805, mode Windowed.
+[2024.04.17-15.05.13:494][591]LogViewport: Scene viewport resized to 1117x805, mode Windowed.
+[2024.04.17-15.05.24:854][ 23]LogEditorTransaction: Undo Modify Component Scale
+[2024.04.17-15.05.41:786][550]LogEditorTransaction: Undo Modify Component(s)
+[2024.04.17-15.05.56:282][ 99]BlueprintLog: New page: Compile BP_Pressure_Plate
+[2024.04.17-15.05.56:351][ 99]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2024.04.17-15.06.16:421][584]LogEditorTransaction: Undo Modify Component(s)
+[2024.04.17-15.06.45:852][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2024.04.17-15.06.45:858][ 80]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/P4/9UFN8J8R667PP2GS3BUI9B_Auto9
+[2024.04.17-15.06.45:858][ 80]LogSavePackage: Moving 'C:/Users/33638/OneDrive/Documents/GitHub/Projet_Saison_2_GD2/Saison_2_GD2_Projetc/Saved/9UFN8J8R667PP2GS3BUI9B_Auto9144EE3F04188A66AE1871C97F4BFAAE6.tmp' to 'C:/Users/33638/OneDrive/Documents/GitHub/Projet_Saison_2_GD2/Saison_2_GD2_Projetc/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/P4/9UFN8J8R667PP2GS3BUI9B_Auto9.uasset'
+[2024.04.17-15.06.45:859][ 80]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.035
+[2024.04.17-15.06.45:859][ 80]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.035
+[2024.04.17-15.06.45:860][ 80]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Pressure_Plate/BP_Pressure_Plate] ([2] browsable assets)...
+[2024.04.17-15.06.45:869][ 80]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Pressure_Plate/BP_Pressure_Plate.BP_Pressure_Plate]
+[2024.04.17-15.06.45:869][ 80]OBJ SavePackage: Finished generating thumbnails for package [/Game/Pressure_Plate/BP_Pressure_Plate]
+[2024.04.17-15.06.45:872][ 80]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Pressure_Plate/BP_Pressure_Plate_Auto9
+[2024.04.17-15.06.45:872][ 80]LogSavePackage: Moving 'C:/Users/33638/OneDrive/Documents/GitHub/Projet_Saison_2_GD2/Saison_2_GD2_Projetc/Saved/BP_Pressure_Plate_Auto9E853E40E4C967E0067F6789B4E22672F.tmp' to 'C:/Users/33638/OneDrive/Documents/GitHub/Projet_Saison_2_GD2/Saison_2_GD2_Projetc/Saved/Autosaves/Game/Pressure_Plate/BP_Pressure_Plate_Auto9.uasset'
+[2024.04.17-15.06.45:873][ 80]LogFileHelpers: Auto-saving content packages took 0.015
+[2024.04.17-15.07.02:394][272]BlueprintLog: New page: Compile BP_Pressure_Plate
+[2024.04.17-15.07.02:447][272]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2024.04.17-15.07.03:249][303]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.17-15.07.03:348][303]LogSavePackage: Moving output files for package: /Game/Pressure_Plate/BP_Pressure_Plate
+[2024.04.17-15.07.03:348][303]LogSavePackage: Moving 'C:/Users/33638/OneDrive/Documents/GitHub/Projet_Saison_2_GD2/Saison_2_GD2_Projetc/Saved/BP_Pressure_PlateBA6986DB42BFF2F9B797E5A7459E8782.tmp' to 'C:/Users/33638/OneDrive/Documents/GitHub/Projet_Saison_2_GD2/Saison_2_GD2_Projetc/Content/Pressure_Plate/BP_Pressure_Plate.uasset'
+[2024.04.17-15.07.03:359][303]LogFileHelpers: InternalPromptForCheckoutAndSave took 109 ms (total: 13.2 sec)
+[2024.04.17-15.07.03:365][303]AssetCheck: New page: Asset Save: BP_Pressure_Plate
+[2024.04.17-15.07.03:365][303]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Pressure_Plate/BP_Pressure_Plate.BP_Pressure_Plate
+[2024.04.17-15.07.07:790][503]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2024.04.17-15.07.07:799][503]LogContentBrowser: Creating deferred item: NewMaterial
+[2024.04.17-15.07.07:809][504]LogContentBrowser: Renaming the item being created (Deferred Item: NewMaterial).
+[2024.04.17-15.07.10:887][656]LogContentBrowser: Attempting asset rename: NewMaterial -> M_Plate
+[2024.04.17-15.07.10:888][656]LogContentBrowser: End creating deferred item NewMaterial
+[2024.04.17-15.07.12:001][707]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Pressure_Plate/M_Plate.M_Plate
+[2024.04.17-15.07.12:006][707]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.17-15.07.12:006][707]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.17-15.07.12:128][707]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.17-15.07.12:128][707]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.17-15.07.12:128][707]MaterialEditorStats: Shader Count: 0
+[2024.04.17-15.07.12:135][707]LogViewport: Scene viewport resized to 372x417, mode Windowed.
+[2024.04.17-15.07.17:076][901]LogShaderCompilers: Display: ================================================
+[2024.04.17-15.07.17:076][901]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.04.17-15.07.17:076][901]LogShaderCompilers: Display: Total job queries 612, among them cache hits 454 (74.18%)
+[2024.04.17-15.07.17:076][901]LogShaderCompilers: Display: Tracking 143 distinct input hashes that result in 75 distinct outputs (52.45%)
+[2024.04.17-15.07.17:076][901]LogShaderCompilers: Display: RAM used: 3,08 MiB of 819,20 MiB budget. Usage: 0.38%
+[2024.04.17-15.07.17:076][901]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.04.17-15.07.17:076][901]LogShaderCompilers: Display: Shaders Compiled: 121
+[2024.04.17-15.07.17:076][901]LogShaderCompilers: Display: Jobs assigned 124, completed 121 (97.58%)
+[2024.04.17-15.07.17:077][901]LogShaderCompilers: Display: Average time worker was idle: 138.32 s
+[2024.04.17-15.07.17:077][901]LogShaderCompilers: Display: Time job spent in pending queue: average 0.39 s, longest 2.37 s
+[2024.04.17-15.07.17:077][901]LogShaderCompilers: Display: Job execution time: average 1.39 s, max 6.77 s
+[2024.04.17-15.07.17:077][901]LogShaderCompilers: Display: Job life time (pending + execution): average 1.79 s, max 6.84
+[2024.04.17-15.07.17:077][901]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 55.00 s
+[2024.04.17-15.07.17:077][901]LogShaderCompilers: Display: Jobs were issued in 124 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.04.17-15.07.17:077][901]LogShaderCompilers: Display: Average processing rate: 2.20 jobs/sec
+[2024.04.17-15.07.17:077][901]LogShaderCompilers: Display: Total thread time: 97,052 s
+[2024.04.17-15.07.17:077][901]LogShaderCompilers: Display: Total thread preprocess time: 5,773 s
+[2024.04.17-15.07.17:077][901]LogShaderCompilers: Display: Percentage time preprocessing: 5.95%
+[2024.04.17-15.07.17:077][901]LogShaderCompilers: Display: Effective parallelization: 1.76 (times faster than compiling all shaders on one thread). Compare with number of workers: 4
+[2024.04.17-15.07.17:077][901]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.04.17-15.07.17:077][901]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   21 times, average 1.10 sec, max 2.15 sec, min 0.62 sec)
+[2024.04.17-15.07.17:077][901]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled   21 times, average 1.01 sec, max 1.79 sec, min 0.53 sec)
+[2024.04.17-15.07.17:077][901]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled   15 times, average 0.87 sec, max 1.61 sec, min 0.47 sec)
+[2024.04.17-15.07.17:077][901]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    4 times, average 0.71 sec, max 0.75 sec, min 0.67 sec)
+[2024.04.17-15.07.17:077][901]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled    4 times, average 0.70 sec, max 0.75 sec, min 0.66 sec)
+[2024.04.17-15.07.17:077][901]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.04.17-15.07.17:077][901]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 23.81% of total time (compiled   21 times, average 1.10 sec, max 2.15 sec, min 0.62 sec)
+[2024.04.17-15.07.17:077][901]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 21.96% of total time (compiled   21 times, average 1.01 sec, max 1.79 sec, min 0.53 sec)
+[2024.04.17-15.07.17:077][901]LogShaderCompilers: Display:                                                 FLumenCardVS - 13.38% of total time (compiled   15 times, average 0.87 sec, max 1.61 sec, min 0.47 sec)
+[2024.04.17-15.07.17:077][901]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 11.06% of total time (compiled   16 times, average 0.67 sec, max 1.19 sec, min 0.34 sec)
+[2024.04.17-15.07.17:077][901]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 2.91% of total time (compiled    4 times, average 0.71 sec, max 0.75 sec, min 0.67 sec)
+[2024.04.17-15.07.17:077][901]LogShaderCompilers: Display: ================================================
+[2024.04.17-15.07.17:269][904]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2024.04.17-15.07.17:269][904]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.17-15.07.17:269][904]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.17-15.07.17:269][904]MaterialEditorStats: Shader Count: 3
+[2024.04.17-15.07.17:368][906]MaterialEditorStats: Base pass shader: 222 instructions
+[2024.04.17-15.07.17:368][906]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2024.04.17-15.07.17:368][906]MaterialEditorStats: Texture samplers: 4/16
+[2024.04.17-15.07.17:368][906]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.17-15.07.17:368][906]MaterialEditorStats: Shader Count: 4
+[2024.04.17-15.07.28:457][330]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.17-15.07.28:458][330]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.17-15.07.28:458][330]MaterialEditorStats: Shader Count: 0
+[2024.04.17-15.07.29:486][370]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2024.04.17-15.07.29:486][370]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.17-15.07.29:486][370]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.17-15.07.29:486][370]MaterialEditorStats: Shader Count: 3
+[2024.04.17-15.07.29:588][374]MaterialEditorStats: Base pass shader: 222 instructions
+[2024.04.17-15.07.29:589][374]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2024.04.17-15.07.29:589][374]MaterialEditorStats: Texture samplers: 4/16
+[2024.04.17-15.07.29:589][374]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.17-15.07.29:589][374]MaterialEditorStats: Shader Count: 4
+[2024.04.17-15.07.44:214][560]LogSlate: Window 'Color Picker' being destroyed
+[2024.04.17-15.07.46:661][655]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.17-15.07.46:661][655]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.17-15.07.46:661][655]MaterialEditorStats: Shader Count: 0
+[2024.04.17-15.07.46:691][657]MaterialEditorStats: Base pass shader: 222 instructions
+[2024.04.17-15.07.46:692][657]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2024.04.17-15.07.46:692][657]MaterialEditorStats: Texture samplers: 4/16
+[2024.04.17-15.07.46:692][657]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.17-15.07.46:692][657]MaterialEditorStats: Shader Count: 2
+[2024.04.17-15.07.47:984][708]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.17-15.07.47:984][708]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.17-15.07.47:984][708]MaterialEditorStats: Shader Count: 0
+[2024.04.17-15.07.49:004][749]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2024.04.17-15.07.49:005][749]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.17-15.07.49:005][749]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.17-15.07.49:005][749]MaterialEditorStats: Shader Count: 3
+[2024.04.17-15.07.49:105][753]MaterialEditorStats: Base pass shader: 224 instructions
+[2024.04.17-15.07.49:105][753]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2024.04.17-15.07.49:105][753]MaterialEditorStats: Texture samplers: 4/16
+[2024.04.17-15.07.49:105][753]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.17-15.07.49:105][753]MaterialEditorStats: Shader Count: 4
+[2024.04.17-15.07.49:332][760]LogSlate: Window 'Color Picker' being destroyed
+[2024.04.17-15.07.49:343][760]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.17-15.07.49:343][760]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.17-15.07.49:344][760]MaterialEditorStats: Shader Count: 0
+[2024.04.17-15.07.49:394][762]MaterialEditorStats: Base pass shader: 224 instructions
+[2024.04.17-15.07.49:394][762]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2024.04.17-15.07.49:394][762]MaterialEditorStats: Texture samplers: 4/16
+[2024.04.17-15.07.49:394][762]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.17-15.07.49:394][762]MaterialEditorStats: Shader Count: 2
+[2024.04.17-15.07.52:722][890]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.17-15.07.52:723][890]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.17-15.07.52:723][890]MaterialEditorStats: Shader Count: 0
+[2024.04.17-15.07.52:752][892]MaterialEditorStats: Base pass shader: 224 instructions
+[2024.04.17-15.07.52:752][892]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2024.04.17-15.07.52:752][892]MaterialEditorStats: Texture samplers: 4/16
+[2024.04.17-15.07.52:752][892]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.17-15.07.52:752][892]MaterialEditorStats: Shader Count: 2
+[2024.04.17-15.07.55:005][976]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.17-15.07.55:005][976]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.17-15.07.55:005][976]MaterialEditorStats: Shader Count: 0
+[2024.04.17-15.07.56:111][ 20]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2024.04.17-15.07.56:111][ 20]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.17-15.07.56:111][ 20]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.17-15.07.56:111][ 20]MaterialEditorStats: Shader Count: 3
+[2024.04.17-15.07.56:212][ 24]MaterialEditorStats: Base pass shader: 224 instructions
+[2024.04.17-15.07.56:212][ 24]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2024.04.17-15.07.56:212][ 24]MaterialEditorStats: Texture samplers: 4/16
+[2024.04.17-15.07.56:212][ 24]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.17-15.07.56:212][ 24]MaterialEditorStats: Shader Count: 4
+[2024.04.17-15.07.56:296][ 25]LogSlate: Window 'Color Picker' being destroyed
+[2024.04.17-15.07.56:308][ 25]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.17-15.07.56:308][ 25]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.17-15.07.56:308][ 25]MaterialEditorStats: Shader Count: 0
+[2024.04.17-15.07.56:357][ 27]MaterialEditorStats: Base pass shader: 224 instructions
+[2024.04.17-15.07.56:357][ 27]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2024.04.17-15.07.56:357][ 27]MaterialEditorStats: Texture samplers: 4/16
+[2024.04.17-15.07.56:357][ 27]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.17-15.07.56:357][ 27]MaterialEditorStats: Shader Count: 2
+[2024.04.17-15.08.09:899][163]LogMaterialEditor: Saving and Compiling material M_Plate
+[2024.04.17-15.08.10:323][163]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2024.04.17-15.08.11:032][163]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2024.04.17-15.08.11:043][163]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.17-15.08.13:158][163]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2024.04.17-15.08.13:666][163]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.004414s (0.513873s overbudget)
+[2024.04.17-15.08.13:687][163]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Pressure_Plate/M_Plate" FILE="C:/Users/33638/OneDrive/Documents/GitHub/Projet_Saison_2_GD2/Saison_2_GD2_Projetc/Content/Pressure_Plate/M_Plate.uasset" SILENT=true
+[2024.04.17-15.08.13:689][163]LogSavePackage: Moving output files for package: /Game/Pressure_Plate/M_Plate
+[2024.04.17-15.08.13:689][163]LogSavePackage: Moving 'C:/Users/33638/OneDrive/Documents/GitHub/Projet_Saison_2_GD2/Saison_2_GD2_Projetc/Saved/M_Plate717D2B2A403247C0AFBB6AB4AC0A0291.tmp' to 'C:/Users/33638/OneDrive/Documents/GitHub/Projet_Saison_2_GD2/Saison_2_GD2_Projetc/Content/Pressure_Plate/M_Plate.uasset'
+[2024.04.17-15.08.13:698][163]LogFileHelpers: InternalPromptForCheckoutAndSave took 2.65 sec (total: 15.9 sec)
+[2024.04.17-15.08.13:704][163]AssetCheck: New page: Asset Save: M_Plate
+[2024.04.17-15.08.13:704][163]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Pressure_Plate/M_Plate.M_Plate
+[2024.04.17-15.08.13:705][163]MaterialEditorStats: Base pass shader: 224 instructions
+[2024.04.17-15.08.13:705][163]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2024.04.17-15.08.13:705][163]MaterialEditorStats: MaxSampler: 271 instructions
+[2024.04.17-15.08.13:705][163]MaterialEditorStats: Texture samplers: 5/16
+[2024.04.17-15.08.13:705][163]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.17-15.08.13:705][163]MaterialEditorStats: Shader Count: 16
+[2024.04.17-15.08.13:724][164]LogAutomationController: Ignoring very large delta of 3.84 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.04.17-15.08.46:222][699]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2024.04.17-15.10.31:861][258]LogEditorTransaction: Undo Move Nodes
+[2024.04.17-15.13.34:393][793]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2024.04.17-15.14.41:404][225]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2024.04.17-15.16.18:879][531]BlueprintLog: New page: Compile BP_Pressure_Plate
+[2024.04.17-15.16.18:990][531]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2024.04.17-15.16.20:206][588]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.17-15.16.20:328][588]LogSavePackage: Moving output files for package: /Game/Pressure_Plate/BP_Pressure_Plate
+[2024.04.17-15.16.20:329][588]LogSavePackage: Moving 'C:/Users/33638/OneDrive/Documents/GitHub/Projet_Saison_2_GD2/Saison_2_GD2_Projetc/Saved/BP_Pressure_PlateEA3406034A52C7A2AA3F1DAD8E5247EC.tmp' to 'C:/Users/33638/OneDrive/Documents/GitHub/Projet_Saison_2_GD2/Saison_2_GD2_Projetc/Content/Pressure_Plate/BP_Pressure_Plate.uasset'
+[2024.04.17-15.16.20:338][588]LogFileHelpers: InternalPromptForCheckoutAndSave took 131 ms (total: 16.0 sec)
+[2024.04.17-15.16.20:347][588]AssetCheck: New page: Asset Save: BP_Pressure_Plate
+[2024.04.17-15.16.20:347][588]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Pressure_Plate/BP_Pressure_Plate.BP_Pressure_Plate
+[2024.04.17-15.17.03:483][590]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2024.04.17-15.17.03:488][590]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/P4/9UFN8J8R667PP2GS3BUI9B_Auto0
+[2024.04.17-15.17.03:488][590]LogSavePackage: Moving 'C:/Users/33638/OneDrive/Documents/GitHub/Projet_Saison_2_GD2/Saison_2_GD2_Projetc/Saved/9UFN8J8R667PP2GS3BUI9B_Auto0CD94EA3F4F009C91A7BDA3BB51F50AF9.tmp' to 'C:/Users/33638/OneDrive/Documents/GitHub/Projet_Saison_2_GD2/Saison_2_GD2_Projetc/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/P4/9UFN8J8R667PP2GS3BUI9B_Auto0.uasset'
+[2024.04.17-15.17.03:489][590]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.032
+[2024.04.17-15.17.03:489][590]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.032
+[2024.04.17-15.17.03:489][590]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Pressure_Plate/BP_Pressure_Plate] ([2] browsable assets)...
+[2024.04.17-15.17.03:510][590]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Pressure_Plate/BP_Pressure_Plate.BP_Pressure_Plate]
+[2024.04.17-15.17.03:510][590]OBJ SavePackage: Finished generating thumbnails for package [/Game/Pressure_Plate/BP_Pressure_Plate]
+[2024.04.17-15.17.03:514][590]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Pressure_Plate/BP_Pressure_Plate_Auto0
+[2024.04.17-15.17.03:514][590]LogSavePackage: Moving 'C:/Users/33638/OneDrive/Documents/GitHub/Projet_Saison_2_GD2/Saison_2_GD2_Projetc/Saved/BP_Pressure_Plate_Auto09C2F7AE34D9C5959CE7FECAFDCFCB418.tmp' to 'C:/Users/33638/OneDrive/Documents/GitHub/Projet_Saison_2_GD2/Saison_2_GD2_Projetc/Saved/Autosaves/Game/Pressure_Plate/BP_Pressure_Plate_Auto0.uasset'
+[2024.04.17-15.17.03:515][590]LogFileHelpers: Auto-saving content packages took 0.026
+[2024.04.17-15.17.32:388][371]BlueprintLog: New page: Compile BP_Pressure_Plate
+[2024.04.17-15.17.32:453][371]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2024.04.17-15.17.33:206][406]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.17-15.17.33:307][406]LogSavePackage: Moving output files for package: /Game/Pressure_Plate/BP_Pressure_Plate
+[2024.04.17-15.17.33:307][406]LogSavePackage: Moving 'C:/Users/33638/OneDrive/Documents/GitHub/Projet_Saison_2_GD2/Saison_2_GD2_Projetc/Saved/BP_Pressure_Plate1538DE3A4A9EE7F0CCD2BFB321E21564.tmp' to 'C:/Users/33638/OneDrive/Documents/GitHub/Projet_Saison_2_GD2/Saison_2_GD2_Projetc/Content/Pressure_Plate/BP_Pressure_Plate.uasset'
+[2024.04.17-15.17.33:316][406]LogFileHelpers: InternalPromptForCheckoutAndSave took 110 ms (total: 16.1 sec)
+[2024.04.17-15.17.33:322][406]AssetCheck: New page: Asset Save: BP_Pressure_Plate
+[2024.04.17-15.17.33:322][406]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Pressure_Plate/BP_Pressure_Plate.BP_Pressure_Plate
+[2024.04.17-15.21.06:937][581]BlueprintLog: New page: Compile BP_Pressure_Plate
+[2024.04.17-15.21.06:998][581]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2024.04.17-15.21.07:689][613]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.17-15.21.07:790][613]LogSavePackage: Moving output files for package: /Game/Pressure_Plate/BP_Pressure_Plate
+[2024.04.17-15.21.07:791][613]LogSavePackage: Moving 'C:/Users/33638/OneDrive/Documents/GitHub/Projet_Saison_2_GD2/Saison_2_GD2_Projetc/Saved/BP_Pressure_Plate7035972040A87D17ED2202814895B005.tmp' to 'C:/Users/33638/OneDrive/Documents/GitHub/Projet_Saison_2_GD2/Saison_2_GD2_Projetc/Content/Pressure_Plate/BP_Pressure_Plate.uasset'
+[2024.04.17-15.21.07:800][613]LogFileHelpers: InternalPromptForCheckoutAndSave took 110 ms (total: 16.3 sec)
+[2024.04.17-15.21.07:807][613]AssetCheck: New page: Asset Save: BP_Pressure_Plate
+[2024.04.17-15.21.07:807][613]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Pressure_Plate/BP_Pressure_Plate.BP_Pressure_Plate
+[2024.04.17-15.21.24:004][892]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.17-15.21.24:012][892]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.04.17-15.21.24:013][892]LogWorldPartition: Display: GenerateStreaming started...
+[2024.04.17-15.21.24:013][892]LogWorldPartition: Display: GetPartitionedActors started...
+[2024.04.17-15.21.24:013][892]LogWorldPartition: Display: GetPartitionedActors took 10 us (total: 3 ms)
+[2024.04.17-15.21.24:014][892]LogWorldPartition: Display: GenerateStreaming took 182 us (total: 4 ms)
+[2024.04.17-15.21.24:021][892]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.17-15.21.24:021][892]PIE: New page: PIE session: ThirdPersonMap (17 avr. 2024 à 19:21:24)
+[2024.04.17-15.21.24:021][892]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.04.17-15.21.24:046][892]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025439s)
+[2024.04.17-15.21.24:046][892]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.025475s)
+[2024.04.17-15.21.24:046][892]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.17-15.21.24:046][892]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.17-15.21.24:046][892]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.04.17-15.21.24:048][892]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.04.17-15.21.24:048][892]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.04.17-15.21.24:048][892]LogWorldPartition: UWorldPartition::Initialize(Asset=ThirdPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2024.04.17-15.21.24:049][892]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2024.04.17-15.21.24:049][892]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 2.05 sec)
+[2024.04.17-15.21.24:049][892]LogPlayLevel: PIE: World Init took: (0.002382s)
+[2024.04.17-15.21.24:075][892]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2024.04.17-15.21.24:076][892]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2024.04.17-15.21.24:076][892]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.17-15.21.24:076][892]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.17-15.21.24:077][892]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.17-15.21.24:077][892]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.17-15.21.24:077][892]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.17-15.21.24:077][892]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.04.17-15.21.24:077][892]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.17-15.21.24:077][892]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.17-15.21.24:077][892]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.17-15.21.24:077][892]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.17-15.21.24:077][892]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.17-15.21.24:079][892]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.17-15.21.24:115][892]LogAudioMixer: Display: Using Audio Hardware Device Headphone (Realtek(R) Audio)
+[2024.04.17-15.21.24:115][892]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.17-15.21.24:115][892]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.17-15.21.24:115][892]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.17-15.21.24:116][892]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2024.04.17-15.21.24:116][892]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2024.04.17-15.21.24:118][892]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2024.04.17-15.21.24:118][892]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2024.04.17-15.21.24:118][892]LogInit: FAudioDevice initialized with ID 5.
+[2024.04.17-15.21.24:118][892]LogAudio: Display: Audio Device (ID: 5) registered with world 'ThirdPersonMap'.
+[2024.04.17-15.21.24:118][892]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2024.04.17-15.21.24:121][892]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.04.17-15.21.24:123][892]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2024.04.17-17.21.24
+[2024.04.17-15.21.24:124][892]LogWorld: Bringing up level for play took: 0.003184
+[2024.04.17-15.21.24:126][892]LogOnline: OSS: Created online subsystem instance for: :Context_21
+[2024.04.17-15.21.24:131][892]PIE: Server logged in
+[2024.04.17-15.21.24:132][892]PIE: Play in editor total start time 0,12 seconds.
+[2024.04.17-15.21.32:242][159]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.17-15.21.32:242][159]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.04.17-15.21.32:242][159]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.04.17-15.21.32:242][159]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.17-15.21.32:242][159]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.04.17-15.21.32:263][159]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.17-15.21.32:267][159]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.17-15.21.32:295][159]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.17-15.21.32:295][159]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2024.04.17-15.21.32:295][159]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.04.17-15.21.32:297][159]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.04.17-15.21.32:300][159]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.17-15.21.32:305][159]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2024.04.17-15.21.32:348][160]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2024.04.17-15.21.42:728][275]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Color 'Graph.Node.Comment.TextColor'.'
+[2024.04.17-15.21.47:858][521]BlueprintLog: New page: Compile BP_Pressure_Plate
+[2024.04.17-15.21.47:914][521]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2024.04.17-15.21.48:865][566]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.17-15.21.48:989][566]LogSavePackage: Moving output files for package: /Game/Pressure_Plate/BP_Pressure_Plate
+[2024.04.17-15.21.48:989][566]LogSavePackage: Moving 'C:/Users/33638/OneDrive/Documents/GitHub/Projet_Saison_2_GD2/Saison_2_GD2_Projetc/Saved/BP_Pressure_Plate8D8B746B47CC62F8F58227A21FA50D69.tmp' to 'C:/Users/33638/OneDrive/Documents/GitHub/Projet_Saison_2_GD2/Saison_2_GD2_Projetc/Content/Pressure_Plate/BP_Pressure_Plate.uasset'
+[2024.04.17-15.21.48:999][566]LogFileHelpers: InternalPromptForCheckoutAndSave took 133 ms (total: 16.4 sec)
+[2024.04.17-15.21.49:004][566]AssetCheck: New page: Asset Save: BP_Pressure_Plate
+[2024.04.17-15.21.49:004][566]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Pressure_Plate/BP_Pressure_Plate.BP_Pressure_Plate
+[2024.04.17-15.21.56:457][805]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2024.04.17-15.22.48:945][962]LogDerivedDataCache: C:/Users/33638/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:45.391 and deleted 42 files with total size 0 MiB and 42 empty folders. Scanned 23086 files in 25256 folders with total size 4225 MiB.
+[2024.04.17-15.23.02:271][  2]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2024.04.17-15.23.15:432][ 42]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2024.04.17-15.23.29:855][ 85]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2024.04.17-15.23.50:184][145]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2024.04.17-15.24.17:242][226]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2024.04.17-15.24.44:500][752]BlueprintLog: New page: Compile BP_Pressure_Plate
+[2024.04.17-15.24.44:564][752]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2024.04.17-15.24.45:209][783]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.17-15.24.45:328][783]LogSavePackage: Moving output files for package: /Game/Pressure_Plate/BP_Pressure_Plate
+[2024.04.17-15.24.45:328][783]LogSavePackage: Moving 'C:/Users/33638/OneDrive/Documents/GitHub/Projet_Saison_2_GD2/Saison_2_GD2_Projetc/Saved/BP_Pressure_PlateC4F2FD1E4A2D969B7A5E85B20966630E.tmp' to 'C:/Users/33638/OneDrive/Documents/GitHub/Projet_Saison_2_GD2/Saison_2_GD2_Projetc/Content/Pressure_Plate/BP_Pressure_Plate.uasset'
+[2024.04.17-15.24.45:337][783]LogFileHelpers: InternalPromptForCheckoutAndSave took 128 ms (total: 16.5 sec)
+[2024.04.17-15.24.45:343][783]AssetCheck: New page: Asset Save: BP_Pressure_Plate
+[2024.04.17-15.24.45:343][783]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Pressure_Plate/BP_Pressure_Plate.BP_Pressure_Plate
+[2024.04.17-15.25.57:476][544]BlueprintLog: New page: Compile BP_Pressure_Plate
+[2024.04.17-15.25.57:531][544]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2024.04.17-15.25.58:084][568]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.17-15.25.58:204][568]LogSavePackage: Moving output files for package: /Game/Pressure_Plate/BP_Pressure_Plate
+[2024.04.17-15.25.58:205][568]LogSavePackage: Moving 'C:/Users/33638/OneDrive/Documents/GitHub/Projet_Saison_2_GD2/Saison_2_GD2_Projetc/Saved/BP_Pressure_Plate112DECEB47019B98A086C1A5E24A807B.tmp' to 'C:/Users/33638/OneDrive/Documents/GitHub/Projet_Saison_2_GD2/Saison_2_GD2_Projetc/Content/Pressure_Plate/BP_Pressure_Plate.uasset'
+[2024.04.17-15.25.58:214][568]LogFileHelpers: InternalPromptForCheckoutAndSave took 130 ms (total: 16.6 sec)
+[2024.04.17-15.25.58:220][568]AssetCheck: New page: Asset Save: BP_Pressure_Plate
+[2024.04.17-15.25.58:220][568]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Pressure_Plate/BP_Pressure_Plate.BP_Pressure_Plate
+[2024.04.17-15.26.00:175][666]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.17-15.26.00:183][666]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.04.17-15.26.00:184][666]LogWorldPartition: Display: GenerateStreaming started...
+[2024.04.17-15.26.00:184][666]LogWorldPartition: Display: GetPartitionedActors started...
+[2024.04.17-15.26.00:184][666]LogWorldPartition: Display: GetPartitionedActors took 8 us (total: 3 ms)
+[2024.04.17-15.26.00:185][666]LogWorldPartition: Display: GenerateStreaming took 181 us (total: 5 ms)
+[2024.04.17-15.26.00:185][666]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.17-15.26.00:185][666]PIE: New page: PIE session: ThirdPersonMap (17 avr. 2024 à 19:26:00)
+[2024.04.17-15.26.00:185][666]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.04.17-15.26.00:190][666]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006450s)
+[2024.04.17-15.26.00:190][666]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.006490s)
+[2024.04.17-15.26.00:190][666]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.17-15.26.00:190][666]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.17-15.26.00:192][666]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.04.17-15.26.00:192][666]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.04.17-15.26.00:192][666]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.04.17-15.26.00:192][666]LogWorldPartition: UWorldPartition::Initialize(Asset=ThirdPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2024.04.17-15.26.00:194][666]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2024.04.17-15.26.00:194][666]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 2.05 sec)
+[2024.04.17-15.26.00:194][666]LogPlayLevel: PIE: World Init took: (0.002500s)
+[2024.04.17-15.26.00:219][666]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2024.04.17-15.26.00:220][666]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2024.04.17-15.26.00:220][666]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.17-15.26.00:220][666]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.17-15.26.00:220][666]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.17-15.26.00:220][666]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.17-15.26.00:220][666]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.17-15.26.00:220][666]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.04.17-15.26.00:220][666]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.17-15.26.00:220][666]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.17-15.26.00:220][666]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.17-15.26.00:221][666]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.17-15.26.00:221][666]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.17-15.26.00:223][666]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.17-15.26.00:258][666]LogAudioMixer: Display: Using Audio Hardware Device Headphone (Realtek(R) Audio)
+[2024.04.17-15.26.00:259][666]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.17-15.26.00:259][666]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.17-15.26.00:259][666]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.17-15.26.00:260][666]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2024.04.17-15.26.00:260][666]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2024.04.17-15.26.00:262][666]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2024.04.17-15.26.00:262][666]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2024.04.17-15.26.00:262][666]LogInit: FAudioDevice initialized with ID 6.
+[2024.04.17-15.26.00:262][666]LogAudio: Display: Audio Device (ID: 6) registered with world 'ThirdPersonMap'.
+[2024.04.17-15.26.00:262][666]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2024.04.17-15.26.00:265][666]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.04.17-15.26.00:268][666]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2024.04.17-17.26.00
+[2024.04.17-15.26.00:268][666]LogWorld: Bringing up level for play took: 0.003227
+[2024.04.17-15.26.00:271][666]LogOnline: OSS: Created online subsystem instance for: :Context_22
+[2024.04.17-15.26.00:276][666]PIE: Server logged in
+[2024.04.17-15.26.00:277][666]PIE: Play in editor total start time 0,094 seconds.
+[2024.04.17-15.26.13:941][227]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.17-15.26.13:941][227]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.04.17-15.26.13:941][227]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.04.17-15.26.13:941][227]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.17-15.26.13:941][227]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.04.17-15.26.13:959][227]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.17-15.26.13:963][227]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.17-15.26.13:987][227]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.17-15.26.13:987][227]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2024.04.17-15.26.13:987][227]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2024.04.17-15.26.13:990][227]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2024.04.17-15.26.13:994][227]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.17-15.26.13:997][227]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2024.04.17-15.26.14:038][228]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2024.04.17-15.27.25:727][454]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2024.04.17-15.27.25:729][454]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/P4/9UFN8J8R667PP2GS3BUI9B_Auto1
+[2024.04.17-15.27.25:729][454]LogSavePackage: Moving 'C:/Users/33638/OneDrive/Documents/GitHub/Projet_Saison_2_GD2/Saison_2_GD2_Projetc/Saved/9UFN8J8R667PP2GS3BUI9B_Auto11BF374F54A97DDE3F1D727A2D6670A62.tmp' to 'C:/Users/33638/OneDrive/Documents/GitHub/Projet_Saison_2_GD2/Saison_2_GD2_Projetc/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/P4/9UFN8J8R667PP2GS3BUI9B_Auto1.uasset'
+[2024.04.17-15.27.25:731][454]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.034
+[2024.04.17-15.27.25:731][454]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.034
+[2024.04.17-15.27.38:106][527]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.17-15.27.38:216][527]LogSavePackage: Moving output files for package: /Game/Pressure_Plate/BP_Pressure_Plate
+[2024.04.17-15.27.38:216][527]LogSavePackage: Moving 'C:/Users/33638/OneDrive/Documents/GitHub/Projet_Saison_2_GD2/Saison_2_GD2_Projetc/Saved/BP_Pressure_PlateCCFFC3C4422967D4F93D07B7ABFF3711.tmp' to 'C:/Users/33638/OneDrive/Documents/GitHub/Projet_Saison_2_GD2/Saison_2_GD2_Projetc/Content/Pressure_Plate/BP_Pressure_Plate.uasset'
+[2024.04.17-15.27.38:226][527]LogFileHelpers: InternalPromptForCheckoutAndSave took 120 ms (total: 16.8 sec)
+[2024.04.17-15.27.38:232][527]AssetCheck: New page: Asset Save: BP_Pressure_Plate
+[2024.04.17-15.27.38:232][527]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Pressure_Plate/BP_Pressure_Plate.BP_Pressure_Plate
+[2024.04.17-15.27.38:819][556]BlueprintLog: New page: Compile BP_Pressure_Plate
+[2024.04.17-15.27.38:877][556]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2024.04.17-15.27.41:612][680]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2024.04.17-15.27.41:612][680]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.17-15.27.42:341][712]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2024.04.17-15.27.42:341][712]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.17-15.27.43:243][751]LogSlate: Window 'BP_ThirdPersonCharacter' being destroyed
+[2024.04.17-15.27.43:255][751]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.04.17-15.27.43:255][751]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2024.04.17-15.27.43:255][751]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.17-15.27.45:317][847]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.17-15.27.45:419][847]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/P4/9UFN8J8R667PP2GS3BUI9B
+[2024.04.17-15.27.45:419][847]LogSavePackage: Moving 'C:/Users/33638/OneDrive/Documents/GitHub/Projet_Saison_2_GD2/Saison_2_GD2_Projetc/Saved/9UFN8J8R667PP2GS3BUI9BDD06B34F48891A49EAF03B940F3EED48.tmp' to 'C:/Users/33638/OneDrive/Documents/GitHub/Projet_Saison_2_GD2/Saison_2_GD2_Projetc/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/P4/9UFN8J8R667PP2GS3BUI9B.uasset'
+[2024.04.17-15.27.45:431][847]LogFileHelpers: InternalPromptForCheckoutAndSave took 113 ms (total: 16.9 sec)
+[2024.04.17-15.27.45:437][847]AssetCheck: New page: Asset Save: BP_Pressure_Plate_C_UAID_842AFD4B6BAD14ED01_1407699952
+[2024.04.17-15.27.45:437][847]LogContentValidation: Display: Validating /Game/Pressure_Plate/BP_Pressure_Plate.BP_Pressure_Plate_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Pressure_Plate_C_UAID_842AFD4B6BAD14ED01_1407699952
+[2024.04.17-15.28.07:697][815]LogViewport: Scene viewport resized to 1114x848, mode Windowed.
+[2024.04.17-15.28.25:329][770]LogViewport: Scene viewport resized to 1523x848, mode Windowed.
+[2024.04.17-15.28.27:374][874]Cmd: SELECT NONE
+[2024.04.17-15.28.29:893][992]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
