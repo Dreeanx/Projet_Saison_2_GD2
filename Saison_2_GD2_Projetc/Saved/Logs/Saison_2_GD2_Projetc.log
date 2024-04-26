@@ -3885,3 +3885,181 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.04.26-16.07.35:281][793]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
 [2024.04.26-16.07.35:366][793]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
 [2024.04.26-16.07.35:366][793]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.26-16.09.50:343][903]LogViewport: Scene viewport resized to 374x452, mode Windowed.
+[2024.04.26-16.09.50:374][904]LogViewport: Scene viewport resized to 374x446, mode Windowed.
+[2024.04.26-16.09.50:399][905]LogViewport: Scene viewport resized to 374x440, mode Windowed.
+[2024.04.26-16.09.50:426][906]LogViewport: Scene viewport resized to 374x432, mode Windowed.
+[2024.04.26-16.09.50:455][907]LogViewport: Scene viewport resized to 374x426, mode Windowed.
+[2024.04.26-16.09.50:482][908]LogViewport: Scene viewport resized to 374x421, mode Windowed.
+[2024.04.26-16.09.52:193][  3]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2024.04.26-16.09.52:239][  4]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2024.04.26-16.09.52:283][  5]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.04.26-16.09.52:325][  6]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2024.04.26-16.09.52:373][  7]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.04.26-16.09.52:417][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2024.04.26-16.09.52:456][  9]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2024.04.26-16.09.52:496][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2024.04.26-16.09.52:536][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2024.04.26-16.09.52:577][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2024.04.26-16.09.52:616][ 13]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2024.04.26-16.09.52:659][ 14]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2024.04.26-16.09.52:700][ 15]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2024.04.26-16.09.52:741][ 16]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2024.04.26-16.09.52:783][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2024.04.26-16.09.52:837][ 18]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2024.04.26-16.09.54:978][142]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2024.04.26-16.09.55:142][142]LogScript: Warning: Attempted to access REINST_BP_ThirdPersonCharacter_C_1 via property Character, but REINST_BP_ThirdPersonCharacter_C_1 is not valid (pending kill or garbage)
+	ABP_Quinn_C /Engine/Transient.World_6:PersistentLevel.REINST_BP_ThirdPersonCharacter_C_1.CharacterMesh0.ABP_Quinn_C_0
+	Function /Game/Characters/Mannequins/Animations/ABP_Manny.ABP_Manny_C:ExecuteUbergraph_ABP_Manny:0350
+[2024.04.26-16.09.55:143][142]LogScript: Warning: Attempted to access REINST_BP_ThirdPersonCharacter_C_1 via property Character, but REINST_BP_ThirdPersonCharacter_C_1 is not valid (pending kill or garbage)
+	ABP_Quinn_C /Engine/Transient.World_24:PersistentLevel.REINST_BP_ThirdPersonCharacter_C_1.CharacterMesh0.ABP_Quinn_C_1
+	Function /Game/Characters/Mannequins/Animations/ABP_Manny.ABP_Manny_C:ExecuteUbergraph_ABP_Manny:0350
+[2024.04.26-16.09.55:144][142]LogScript: Warning: Attempted to access REINST_BP_ThirdPersonCharacter_C_2 via property Character, but REINST_BP_ThirdPersonCharacter_C_2 is not valid (pending kill or garbage)
+	ABP_Quinn_C /Engine/Transient.World_19:PersistentLevel.REINST_BP_ThirdPersonCharacter_C_2.CharacterMesh0.ABP_Quinn_C_1
+	Function /Game/Characters/Mannequins/Animations/ABP_Manny.ABP_Manny_C:ExecuteUbergraph_ABP_Manny:0350
+[2024.04.26-16.09.55:173][142]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2024.04.26-16.13.55:185][251]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2024.04.26-16.13.55:189][251]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.26-16.13.55:288][251]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Level1/8/BH/LKH9QHIITTO24U8SBTKP8P
+[2024.04.26-16.13.55:289][251]LogSavePackage: Moving 'C:/Users/33638/OneDrive/Documents/GitHub/Projet_Saison_2_GD2/Saison_2_GD2_Projetc/Saved/LKH9QHIITTO24U8SBTKP8PAECA818A4DCC3AE0A18DE88F80D9C064.tmp' to 'C:/Users/33638/OneDrive/Documents/GitHub/Projet_Saison_2_GD2/Saison_2_GD2_Projetc/Content/__ExternalActors__/Maps/Level1/8/BH/LKH9QHIITTO24U8SBTKP8P.uasset'
+[2024.04.26-16.13.55:303][251]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Level1/A/HJ/2SDR2YPQCWWJRDEB36XEDX
+[2024.04.26-16.13.55:304][251]LogSavePackage: Moving 'C:/Users/33638/OneDrive/Documents/GitHub/Projet_Saison_2_GD2/Saison_2_GD2_Projetc/Saved/2SDR2YPQCWWJRDEB36XEDX369372D246D5A4197BBC25BFF73486B6.tmp' to 'C:/Users/33638/OneDrive/Documents/GitHub/Projet_Saison_2_GD2/Saison_2_GD2_Projetc/Content/__ExternalActors__/Maps/Level1/A/HJ/2SDR2YPQCWWJRDEB36XEDX.uasset'
+[2024.04.26-16.13.55:316][251]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Level1/9/K1/4HFJV4XS0UB98RPNRHQOTU
+[2024.04.26-16.13.55:316][251]LogSavePackage: Moving 'C:/Users/33638/OneDrive/Documents/GitHub/Projet_Saison_2_GD2/Saison_2_GD2_Projetc/Saved/4HFJV4XS0UB98RPNRHQOTU0D38CEA047911888BCE0F9891795E90C.tmp' to 'C:/Users/33638/OneDrive/Documents/GitHub/Projet_Saison_2_GD2/Saison_2_GD2_Projetc/Content/__ExternalActors__/Maps/Level1/9/K1/4HFJV4XS0UB98RPNRHQOTU.uasset'
+[2024.04.26-16.13.55:331][251]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Level1/B/L7/VBL5RX2G5TDQWH6L26BHK6
+[2024.04.26-16.13.55:331][251]LogSavePackage: Moving 'C:/Users/33638/OneDrive/Documents/GitHub/Projet_Saison_2_GD2/Saison_2_GD2_Projetc/Saved/VBL5RX2G5TDQWH6L26BHK6E1792704425C16B113DD11BB43F827FD.tmp' to 'C:/Users/33638/OneDrive/Documents/GitHub/Projet_Saison_2_GD2/Saison_2_GD2_Projetc/Content/__ExternalActors__/Maps/Level1/B/L7/VBL5RX2G5TDQWH6L26BHK6.uasset'
+[2024.04.26-16.13.55:332][251]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Level1/4/GC/MIJ0501FW5KBVFK9LHN1F4
+[2024.04.26-16.13.55:333][251]LogSavePackage: Moving 'C:/Users/33638/OneDrive/Documents/GitHub/Projet_Saison_2_GD2/Saison_2_GD2_Projetc/Saved/MIJ0501FW5KBVFK9LHN1F4A5B7AB044D42F6EDBA0757937D6C4690.tmp' to 'C:/Users/33638/OneDrive/Documents/GitHub/Projet_Saison_2_GD2/Saison_2_GD2_Projetc/Content/__ExternalActors__/Maps/Level1/4/GC/MIJ0501FW5KBVFK9LHN1F4.uasset'
+[2024.04.26-16.13.55:335][251]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Level1/7/PF/O8PXD5H8SBBJFUMWD1LUVP
+[2024.04.26-16.13.55:335][251]LogSavePackage: Moving 'C:/Users/33638/OneDrive/Documents/GitHub/Projet_Saison_2_GD2/Saison_2_GD2_Projetc/Saved/O8PXD5H8SBBJFUMWD1LUVP0DA88F4447D9B7A8186E4192A44118DC.tmp' to 'C:/Users/33638/OneDrive/Documents/GitHub/Projet_Saison_2_GD2/Saison_2_GD2_Projetc/Content/__ExternalActors__/Maps/Level1/7/PF/O8PXD5H8SBBJFUMWD1LUVP.uasset'
+[2024.04.26-16.13.55:338][251]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Level1/1/66/87EKA7JODX9JJE74RNKR62
+[2024.04.26-16.13.55:338][251]LogSavePackage: Moving 'C:/Users/33638/OneDrive/Documents/GitHub/Projet_Saison_2_GD2/Saison_2_GD2_Projetc/Saved/87EKA7JODX9JJE74RNKR62E9B333AC4B9D5BEAE9BFB1A75EE211C7.tmp' to 'C:/Users/33638/OneDrive/Documents/GitHub/Projet_Saison_2_GD2/Saison_2_GD2_Projetc/Content/__ExternalActors__/Maps/Level1/1/66/87EKA7JODX9JJE74RNKR62.uasset'
+[2024.04.26-16.13.55:342][251]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Level1/7/GW/U5171HSTXJI781H4GXLJ2X
+[2024.04.26-16.13.55:342][251]LogSavePackage: Moving 'C:/Users/33638/OneDrive/Documents/GitHub/Projet_Saison_2_GD2/Saison_2_GD2_Projetc/Saved/U5171HSTXJI781H4GXLJ2X577DE6FA4F28A8E5D7DADC8F0F556964.tmp' to 'C:/Users/33638/OneDrive/Documents/GitHub/Projet_Saison_2_GD2/Saison_2_GD2_Projetc/Content/__ExternalActors__/Maps/Level1/7/GW/U5171HSTXJI781H4GXLJ2X.uasset'
+[2024.04.26-16.13.55:372][251]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.04.26-16.13.55:373][251]LogSavePackage: Moving 'C:/Users/33638/OneDrive/Documents/GitHub/Projet_Saison_2_GD2/Saison_2_GD2_Projetc/Saved/BP_ThirdPersonCharacterF8DDE2AB441AF7C6412455A11783880E.tmp' to 'C:/Users/33638/OneDrive/Documents/GitHub/Projet_Saison_2_GD2/Saison_2_GD2_Projetc/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.04.26-16.13.55:398][251]LogShaderCompilers: Display: ================================================
+[2024.04.26-16.13.55:398][251]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.04.26-16.13.55:398][251]LogShaderCompilers: Display: Total job queries 923, among them cache hits 531 (57.53%)
+[2024.04.26-16.13.55:398][251]LogShaderCompilers: Display: Tracking 364 distinct input hashes that result in 149 distinct outputs (40.93%)
+[2024.04.26-16.13.55:398][251]LogShaderCompilers: Display: RAM used: 8,49 MiB of 819,20 MiB budget. Usage: 1.04%
+[2024.04.26-16.13.55:398][251]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.04.26-16.13.55:398][251]LogShaderCompilers: Display: Shaders Compiled: 296
+[2024.04.26-16.13.55:398][251]LogShaderCompilers: Display: Jobs assigned 296, completed 296 (100.00%)
+[2024.04.26-16.13.55:398][251]LogShaderCompilers: Display: Average time worker was idle: 58.77 s
+[2024.04.26-16.13.55:398][251]LogShaderCompilers: Display: Time job spent in pending queue: average 1.26 s, longest 32.67 s
+[2024.04.26-16.13.55:398][251]LogShaderCompilers: Display: Job execution time: average 2.31 s, max 31.16 s
+[2024.04.26-16.13.55:399][251]LogShaderCompilers: Display: Job life time (pending + execution): average 3.57 s, max 40.24
+[2024.04.26-16.13.55:399][251]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 240.65 s
+[2024.04.26-16.13.55:399][251]LogShaderCompilers: Display: Jobs were issued in 288 batches (only local compilation was used), average 1.03 jobs/batch
+[2024.04.26-16.13.55:399][251]LogShaderCompilers: Display: Average processing rate: 1.23 jobs/sec
+[2024.04.26-16.13.55:399][251]LogShaderCompilers: Display: Total thread time: 421,879 s
+[2024.04.26-16.13.55:399][251]LogShaderCompilers: Display: Total thread preprocess time: 18,719 s
+[2024.04.26-16.13.55:399][251]LogShaderCompilers: Display: Percentage time preprocessing: 4.44%
+[2024.04.26-16.13.55:399][251]LogShaderCompilers: Display: Effective parallelization: 1.75 (times faster than compiling all shaders on one thread). Compare with number of workers: 4
+[2024.04.26-16.13.55:399][251]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.04.26-16.13.55:399][251]LogShaderCompilers: Display:                                                  FHitProxyVS (compiled    1 times, average 7.13 sec, max 7.13 sec, min 7.13 sec)
+[2024.04.26-16.13.55:399][251]LogShaderCompilers: Display:                                                  FHitProxyPS (compiled    1 times, average 5.36 sec, max 5.36 sec, min 5.36 sec)
+[2024.04.26-16.13.55:399][251]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap (compiled    3 times, average 4.90 sec, max 10.31 sec, min 0.83 sec)
+[2024.04.26-16.13.55:399][251]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled   37 times, average 3.33 sec, max 4.53 sec, min 2.21 sec)
+[2024.04.26-16.13.55:399][251]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    4 times, average 2.76 sec, max 2.83 sec, min 2.73 sec)
+[2024.04.26-16.13.55:399][251]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.04.26-16.13.55:399][251]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 29.23% of total time (compiled   37 times, average 3.33 sec, max 4.53 sec, min 2.21 sec)
+[2024.04.26-16.13.55:399][251]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 16.78% of total time (compiled   57 times, average 1.24 sec, max 8.87 sec, min 0.55 sec)
+[2024.04.26-16.13.55:399][251]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 12.21% of total time (compiled   24 times, average 2.15 sec, max 10.51 sec, min 0.75 sec)
+[2024.04.26-16.13.55:399][251]LogShaderCompilers: Display:                                                 FLumenCardVS - 7.45% of total time (compiled   42 times, average 0.75 sec, max 1.17 sec, min 0.45 sec)
+[2024.04.26-16.13.55:399][251]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 5.79% of total time (compiled   42 times, average 0.58 sec, max 0.90 sec, min 0.34 sec)
+[2024.04.26-16.13.55:399][251]LogShaderCompilers: Display: ================================================
+[2024.04.26-16.13.55:404][251]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PicKUp/Glow_PickUp" FILE="C:/Users/33638/OneDrive/Documents/GitHub/Projet_Saison_2_GD2/Saison_2_GD2_Projetc/Content/PicKUp/Glow_PickUp.uasset" SILENT=true
+[2024.04.26-16.13.55:405][251]LogSavePackage: Moving output files for package: /Game/PicKUp/Glow_PickUp
+[2024.04.26-16.13.55:406][251]LogSavePackage: Moving 'C:/Users/33638/OneDrive/Documents/GitHub/Projet_Saison_2_GD2/Saison_2_GD2_Projetc/Saved/Glow_PickUp89167D564D885C54A4B7C7AAC90A5C7F.tmp' to 'C:/Users/33638/OneDrive/Documents/GitHub/Projet_Saison_2_GD2/Saison_2_GD2_Projetc/Content/PicKUp/Glow_PickUp.uasset'
+[2024.04.26-16.13.55:406][251]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Water/N_Water" FILE="C:/Users/33638/OneDrive/Documents/GitHub/Projet_Saison_2_GD2/Saison_2_GD2_Projetc/Content/Water/N_Water.uasset" SILENT=true
+[2024.04.26-16.13.55:446][251]LogSavePackage: Moving output files for package: /Game/Water/N_Water
+[2024.04.26-16.13.55:447][251]LogSavePackage: Moving 'C:/Users/33638/OneDrive/Documents/GitHub/Projet_Saison_2_GD2/Saison_2_GD2_Projetc/Saved/N_WaterCA00DDA14757BE5AB62A48851CE2F6AE.tmp' to 'C:/Users/33638/OneDrive/Documents/GitHub/Projet_Saison_2_GD2/Saison_2_GD2_Projetc/Content/Water/N_Water.uasset'
+[2024.04.26-16.13.55:467][251]LogFileHelpers: InternalPromptForCheckoutAndSave took 277 ms (total: 23.1 sec)
+[2024.04.26-16.13.55:474][251]AssetCheck: New page: Asset Save: multiple assets
+[2024.04.26-16.13.55:474][251]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.04.26-16.13.55:474][251]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/Maps/Level1.Level1:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_4_0
+[2024.04.26-16.13.55:474][251]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/Maps/Level1.Level1:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_4_0
+[2024.04.26-16.13.55:474][251]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/Maps/Level1.Level1:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_3_0
+[2024.04.26-16.13.55:475][251]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/Maps/Level1.Level1:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_3_0
+[2024.04.26-16.13.55:475][251]LogContentValidation: Display: Validating /Script/Engine.Material /Game/PicKUp/Glow_PickUp.Glow_PickUp
+[2024.04.26-16.13.55:475][251]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Maps/Level1.Level1:PersistentLevel.StaticMeshActor_UAID_842AFD4B6BADE9EF01_1909222554
+[2024.04.26-16.13.55:475][251]LogContentValidation: Display: Validating /Script/Engine.PointLight /Game/Maps/Level1.Level1:PersistentLevel.PointLight_UAID_842AFD4B6BADE9EF01_1748617552
+[2024.04.26-16.13.55:475][251]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Maps/Level1.Level1:PersistentLevel.StaticMeshActor_UAID_842AFD4B6BADEBEF01_1075510907
+[2024.04.26-16.13.55:475][251]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Water/N_Water.N_Water
+[2024.04.26-16.13.55:475][251]LogContentValidation: Display: Validating /Script/Niagara.NiagaraActor /Game/Maps/Level1.Level1:PersistentLevel.NiagaraActor_UAID_842AFD4B6BADEBEF01_1561841908
+[2024.04.26-16.13.56:339][301]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2024.04.26-16.13.56:341][301]LogStall: Shutdown...
+[2024.04.26-16.13.56:356][301]LogStall: Shutdown complete.
+[2024.04.26-16.13.56:400][301]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2024.04.26-16.13.56:400][301]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.26-16.13.56:436][301]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2024.04.26-16.13.56:437][301]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.26-16.13.56:511][301]LogSlate: Window 'N_Water' being destroyed
+[2024.04.26-16.13.56:585][301]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2024.04.26-16.13.56:586][301]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.26-16.13.56:604][301]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2024.04.26-16.13.56:604][301]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.26-16.13.56:678][301]LogSlate: Window 'Saison_2_GD2_Projetc - Unreal Editor' being destroyed
+[2024.04.26-16.13.56:908][301]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2024.04.26-16.13.56:924][302]Cmd: QUIT_EDITOR
+[2024.04.26-16.13.56:936][302]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2024.04.26-16.13.56:978][302]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2024.04.26-16.13.56:979][302]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2024.04.26-16.13.56:988][302]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2024.04.26-16.13.57:113][302]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2024.04.26-16.13.57:113][302]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.26-16.13.57:114][302]LogContentBundle: [Level1(Standalone)] Deleting container.
+[2024.04.26-16.13.57:269][302]LogStylusInput: Shutting down StylusInput subsystem.
+[2024.04.26-16.13.57:333][302]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2024.04.26-16.13.58:254][302]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2024.04.26-16.13.58:254][302]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2024.04.26-16.13.58:254][302]LogAudio: Display: Audio Device unregistered from world 'Level1'.
+[2024.04.26-16.13.58:260][302]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 1
+[2024.04.26-16.13.58:268][302]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2024.04.26-16.13.58:270][302]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2024.04.26-16.13.58:282][302]LogAudio: Display: Audio Device Manager Shutdown
+[2024.04.26-16.13.58:292][302]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2024.04.26-16.13.58:293][302]LogExit: Preparing to exit.
+[2024.04.26-16.13.58:679][302]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2024.04.26-16.13.58:681][302]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.04.26-16.13.58:681][302]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.04.26-16.13.58:684][302]LogPython: Display: Object '/Engine/PythonTypes.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.04.26-16.13.58:684][302]LogPython: Display: Object '/Engine/PythonTypes.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.04.26-16.13.58:684][302]LogPython: Display: Object '/Engine/PythonTypes.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.04.26-16.13.58:684][302]LogPython: Display: Object '/Engine/PythonTypes.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.04.26-16.13.58:684][302]LogPython: Display: Object '/Engine/PythonTypes.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.04.26-16.13.58:684][302]LogPython: Display: Object '/Engine/PythonTypes.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.04.26-16.13.58:685][302]LogPython: Display: Object '/Engine/PythonTypes.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.04.26-16.13.58:685][302]LogPython: Display: Object '/Engine/PythonTypes.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.04.26-16.13.58:685][302]LogPython: Display: Object '/Engine/PythonTypes.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.04.26-16.13.58:685][302]LogPython: Display: Object '/Engine/PythonTypes.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.04.26-16.13.58:685][302]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.04.26-16.13.58:685][302]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.04.26-16.13.58:685][302]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.04.26-16.13.58:685][302]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.04.26-16.13.58:685][302]LogPython: Display: Object '/Engine/PythonTypes.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.04.26-16.13.58:685][302]LogPython: Display: Object '/Engine/PythonTypes.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.04.26-16.13.58:685][302]LogPython: Display: Object '/Engine/PythonTypes.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.04.26-16.14.00:260][302]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2024.04.26-16.14.00:264][302]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2024.04.26-16.14.00:266][302]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2024.04.26-16.14.00:268][302]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2024.04.26-16.14.00:271][302]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2024.04.26-16.14.00:273][302]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2024.04.26-16.14.00:276][302]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2024.04.26-16.14.00:278][302]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2024.04.26-16.14.00:281][302]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2024.04.26-16.14.00:283][302]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2024.04.26-16.14.00:285][302]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2024.04.26-16.14.00:304][302]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2024.04.26-16.14.00:306][302]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2024.04.26-16.14.00:309][302]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2024.04.26-16.14.00:312][302]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2024.04.26-16.14.00:314][302]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2024.04.26-16.14.00:316][302]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2024.04.26-16.14.00:319][302]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2024.04.26-16.14.00:708][302]LogExit: Editor shut down
+[2024.04.26-16.14.00:710][302]LogExit: Transaction tracking system shut down
+[2024.04.26-16.14.00:751][302]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
