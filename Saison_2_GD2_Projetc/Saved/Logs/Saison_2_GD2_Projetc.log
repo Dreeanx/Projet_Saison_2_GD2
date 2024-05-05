@@ -2252,3 +2252,663 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.05.05-10.49.59:636][336]LogFileHelpers: InternalPromptForCheckoutAndSave took 153 ms (total: 1.26 sec)
 [2024.05.05-10.49.59:645][336]AssetCheck: New page: Asset Save: ThirdPersonMap
 [2024.05.05-10.49.59:645][336]LogContentValidation: Display: Validating /Script/Engine.World /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap
+[2024.05.05-10.50.27:819][ 85]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2024.05.05-10.50.27:819][ 85]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.05-10.50.34:636][606]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2024.05.05-10.50.34:746][606]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.05-10.50.34:748][606]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Level1.Level1
+[2024.05.05-10.50.34:750][606]Cmd: MAP LOAD FILE="C:/Users/33638/OneDrive/Documents/GitHub/Projet_Saison_2_GD2/Saison_2_GD2_Projetc/Content/Maps/Level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.05.05-10.50.34:750][606]LightingResults: New page: Lighting Build
+[2024.05.05-10.50.34:750][606]LoadErrors: New page: Loading map: Level1.umap
+[2024.05.05-10.50.34:780][606]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.05.05-10.50.34:780][606]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.05-10.50.34:855][606]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.05.05-10.50.34:855][606]MapCheck: New page: Map Check
+[2024.05.05-10.50.34:855][606]LightingResults: New page: Lighting Build
+[2024.05.05-10.50.34:884][606]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.05.05-10.50.34:894][606]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2024.05.05-10.50.34:909][606]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2024.05.05-10.50.34:909][606]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.05-10.50.34:941][606]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2024.05.05-10.50.34:970][606]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2024.05.05-10.50.34:994][606]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level1'.
+[2024.05.05-10.50.34:995][606]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.05-10.50.34:995][606]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.05-10.50.34:995][606]LogAIModule: Creating AISystem for world Level1
+[2024.05.05-10.50.34:995][606]LogWorldPartition: ULevel::OnLevelLoaded(Level1)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2024.05.05-10.50.34:995][606]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.05.05-10.50.34:995][606]LogWorldPartition: UWorldPartition::Initialize(Asset=Level1, IsEditor=1, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2024.05.05-10.50.35:574][606]LogContentBundle: [Level1(Standalone)] Creating new contrainer.
+[2024.05.05-10.50.35:574][606]LogWorldPartition: Display: WorldPartition initialize took 578 ms (total: 3.21 sec)
+[2024.05.05-10.50.36:203][606]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.05.05-10.50.36:260][606]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2024.05.05-10.50.36:264][606]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.05.05-10.50.36:264][606]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,347ms to complete.
+[2024.05.05-10.50.36:264][606]LogFileHelpers: Loading map 'Level1' took 1.515
+[2024.05.05-10.50.36:546][606]LogShaderCompilers: Display: ================================================
+[2024.05.05-10.50.36:546][606]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.05.05-10.50.36:546][606]LogShaderCompilers: Display: Total job queries 36, among them cache hits 6 (16.67%)
+[2024.05.05-10.50.36:546][606]LogShaderCompilers: Display: Tracking 30 distinct input hashes that result in 26 distinct outputs (86.67%)
+[2024.05.05-10.50.36:546][606]LogShaderCompilers: Display: RAM used: 806,67 KiB of 819,20 MiB budget. Usage: 0.10%
+[2024.05.05-10.50.36:546][606]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.05.05-10.50.36:546][606]LogShaderCompilers: Display: Shaders Compiled: 0
+[2024.05.05-10.50.36:546][606]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2024.05.05-10.50.36:546][606]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2024.05.05-10.50.36:546][606]LogShaderCompilers: Display: ================================================
+[2024.05.05-10.50.36:549][606]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.50.53:186][ 83]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.05-10.50.53:300][ 84]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.05-10.50.53:313][ 85]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.05-10.50.53:326][ 85]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Pet_C /Engine/Transient.World_18:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Pet_C_0
+	Function /Game/Pet/ABP_Pet.ABP_Pet_C:ExecuteUbergraph_ABP_Pet:0040
+[2024.05.05-10.50.54:955][215]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Pet/BP_Pet_Companion.BP_Pet_Companion_C
+[2024.05.05-10.50.54:957][215]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Pet/BP_Pet_Companion.BP_Pet_Companion_C
+[2024.05.05-10.50.54:976][215]LogActorFactory: Actor Factory spawned Blueprint /Game/Pet/BP_Pet_Companion.BP_Pet_Companion as actor: BP_Pet_Companion_C /Game/Maps/Level1.Level1:PersistentLevel.BP_Pet_Companion_C_0
+[2024.05.05-10.50.54:987][215]LogActorFactory: Actor Factory spawned Blueprint /Game/Pet/BP_Pet_Companion.BP_Pet_Companion as actor: BP_Pet_Companion_C /Game/Maps/Level1.Level1:PersistentLevel.BP_Pet_Companion_C_0
+[2024.05.05-10.50.54:990][215]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2024.05.05-10.50.57:068][424]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Pet/BP_Pet_Companion.BP_Pet_Companion_C
+[2024.05.05-10.50.57:068][424]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Pet/BP_Pet_Companion.BP_Pet_Companion_C
+[2024.05.05-10.50.57:084][424]LogActorFactory: Actor Factory spawned Blueprint /Game/Pet/BP_Pet_Companion.BP_Pet_Companion as actor: BP_Pet_Companion_C /Game/Maps/Level1.Level1:PersistentLevel.BP_Pet_Companion_C_UAID_842AFD4B6BADAEF201_1702075335
+[2024.05.05-10.50.57:085][424]LogActorFactory: Actor Factory spawned Blueprint /Game/Pet/BP_Pet_Companion.BP_Pet_Companion as actor: BP_Pet_Companion_C /Game/Maps/Level1.Level1:PersistentLevel.BP_Pet_Companion_C_UAID_842AFD4B6BADAEF201_1702075335
+[2024.05.05-10.50.57:168][424]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.50.59:121][582]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.05.05-10.50.59:129][582]LogContentBundle: [Level1(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.05.05-10.50.59:141][582]LogWorldPartition: Display: GenerateStreaming started...
+[2024.05.05-10.50.59:142][582]LogWorldPartition: Display: GetPartitionedActors started...
+[2024.05.05-10.50.59:142][582]LogWorldPartition: Display: GetPartitionedActors took 54 us (total: 12 ms)
+[2024.05.05-10.50.59:147][582]LogWorldPartition: Display: GenerateStreaming took 5 ms (total: 23 ms)
+[2024.05.05-10.50.59:164][582]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.05-10.50.59:164][582]PIE: New page: PIE session: Level1 (5 mai 2024 à 14:50:59)
+[2024.05.05-10.50.59:164][582]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level1
+[2024.05.05-10.50.59:170][582]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005965s)
+[2024.05.05-10.50.59:170][582]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.006014s)
+[2024.05.05-10.50.59:170][582]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.05-10.50.59:170][582]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.05-10.50.59:171][582]LogAIModule: Creating AISystem for world Level1
+[2024.05.05-10.50.59:171][582]LogWorldPartition: ULevel::OnLevelLoaded(Level1)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.05.05-10.50.59:171][582]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.05.05-10.50.59:171][582]LogWorldPartition: UWorldPartition::Initialize(Asset=Level1, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2024.05.05-10.50.59:173][582]LogContentBundle: [Level1(Standalone)] Creating new contrainer.
+[2024.05.05-10.50.59:173][582]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 3.21 sec)
+[2024.05.05-10.50.59:173][582]LogPlayLevel: PIE: World Init took: (0.002858s)
+[2024.05.05-10.50.59:200][582]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2024.05.05-10.50.59:203][582]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2024.05.05-10.50.59:203][582]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.05-10.50.59:203][582]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.05-10.50.59:203][582]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.05-10.50.59:203][582]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.05-10.50.59:203][582]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.05-10.50.59:203][582]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.05.05-10.50.59:203][582]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.05-10.50.59:203][582]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.05-10.50.59:204][582]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.05-10.50.59:204][582]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.05-10.50.59:204][582]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.05-10.50.59:207][582]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.05-10.50.59:262][582]LogAudioMixer: Display: Using Audio Hardware Device Headphone (Realtek(R) Audio)
+[2024.05.05-10.50.59:263][582]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.05-10.50.59:263][582]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.05-10.50.59:263][582]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.05-10.50.59:263][582]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2024.05.05-10.50.59:263][582]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2024.05.05-10.50.59:265][582]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2024.05.05-10.50.59:266][582]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2024.05.05-10.50.59:266][582]LogInit: FAudioDevice initialized with ID 8.
+[2024.05.05-10.50.59:266][582]LogAudio: Display: Audio Device (ID: 8) registered with world 'Level1'.
+[2024.05.05-10.50.59:266][582]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2024.05.05-10.50.59:269][582]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.05.05-10.50.59:270][582]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2024.05.05-12.50.59
+[2024.05.05-10.50.59:271][582]LogWorld: Bringing up level for play took: 0.000911
+[2024.05.05-10.50.59:274][582]LogOnline: OSS: Created online subsystem instance for: :Context_20
+[2024.05.05-10.50.59:289][582]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(41), CellsToLoad(0), CellsToUnload(0)
+[2024.05.05-10.50.59:289][582]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=5530.000 Y=-50.000 Z=85.000,P=0.000000 Y=0.000000 R=-0.000000
+[2024.05.05-10.50.59:368][582]LogStreaming: Display: FlushAsyncLoading(-1): 41 QueuedPackages, 0 AsyncPackages
+[2024.05.05-10.50.59:687][582]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2024.05.05-10.50.59:687][582]PIE: Server logged in
+[2024.05.05-10.50.59:688][582]PIE: Play in editor total start time 0,559 seconds.
+[2024.05.05-10.50.59:834][582]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.50.59:834][582]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.50.59:835][582]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.50.59:835][582]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.50.59:860][583]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.50.59:861][583]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.50.59:861][583]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.50.59:862][583]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.51.00:549][659]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.51.00:550][659]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.51.00:550][659]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.51.00:552][659]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.51.00:578][661]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.51.00:579][661]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.51.00:580][661]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.51.00:580][661]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.51.00:738][675]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.51.00:738][675]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.51.00:739][675]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.51.00:739][675]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.51.01:679][777]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.05-10.51.01:680][777]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level1
+[2024.05.05-10.51.01:698][777]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2024.05.05-10.51.01:698][777]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.05-10.51.01:698][777]LogContentBundle: [Level1(Standalone)] Deleting container.
+[2024.05.05-10.51.01:703][777]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.05-10.51.01:709][777]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.05-10.51.01:738][777]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.05-10.51.01:753][777]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2024.05.05-10.51.01:753][777]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2024.05.05-10.51.01:754][777]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2024.05.05-10.51.01:787][777]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2024.05.05-10.51.01:814][777]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.51.01:857][778]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2024.05.05-10.51.01:871][778]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.52.52:109][ 30]LogActorFactory: Actor Factory attempting to spawn Class /Script/NavigationSystem.NavMeshBoundsVolume
+[2024.05.05-10.52.52:109][ 30]LogActorFactory: Actor Factory attempting to spawn Class /Script/NavigationSystem.NavMeshBoundsVolume
+[2024.05.05-10.52.52:111][ 30]LogActorFactory: Actor Factory spawned Class /Script/NavigationSystem.NavMeshBoundsVolume as actor: NavMeshBoundsVolume /Game/Maps/Level1.Level1:PersistentLevel.NavMeshBoundsVolume_UAID_842AFD4B6BADAEF201_1817115336
+[2024.05.05-10.52.52:183][ 30]LogActorFactory: Actor Factory spawned Class /Script/NavigationSystem.NavMeshBoundsVolume as actor: NavMeshBoundsVolume /Game/Maps/Level1.Level1:PersistentLevel.NavMeshBoundsVolume_UAID_842AFD4B6BADAEF201_1817115336
+[2024.05.05-10.53.44:839][239]Cmd: TRANSACTION UNDO
+[2024.05.05-10.53.44:839][239]LogEditorTransaction: Undo Scale Elements
+[2024.05.05-10.53.45:011][239]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.53.57:434][234]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.05.05-10.53.57:444][234]LogContentBundle: [Level1(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.05.05-10.53.57:446][234]LogWorldPartition: Display: GenerateStreaming started...
+[2024.05.05-10.53.57:446][234]LogWorldPartition: Display: GetPartitionedActors started...
+[2024.05.05-10.53.57:446][234]LogWorldPartition: Display: GetPartitionedActors took 53 us (total: 12 ms)
+[2024.05.05-10.53.57:447][234]LogWorldPartition: Display: GenerateStreaming took 1 ms (total: 24 ms)
+[2024.05.05-10.53.57:450][234]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.05-10.53.57:450][234]PIE: New page: PIE session: Level1 (5 mai 2024 à 14:53:57)
+[2024.05.05-10.53.57:450][234]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level1
+[2024.05.05-10.53.57:460][234]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010572s)
+[2024.05.05-10.53.57:460][234]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.010606s)
+[2024.05.05-10.53.57:460][234]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.05-10.53.57:460][234]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.05-10.53.57:460][234]LogAIModule: Creating AISystem for world Level1
+[2024.05.05-10.53.57:460][234]LogWorldPartition: ULevel::OnLevelLoaded(Level1)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.05.05-10.53.57:460][234]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.05.05-10.53.57:460][234]LogWorldPartition: UWorldPartition::Initialize(Asset=Level1, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2024.05.05-10.53.57:463][234]LogContentBundle: [Level1(Standalone)] Creating new contrainer.
+[2024.05.05-10.53.57:463][234]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 3.21 sec)
+[2024.05.05-10.53.57:463][234]LogPlayLevel: PIE: World Init took: (0.002520s)
+[2024.05.05-10.53.57:499][234]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2024.05.05-10.53.57:503][234]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2024.05.05-10.53.57:503][234]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.05-10.53.57:503][234]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.05-10.53.57:503][234]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.05-10.53.57:503][234]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.05-10.53.57:503][234]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.05-10.53.57:503][234]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.05.05-10.53.57:503][234]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.05-10.53.57:503][234]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.05-10.53.57:504][234]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.05-10.53.57:504][234]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.05-10.53.57:504][234]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.05-10.53.57:506][234]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.05-10.53.57:546][234]LogAudioMixer: Display: Using Audio Hardware Device Headphone (Realtek(R) Audio)
+[2024.05.05-10.53.57:546][234]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.05-10.53.57:546][234]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.05-10.53.57:546][234]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.05-10.53.57:546][234]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2024.05.05-10.53.57:547][234]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2024.05.05-10.53.57:548][234]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2024.05.05-10.53.57:548][234]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2024.05.05-10.53.57:548][234]LogInit: FAudioDevice initialized with ID 9.
+[2024.05.05-10.53.57:548][234]LogAudio: Display: Audio Device (ID: 9) registered with world 'Level1'.
+[2024.05.05-10.53.57:548][234]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 9
+[2024.05.05-10.53.57:550][234]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.05.05-10.53.57:551][234]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2024.05.05-12.53.57
+[2024.05.05-10.53.57:551][234]LogWorld: Bringing up level for play took: 0.000662
+[2024.05.05-10.53.57:553][234]LogOnline: OSS: Created online subsystem instance for: :Context_21
+[2024.05.05-10.53.57:558][234]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(41), CellsToLoad(0), CellsToUnload(0)
+[2024.05.05-10.53.57:559][234]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=5530.000 Y=-50.000 Z=85.000,P=0.000000 Y=0.000000 R=-0.000000
+[2024.05.05-10.53.57:566][234]LogStreaming: Display: FlushAsyncLoading(-1): 41 QueuedPackages, 0 AsyncPackages
+[2024.05.05-10.53.57:793][234]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2024.05.05-10.53.57:794][234]PIE: Server logged in
+[2024.05.05-10.53.57:794][234]PIE: Play in editor total start time 0,351 seconds.
+[2024.05.05-10.53.57:810][234]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.53.57:810][234]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.53.57:810][234]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '/Memory/UEDPIE_0_Level1_MainGrid_L0_X-1_Y0_InstanceOf_/Game/__ExternalActors__/Maps/Level1/4/GC/MIJ0501FW5KBVFK9LHN1F4' is in a memory-only mount point.
+[2024.05.05-10.53.57:811][234]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.53.57:811][234]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.53.57:812][234]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.53.57:812][234]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.53.57:813][234]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.53.57:813][234]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.53.57:814][234]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.53.57:814][234]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.53.57:816][234]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.53.57:874][235]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.53.57:875][235]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.53.57:876][235]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.53.57:876][235]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.53.57:876][235]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.53.57:877][235]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.53.57:877][235]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.53.57:878][235]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.53.57:878][235]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '/Memory/UEDPIE_0_Level1_MainGrid_L0_X-1_Y0_InstanceOf_/Game/__ExternalActors__/Maps/Level1/4/GC/MIJ0501FW5KBVFK9LHN1F4' is in a memory-only mount point.
+[2024.05.05-10.53.57:878][235]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.53.57:879][235]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.53.57:879][235]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.53.57:881][235]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.53.58:778][322]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.53.58:779][322]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.53.58:780][322]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.53.58:780][322]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.53.58:781][322]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.53.58:781][322]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.53.58:782][322]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.53.58:782][322]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.53.58:782][322]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.53.58:783][322]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '/Memory/UEDPIE_0_Level1_MainGrid_L0_X-1_Y0_InstanceOf_/Game/__ExternalActors__/Maps/Level1/4/GC/MIJ0501FW5KBVFK9LHN1F4' is in a memory-only mount point.
+[2024.05.05-10.53.58:783][322]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.53.58:784][322]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.53.58:786][322]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.53.58:816][324]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.53.58:817][324]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.53.58:817][324]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.53.58:817][324]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.53.58:817][324]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.53.58:818][324]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.53.58:818][324]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.53.58:819][324]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.53.58:819][324]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.53.58:820][324]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '/Memory/UEDPIE_0_Level1_MainGrid_L0_X-1_Y0_InstanceOf_/Game/__ExternalActors__/Maps/Level1/4/GC/MIJ0501FW5KBVFK9LHN1F4' is in a memory-only mount point.
+[2024.05.05-10.53.58:820][324]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.53.58:820][324]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.53.58:823][324]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.53.58:971][339]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.53.58:972][339]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.53.58:973][339]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.53.58:974][339]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.53.58:974][339]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.53.58:975][339]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.53.58:975][339]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.53.58:976][339]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.53.58:976][339]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.53.58:976][339]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '/Memory/UEDPIE_0_Level1_MainGrid_L0_X-1_Y0_InstanceOf_/Game/__ExternalActors__/Maps/Level1/4/GC/MIJ0501FW5KBVFK9LHN1F4' is in a memory-only mount point.
+[2024.05.05-10.53.58:978][339]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.53.58:978][339]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.53.58:980][339]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.54.01:515][583]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.54.01:515][583]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.54.01:515][583]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.54.01:517][583]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.54.01:517][583]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.54.01:517][583]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.54.01:517][583]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.54.01:518][583]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.54.01:518][583]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.54.01:519][583]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '/Memory/UEDPIE_0_Level1_MainGrid_L0_X-1_Y0_InstanceOf_/Game/__ExternalActors__/Maps/Level1/4/GC/MIJ0501FW5KBVFK9LHN1F4' is in a memory-only mount point.
+[2024.05.05-10.54.01:519][583]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.54.01:519][583]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.54.01:523][583]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.54.01:901][622]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.54.01:902][622]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.54.01:902][622]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.54.01:902][622]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.54.01:903][622]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.54.01:903][622]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.54.01:904][622]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.54.01:905][622]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.54.01:905][622]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.54.01:906][622]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '/Memory/UEDPIE_0_Level1_MainGrid_L0_X-1_Y0_InstanceOf_/Game/__ExternalActors__/Maps/Level1/4/GC/MIJ0501FW5KBVFK9LHN1F4' is in a memory-only mount point.
+[2024.05.05-10.54.01:906][622]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.54.01:906][622]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.54.01:909][622]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.54.03:331][761]LogShaderCompilers: Display: ================================================
+[2024.05.05-10.54.03:331][761]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.05.05-10.54.03:331][761]LogShaderCompilers: Display: Total job queries 67, among them cache hits 17 (25.37%)
+[2024.05.05-10.54.03:331][761]LogShaderCompilers: Display: Tracking 50 distinct input hashes that result in 41 distinct outputs (82.00%)
+[2024.05.05-10.54.03:331][761]LogShaderCompilers: Display: RAM used: 1,27 MiB of 819,20 MiB budget. Usage: 0.16%
+[2024.05.05-10.54.03:331][761]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.05.05-10.54.03:331][761]LogShaderCompilers: Display: Shaders Compiled: 0
+[2024.05.05-10.54.03:331][761]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2024.05.05-10.54.03:331][761]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2024.05.05-10.54.03:331][761]LogShaderCompilers: Display: ================================================
+[2024.05.05-10.54.06:059][  1]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.54.06:060][  1]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.54.06:060][  1]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.54.06:061][  1]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.54.06:062][  1]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.54.06:062][  1]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.54.06:063][  1]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.54.06:063][  1]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.54.06:064][  1]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.54.06:064][  1]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '/Memory/UEDPIE_0_Level1_MainGrid_L0_X-1_Y0_InstanceOf_/Game/__ExternalActors__/Maps/Level1/4/GC/MIJ0501FW5KBVFK9LHN1F4' is in a memory-only mount point.
+[2024.05.05-10.54.06:064][  1]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.54.06:065][  1]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.54.06:066][  1]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.54.06:116][  6]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.54.06:116][  6]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.54.06:116][  6]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.54.06:118][  6]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.54.06:118][  6]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.54.06:119][  6]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.54.06:119][  6]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.54.06:120][  6]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.54.06:120][  6]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.54.06:121][  6]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '/Memory/UEDPIE_0_Level1_MainGrid_L0_X-1_Y0_InstanceOf_/Game/__ExternalActors__/Maps/Level1/4/GC/MIJ0501FW5KBVFK9LHN1F4' is in a memory-only mount point.
+[2024.05.05-10.54.06:121][  6]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.54.06:122][  6]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.54.06:124][  6]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.54.06:209][ 13]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.54.06:209][ 13]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.54.06:210][ 13]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.54.06:210][ 13]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.54.06:211][ 13]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.54.06:211][ 13]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.54.06:211][ 13]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.54.06:212][ 13]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.54.06:212][ 13]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.54.06:213][ 13]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '/Memory/UEDPIE_0_Level1_MainGrid_L0_X-1_Y0_InstanceOf_/Game/__ExternalActors__/Maps/Level1/4/GC/MIJ0501FW5KBVFK9LHN1F4' is in a memory-only mount point.
+[2024.05.05-10.54.06:213][ 13]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.54.06:213][ 13]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.54.06:216][ 13]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.54.13:195][619]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.54.13:196][619]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.54.13:196][619]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.54.13:196][619]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.54.13:196][619]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.54.13:198][619]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.54.13:198][619]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.54.13:198][619]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.54.13:199][619]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.54.13:199][619]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '/Memory/UEDPIE_0_Level1_MainGrid_L0_X-1_Y0_InstanceOf_/Game/__ExternalActors__/Maps/Level1/4/GC/MIJ0501FW5KBVFK9LHN1F4' is in a memory-only mount point.
+[2024.05.05-10.54.13:200][619]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.54.13:200][619]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.54.13:202][619]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.54.15:798][866]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.54.15:799][866]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.54.15:799][866]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.54.15:800][866]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.54.15:800][866]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.54.15:800][866]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.54.15:801][866]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.54.15:801][866]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.54.15:802][866]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.54.15:802][866]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '/Memory/UEDPIE_0_Level1_MainGrid_L0_X-1_Y0_InstanceOf_/Game/__ExternalActors__/Maps/Level1/4/GC/MIJ0501FW5KBVFK9LHN1F4' is in a memory-only mount point.
+[2024.05.05-10.54.15:803][866]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.54.15:803][866]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.54.15:806][866]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.54.15:904][875]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.54.15:904][875]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.54.15:905][875]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.54.15:906][875]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.54.15:906][875]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.54.15:906][875]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.54.15:907][875]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.54.15:907][875]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.54.15:908][875]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.54.15:908][875]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '/Memory/UEDPIE_0_Level1_MainGrid_L0_X-1_Y0_InstanceOf_/Game/__ExternalActors__/Maps/Level1/4/GC/MIJ0501FW5KBVFK9LHN1F4' is in a memory-only mount point.
+[2024.05.05-10.54.15:908][875]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.54.15:908][875]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.54.15:910][875]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.54.17:409][ 20]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.05-10.54.17:410][ 20]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level1
+[2024.05.05-10.54.17:426][ 20]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2024.05.05-10.54.17:426][ 20]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.05-10.54.17:426][ 20]LogContentBundle: [Level1(Standalone)] Deleting container.
+[2024.05.05-10.54.17:431][ 20]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.05-10.54.17:437][ 20]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.05-10.54.17:469][ 20]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.05.05-10.54.17:469][ 20]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2024.05.05-10.54.17:469][ 20]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2024.05.05-10.54.17:471][ 20]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2024.05.05-10.54.17:475][ 20]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.05-10.54.17:490][ 20]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2024.05.05-10.54.17:523][ 20]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.54.17:537][ 21]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2024.05.05-10.54.17:556][ 21]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.54.26:427][739]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2024.05.05-10.54.26:433][739]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.05-10.54.26:540][739]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Level1/0/KU/2P3DH660A3ZKHO7JK052NQ
+[2024.05.05-10.54.26:540][739]LogSavePackage: Moving 'C:/Users/33638/OneDrive/Documents/GitHub/Projet_Saison_2_GD2/Saison_2_GD2_Projetc/Saved/2P3DH660A3ZKHO7JK052NQ755E7F234C1F6D21237E938F7BEF9186.tmp' to 'C:/Users/33638/OneDrive/Documents/GitHub/Projet_Saison_2_GD2/Saison_2_GD2_Projetc/Content/__ExternalActors__/Maps/Level1/0/KU/2P3DH660A3ZKHO7JK052NQ.uasset'
+[2024.05.05-10.54.26:543][739]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Level1/A/QO/2XAV1YR3ZABUUJJ8SQNTNB
+[2024.05.05-10.54.26:543][739]LogSavePackage: Moving 'C:/Users/33638/OneDrive/Documents/GitHub/Projet_Saison_2_GD2/Saison_2_GD2_Projetc/Saved/2XAV1YR3ZABUUJJ8SQNTNBC0AEA795433578A2B7ED10ABFFEE4C8F.tmp' to 'C:/Users/33638/OneDrive/Documents/GitHub/Projet_Saison_2_GD2/Saison_2_GD2_Projetc/Content/__ExternalActors__/Maps/Level1/A/QO/2XAV1YR3ZABUUJJ8SQNTNB.uasset'
+[2024.05.05-10.54.26:547][739]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Level1/9/HN/STIO0LDMLOP3U81A6JNP74
+[2024.05.05-10.54.26:547][739]LogSavePackage: Moving 'C:/Users/33638/OneDrive/Documents/GitHub/Projet_Saison_2_GD2/Saison_2_GD2_Projetc/Saved/STIO0LDMLOP3U81A6JNP749F84950846DF76C3ED86B08EFDEDF903.tmp' to 'C:/Users/33638/OneDrive/Documents/GitHub/Projet_Saison_2_GD2/Saison_2_GD2_Projetc/Content/__ExternalActors__/Maps/Level1/9/HN/STIO0LDMLOP3U81A6JNP74.uasset'
+[2024.05.05-10.54.26:570][739]LogFileHelpers: InternalPromptForCheckoutAndSave took 137 ms (total: 1.40 sec)
+[2024.05.05-10.54.26:576][739]AssetCheck: New page: Asset Save: multiple assets
+[2024.05.05-10.54.26:576][739]LogContentValidation: Display: Validating /Script/NavigationSystem.RecastNavMesh /Game/Maps/Level1.Level1:PersistentLevel.RecastNavMesh_UAID_842AFD4B6BADAEF201-Default
+[2024.05.05-10.54.26:576][739]LogContentValidation: Display: Validating /Script/NavigationSystem.NavMeshBoundsVolume /Game/Maps/Level1.Level1:PersistentLevel.NavMeshBoundsVolume_UAID_842AFD4B6BADAEF201_1817115336
+[2024.05.05-10.54.26:576][739]LogContentValidation: Display: Validating /Game/Pet/BP_Pet_Companion.BP_Pet_Companion_C /Game/Maps/Level1.Level1:PersistentLevel.BP_Pet_Companion_C_UAID_842AFD4B6BADAEF201_1702075335
+[2024.05.05-10.55.01:100][879]LogViewport: Scene viewport resized to 1095x848, mode Windowed.
+[2024.05.05-10.55.08:523][223]Cmd: TRANSACTION UNDO
+[2024.05.05-10.55.08:523][223]LogEditorTransaction: Undo Landscape Editing: Erase
+[2024.05.05-10.55.08:527][223]LogTexture: Display: Building textures: /Game/Maps/Level1.Level1:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_3_0.Heightmap_5 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.562492 MB), EncodeSpeed: Fast
+[2024.05.05-10.55.08:729][223]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.55.09:431][258]Cmd: TRANSACTION UNDO
+[2024.05.05-10.55.09:431][258]LogEditorTransaction: Undo Landscape Editing: Erase
+[2024.05.05-10.55.09:497][258]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.55.11:700][433]LogTexture: Display: Building textures: /Game/Maps/Level1.Level1:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_3_0.Heightmap_3 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.562492 MB), EncodeSpeed: Fast
+[2024.05.05-10.55.11:704][433]LogTexture: Display: Building textures: /Game/Maps/Level1.Level1:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_3_0.Heightmap_1 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.562492 MB), EncodeSpeed: Fast
+[2024.05.05-10.55.20:710][911]Cmd: TRANSACTION UNDO
+[2024.05.05-10.55.20:710][911]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2024.05.05-10.55.20:721][911]LogTexture: Display: Building textures: /Game/Maps/Level1.Level1:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_3_0.Heightmap_7 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.562492 MB), EncodeSpeed: Fast
+[2024.05.05-10.55.20:722][911]LogTexture: Display: Building textures: /Game/Maps/Level1.Level1:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_3_0.Heightmap_5 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.562492 MB), EncodeSpeed: Fast
+[2024.05.05-10.55.20:728][911]LogTexture: Display: Building textures: /Game/Maps/Level1.Level1:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_3_0.Heightmap_3 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.562492 MB), EncodeSpeed: Fast
+[2024.05.05-10.55.20:734][911]LogTexture: Display: Building textures: /Game/Maps/Level1.Level1:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_3_0.Heightmap_1 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.562492 MB), EncodeSpeed: Fast
+[2024.05.05-10.55.20:867][911]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.55.22:074][940]Cmd: TRANSACTION UNDO
+[2024.05.05-10.55.22:074][940]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2024.05.05-10.55.22:078][940]LogTexture: Display: Building textures: /Game/Maps/Level1.Level1:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_3_0.Heightmap_5 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.562492 MB), EncodeSpeed: Fast
+[2024.05.05-10.55.22:080][940]LogTexture: Display: Building textures: /Game/Maps/Level1.Level1:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_3_0.Heightmap_7 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.562492 MB), EncodeSpeed: Fast
+[2024.05.05-10.55.22:088][940]LogTexture: Display: Building textures: /Game/Maps/Level1.Level1:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_3_0.Heightmap_1 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.562492 MB), EncodeSpeed: Fast
+[2024.05.05-10.55.22:089][940]LogTexture: Display: Building textures: /Game/Maps/Level1.Level1:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_3_0.Heightmap_3 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.562492 MB), EncodeSpeed: Fast
+[2024.05.05-10.55.22:159][940]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.55.35:305][914]Cmd: TRANSACTION UNDO
+[2024.05.05-10.55.35:305][914]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2024.05.05-10.55.35:320][914]LogTexture: Display: Building textures: /Game/Maps/Level1.Level1:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_3_0.Heightmap_7 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.562492 MB), EncodeSpeed: Fast
+[2024.05.05-10.55.35:321][914]LogTexture: Display: Building textures: /Game/Maps/Level1.Level1:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_3_0.Heightmap_5 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.562492 MB), EncodeSpeed: Fast
+[2024.05.05-10.55.35:428][914]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.55.36:501][932]Cmd: TRANSACTION UNDO
+[2024.05.05-10.55.36:501][932]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2024.05.05-10.55.36:505][932]LogTexture: Display: Building textures: /Game/Maps/Level1.Level1:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_3_0.Heightmap_5 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.562492 MB), EncodeSpeed: Fast
+[2024.05.05-10.55.36:507][932]LogTexture: Display: Building textures: /Game/Maps/Level1.Level1:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_3_0.Heightmap_7 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.562492 MB), EncodeSpeed: Fast
+[2024.05.05-10.55.36:583][932]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.55.37:443][996]Cmd: TRANSACTION UNDO
+[2024.05.05-10.55.37:443][996]LogEditorTransaction: Undo Landscape Editing: Erase
+[2024.05.05-10.55.37:518][996]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.55.58:415][737]Cmd: TRANSACTION UNDO
+[2024.05.05-10.55.58:415][737]LogEditorTransaction: Undo Landscape Editing: Erosion
+[2024.05.05-10.55.58:700][737]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.56.09:889][613]LogTexture: Display: Building textures: /Game/Maps/Level1.Level1:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_2_0.Heightmap_1 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.562492 MB), EncodeSpeed: Fast
+[2024.05.05-10.56.09:892][613]LogTexture: Display: Building textures: /Game/Maps/Level1.Level1:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_2_0.Heightmap_3 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.562492 MB), EncodeSpeed: Fast
+[2024.05.05-10.56.09:894][613]LogTexture: Display: Building textures: /Game/Maps/Level1.Level1:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_2_0.Heightmap_2 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.562492 MB), EncodeSpeed: Fast
+[2024.05.05-10.56.09:896][613]LogTexture: Display: Building textures: /Game/Maps/Level1.Level1:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_2_0.Heightmap_3 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.562492 MB), EncodeSpeed: Fast
+[2024.05.05-10.56.13:003][760]Cmd: TRANSACTION UNDO
+[2024.05.05-10.56.13:003][760]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2024.05.05-10.56.13:314][760]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.56.27:585][923]Cmd: TRANSACTION UNDO
+[2024.05.05-10.56.27:585][923]LogEditorTransaction: Undo Landscape Editing: Noise
+[2024.05.05-10.56.27:794][923]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.56.33:901][207]LogSlate: Window 'Message' being destroyed
+[2024.05.05-10.56.33:905][207]Message dialog closed, result: Cancel, title: Message, text: Retopologize Tool is not available with the Landscape Layer System.
+[2024.05.05-10.56.40:843][829]Cmd: TRANSACTION UNDO
+[2024.05.05-10.56.40:843][829]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2024.05.05-10.56.40:973][829]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.56.49:051][279]Cmd: TRANSACTION UNDO
+[2024.05.05-10.56.49:051][279]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2024.05.05-10.56.49:055][279]LogTexture: Display: Building textures: /Game/Maps/Level1.Level1:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_3_0.Heightmap_7 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.562492 MB), EncodeSpeed: Fast
+[2024.05.05-10.56.49:060][279]LogTexture: Display: Building textures: /Game/Maps/Level1.Level1:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_3_0.Heightmap_5 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.562492 MB), EncodeSpeed: Fast
+[2024.05.05-10.56.49:066][279]LogTexture: Display: Building textures: /Game/Maps/Level1.Level1:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_3_0.Heightmap_3 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.562492 MB), EncodeSpeed: Fast
+[2024.05.05-10.56.49:070][279]LogTexture: Display: Building textures: /Game/Maps/Level1.Level1:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_3_0.Heightmap_1 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.562492 MB), EncodeSpeed: Fast
+[2024.05.05-10.56.49:230][279]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.56.50:205][333]Cmd: TRANSACTION UNDO
+[2024.05.05-10.56.50:205][333]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2024.05.05-10.56.50:285][333]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.56.59:098][895]Cmd: TRANSACTION UNDO
+[2024.05.05-10.56.59:099][895]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2024.05.05-10.56.59:260][895]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.57.14:527][857]Cmd: TRANSACTION UNDO
+[2024.05.05-10.57.14:527][857]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2024.05.05-10.57.14:549][857]LogTexture: Display: Building textures: /Game/Maps/Level1.Level1:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_3_0.Heightmap_7 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.562492 MB), EncodeSpeed: Fast
+[2024.05.05-10.57.14:553][857]LogTexture: Display: Building textures: /Game/Maps/Level1.Level1:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_3_0.Heightmap_5 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.562492 MB), EncodeSpeed: Fast
+[2024.05.05-10.57.14:558][857]LogTexture: Display: Building textures: /Game/Maps/Level1.Level1:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_3_0.Heightmap_3 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.562492 MB), EncodeSpeed: Fast
+[2024.05.05-10.57.14:562][857]LogTexture: Display: Building textures: /Game/Maps/Level1.Level1:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_3_0.Heightmap_1 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.562492 MB), EncodeSpeed: Fast
+[2024.05.05-10.57.14:726][857]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.57.16:114][937]Cmd: TRANSACTION UNDO
+[2024.05.05-10.57.16:114][937]LogEditorTransaction: Undo Landscape Editing: Erase
+[2024.05.05-10.57.16:124][937]LogTexture: Display: Building textures: /Game/Maps/Level1.Level1:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_3_0.Heightmap_5 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.562492 MB), EncodeSpeed: Fast
+[2024.05.05-10.57.16:126][937]LogTexture: Display: Building textures: /Game/Maps/Level1.Level1:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_3_0.Heightmap_7 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.562492 MB), EncodeSpeed: Fast
+[2024.05.05-10.57.16:183][937]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.57.16:919][993]Cmd: TRANSACTION UNDO
+[2024.05.05-10.57.16:919][993]LogEditorTransaction: Undo Landscape Editing: Erase
+[2024.05.05-10.57.16:931][993]LogTexture: Display: Building textures: /Game/Maps/Level1.Level1:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_3_0.Heightmap_5 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.562492 MB), EncodeSpeed: Fast
+[2024.05.05-10.57.16:986][993]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.57.17:621][ 39]Cmd: TRANSACTION UNDO
+[2024.05.05-10.57.17:621][ 39]LogEditorTransaction: Undo Landscape Editing: Erase
+[2024.05.05-10.57.17:632][ 39]LogTexture: Display: Building textures: /Game/Maps/Level1.Level1:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_3_0.Heightmap_5 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.562492 MB), EncodeSpeed: Fast
+[2024.05.05-10.57.17:634][ 39]LogTexture: Display: Building textures: /Game/Maps/Level1.Level1:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_3_0.Heightmap_7 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.562492 MB), EncodeSpeed: Fast
+[2024.05.05-10.57.17:694][ 39]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.57.18:323][ 83]Cmd: TRANSACTION UNDO
+[2024.05.05-10.57.18:323][ 83]LogEditorTransaction: Undo Landscape Editing: Erase
+[2024.05.05-10.57.18:330][ 83]LogTexture: Display: Building textures: /Game/Maps/Level1.Level1:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_3_0.Heightmap_5 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.562492 MB), EncodeSpeed: Fast
+[2024.05.05-10.57.18:426][ 83]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.57.18:899][ 92]Cmd: TRANSACTION UNDO
+[2024.05.05-10.57.18:899][ 92]LogEditorTransaction: Undo Landscape Editing: Erase
+[2024.05.05-10.57.18:902][ 92]LogTexture: Display: Building textures: /Game/Maps/Level1.Level1:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_3_0.Heightmap_5 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.562492 MB), EncodeSpeed: Fast
+[2024.05.05-10.57.18:903][ 92]LogTexture: Display: Building textures: /Game/Maps/Level1.Level1:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_3_0.Heightmap_7 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.562492 MB), EncodeSpeed: Fast
+[2024.05.05-10.57.18:958][ 92]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.57.19:400][119]Cmd: TRANSACTION UNDO
+[2024.05.05-10.57.19:400][119]LogEditorTransaction: Undo Landscape Editing: Erase
+[2024.05.05-10.57.19:463][119]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.57.19:888][145]Cmd: TRANSACTION UNDO
+[2024.05.05-10.57.19:888][145]LogEditorTransaction: Undo Move Elements
+[2024.05.05-10.57.19:964][145]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.05-10.57.24:009][518]LogViewport: Scene viewport resized to 1429x848, mode Windowed.
+[2024.05.05-10.57.30:358][ 51]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2024.05.05-10.57.30:366][ 51]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.05-10.57.30:496][ 51]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Level1/8/BH/LKH9QHIITTO24U8SBTKP8P
+[2024.05.05-10.57.30:497][ 51]LogSavePackage: Moving 'C:/Users/33638/OneDrive/Documents/GitHub/Projet_Saison_2_GD2/Saison_2_GD2_Projetc/Saved/LKH9QHIITTO24U8SBTKP8P9138010D45DCEE8332C5C0B65626EF46.tmp' to 'C:/Users/33638/OneDrive/Documents/GitHub/Projet_Saison_2_GD2/Saison_2_GD2_Projetc/Content/__ExternalActors__/Maps/Level1/8/BH/LKH9QHIITTO24U8SBTKP8P.uasset'
+[2024.05.05-10.57.30:499][ 51]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Level1/7/PF/O8PXD5H8SBBJFUMWD1LUVP
+[2024.05.05-10.57.30:499][ 51]LogSavePackage: Moving 'C:/Users/33638/OneDrive/Documents/GitHub/Projet_Saison_2_GD2/Saison_2_GD2_Projetc/Saved/O8PXD5H8SBBJFUMWD1LUVP030354F940261E3F9D1CE8A68D66EE83.tmp' to 'C:/Users/33638/OneDrive/Documents/GitHub/Projet_Saison_2_GD2/Saison_2_GD2_Projetc/Content/__ExternalActors__/Maps/Level1/7/PF/O8PXD5H8SBBJFUMWD1LUVP.uasset'
+[2024.05.05-10.57.30:517][ 51]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Level1/A/HJ/2SDR2YPQCWWJRDEB36XEDX
+[2024.05.05-10.57.30:518][ 51]LogSavePackage: Moving 'C:/Users/33638/OneDrive/Documents/GitHub/Projet_Saison_2_GD2/Saison_2_GD2_Projetc/Saved/2SDR2YPQCWWJRDEB36XEDXF2E75E75486FE2143A26FC945D3FB690.tmp' to 'C:/Users/33638/OneDrive/Documents/GitHub/Projet_Saison_2_GD2/Saison_2_GD2_Projetc/Content/__ExternalActors__/Maps/Level1/A/HJ/2SDR2YPQCWWJRDEB36XEDX.uasset'
+[2024.05.05-10.57.30:534][ 51]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Level1/9/K1/4HFJV4XS0UB98RPNRHQOTU
+[2024.05.05-10.57.30:535][ 51]LogSavePackage: Moving 'C:/Users/33638/OneDrive/Documents/GitHub/Projet_Saison_2_GD2/Saison_2_GD2_Projetc/Saved/4HFJV4XS0UB98RPNRHQOTUE4C264214B7A4F420100E2967DEDFABB.tmp' to 'C:/Users/33638/OneDrive/Documents/GitHub/Projet_Saison_2_GD2/Saison_2_GD2_Projetc/Content/__ExternalActors__/Maps/Level1/9/K1/4HFJV4XS0UB98RPNRHQOTU.uasset'
+[2024.05.05-10.57.30:560][ 51]LogFileHelpers: InternalPromptForCheckoutAndSave took 193 ms (total: 1.59 sec)
+[2024.05.05-10.57.30:567][ 51]AssetCheck: New page: Asset Save: multiple assets
+[2024.05.05-10.57.30:567][ 51]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/Maps/Level1.Level1:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_3_0
+[2024.05.05-10.57.30:567][ 51]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Maps/Level1.Level1:PersistentLevel.StaticMeshActor_UAID_842AFD4B6BADE9EF01_1909222554
+[2024.05.05-10.57.30:567][ 51]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/Maps/Level1.Level1:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_3_0
+[2024.05.05-10.57.30:567][ 51]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/Maps/Level1.Level1:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_4_0
+[2024.05.05-10.57.32:771][234]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2024.05.05-10.57.32:778][234]LogStall: Shutdown...
+[2024.05.05-10.57.32:788][234]LogStall: Shutdown complete.
+[2024.05.05-10.57.32:811][234]LogSlate: Window 'BP_GameOver' being destroyed
+[2024.05.05-10.57.32:843][234]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2024.05.05-10.57.32:843][234]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.05-10.57.32:851][234]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2024.05.05-10.57.32:851][234]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.05-10.57.32:898][234]LogSlate: Window 'Saison_2_GD2_Projetc - Unreal Editor' being destroyed
+[2024.05.05-10.57.33:090][235]Cmd: QUIT_EDITOR
+[2024.05.05-10.57.33:102][235]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2024.05.05-10.57.33:143][235]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2024.05.05-10.57.33:144][235]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2024.05.05-10.57.33:144][235]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2024.05.05-10.57.33:279][235]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2024.05.05-10.57.33:279][235]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.05-10.57.33:280][235]LogContentBundle: [Level1(Standalone)] Deleting container.
+[2024.05.05-10.57.33:457][235]LogStylusInput: Shutting down StylusInput subsystem.
+[2024.05.05-10.57.33:500][235]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2024.05.05-10.57.34:011][235]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2024.05.05-10.57.34:011][235]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2024.05.05-10.57.34:011][235]LogAudio: Display: Audio Device unregistered from world 'Level1'.
+[2024.05.05-10.57.34:017][235]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 1
+[2024.05.05-10.57.34:018][235]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2024.05.05-10.57.34:020][235]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2024.05.05-10.57.34:032][235]LogAudio: Display: Audio Device Manager Shutdown
+[2024.05.05-10.57.34:048][235]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2024.05.05-10.57.34:050][235]LogExit: Preparing to exit.
+[2024.05.05-10.57.34:523][235]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2024.05.05-10.57.34:530][235]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.05.05-10.57.34:530][235]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.05.05-10.57.34:534][235]LogPython: Display: Object '/Engine/PythonTypes.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.05.05-10.57.34:534][235]LogPython: Display: Object '/Engine/PythonTypes.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.05.05-10.57.34:534][235]LogPython: Display: Object '/Engine/PythonTypes.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.05.05-10.57.34:534][235]LogPython: Display: Object '/Engine/PythonTypes.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.05.05-10.57.34:534][235]LogPython: Display: Object '/Engine/PythonTypes.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.05.05-10.57.34:534][235]LogPython: Display: Object '/Engine/PythonTypes.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.05.05-10.57.34:534][235]LogPython: Display: Object '/Engine/PythonTypes.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.05.05-10.57.34:534][235]LogPython: Display: Object '/Engine/PythonTypes.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.05.05-10.57.34:534][235]LogPython: Display: Object '/Engine/PythonTypes.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.05.05-10.57.34:534][235]LogPython: Display: Object '/Engine/PythonTypes.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.05.05-10.57.34:534][235]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.05.05-10.57.34:534][235]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.05.05-10.57.34:534][235]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.05.05-10.57.34:535][235]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.05.05-10.57.34:535][235]LogPython: Display: Object '/Engine/PythonTypes.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.05.05-10.57.34:535][235]LogPython: Display: Object '/Engine/PythonTypes.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.05.05-10.57.34:535][235]LogPython: Display: Object '/Engine/PythonTypes.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.05.05-10.57.35:652][235]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2024.05.05-10.57.35:664][235]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2024.05.05-10.57.35:669][235]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2024.05.05-10.57.35:677][235]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2024.05.05-10.57.35:694][235]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2024.05.05-10.57.35:718][235]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2024.05.05-10.57.35:723][235]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2024.05.05-10.57.35:727][235]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2024.05.05-10.57.36:097][235]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2024.05.05-10.57.36:189][235]LogExit: Editor shut down
+[2024.05.05-10.57.36:193][235]LogExit: Transaction tracking system shut down
+[2024.05.05-10.57.39:932][235]LogExit: Object subsystem successfully closed.
+[2024.05.05-10.57.39:937][235]LogShaderCompilers: Display: ================================================
+[2024.05.05-10.57.39:937][235]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.05.05-10.57.39:937][235]LogShaderCompilers: Display: Total job queries 75, among them cache hits 21 (28.00%)
+[2024.05.05-10.57.39:937][235]LogShaderCompilers: Display: Tracking 54 distinct input hashes that result in 45 distinct outputs (83.33%)
+[2024.05.05-10.57.39:937][235]LogShaderCompilers: Display: RAM used: 1,39 MiB of 819,20 MiB budget. Usage: 0.17%
+[2024.05.05-10.57.39:937][235]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.05.05-10.57.39:937][235]LogShaderCompilers: Display: Shaders Compiled: 0
+[2024.05.05-10.57.39:937][235]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2024.05.05-10.57.39:937][235]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2024.05.05-10.57.39:937][235]LogShaderCompilers: Display: ================================================
+[2024.05.05-10.57.40:003][235]LogShaderCompilers: Display: Shaders left to compile 0
+[2024.05.05-10.57.40:189][235]LogVirtualization: UE::Virtualization was shutdown
+[2024.05.05-10.57.42:715][235]LogModuleManager: Shutting down and abandoning module TextureEditor (1019)
+[2024.05.05-10.57.42:715][235]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (1017)
+[2024.05.05-10.57.42:715][235]LogModuleManager: Shutting down and abandoning module Voice (1015)
+[2024.05.05-10.57.42:726][235]LogModuleManager: Shutting down and abandoning module SequencerWidgets (1013)
+[2024.05.05-10.57.42:727][235]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (1011)
+[2024.05.05-10.57.42:727][235]LogModuleManager: Shutting down and abandoning module AddContentDialog (1009)
+[2024.05.05-10.57.42:758][235]LogModuleManager: Shutting down and abandoning module WidgetCarousel (1008)
+[2024.05.05-10.57.42:758][235]LogModuleManager: Shutting down and abandoning module SubobjectEditor (1005)
+[2024.05.05-10.57.42:758][235]LogModuleManager: Shutting down and abandoning module SceneOutliner (1003)
+[2024.05.05-10.57.42:758][235]LogModuleManager: Shutting down and abandoning module StatusBar (1001)
+[2024.05.05-10.57.42:758][235]LogModuleManager: Shutting down and abandoning module UnsavedAssetsTracker (999)
+[2024.05.05-10.57.42:758][235]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (997)
+[2024.05.05-10.57.42:758][235]LogModuleManager: Shutting down and abandoning module StatsViewer (995)
+[2024.05.05-10.57.42:767][235]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (993)
+[2024.05.05-10.57.42:767][235]LogModuleManager: Shutting down and abandoning module AutomationWorker (991)
+[2024.05.05-10.57.42:771][235]LogModuleManager: Shutting down and abandoning module SmartSnapping (989)
+[2024.05.05-10.57.42:773][235]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (987)
+[2024.05.05-10.57.42:785][235]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (985)
+[2024.05.05-10.57.42:817][235]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (983)
+[2024.05.05-10.57.42:827][235]LogModuleManager: Shutting down and abandoning module TextureAlignMode (981)
+[2024.05.05-10.57.42:827][235]LogModuleManager: Shutting down and abandoning module BspMode (979)
+[2024.05.05-10.57.42:841][235]LogModuleManager: Shutting down and abandoning module GeometryMode (977)
+[2024.05.05-10.57.42:846][235]LogModuleManager: Shutting down and abandoning module EngineAssetDefinitions (975)
+[2024.05.05-10.57.42:846][235]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (973)
+[2024.05.05-10.57.42:872][235]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (971)
+[2024.05.05-10.57.42:872][235]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (969)
+[2024.05.05-10.57.42:872][235]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (967)
+[2024.05.05-10.57.42:872][235]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (965)
+[2024.05.05-10.57.42:872][235]LogModuleManager: Shutting down and abandoning module WebMMedia (963)
+[2024.05.05-10.57.42:885][235]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (961)
+[2024.05.05-10.57.42:898][235]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (959)
+[2024.05.05-10.57.42:906][235]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (957)
+[2024.05.05-10.57.42:912][235]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (955)
+[2024.05.05-10.57.42:912][235]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (953)
+[2024.05.05-10.57.42:920][235]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (951)
+[2024.05.05-10.57.42:920][235]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (949)
+[2024.05.05-10.57.42:920][235]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (947)
+[2024.05.05-10.57.42:920][235]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (945)
+[2024.05.05-10.57.42:920][235]LogModuleManager: Shutting down and abandoning module PlanarCut (943)
+[2024.05.05-10.57.42:940][235]LogModuleManager: Shutting down and abandoning module FractureEngine (941)
+[2024.05.05-10.57.42:954][235]LogModuleManager: Shutting down and abandoning module CharacterAI (939)
+[2024.05.05-10.57.42:954][235]LogModuleManager: Shutting down and abandoning module WaveTableEditor (937)
+[2024.05.05-10.57.42:993][235]LogModuleManager: Shutting down and abandoning module ResonanceAudioEditor (935)
+[2024.05.05-10.57.42:993][235]LogModuleManager: Shutting down and abandoning module GooglePADEditor (933)
+[2024.05.05-10.57.42:993][235]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (931)
+[2024.05.05-10.57.42:993][235]LogModuleManager: Shutting down and abandoning module SequenceRecorder (930)
+[2024.05.05-10.57.42:995][235]LogModuleManager: Shutting down and abandoning module AndroidFileServerEditor (927)
+[2024.05.05-10.57.42:995][235]LogModuleManager: Shutting down and abandoning module IKRigEditor (925)
