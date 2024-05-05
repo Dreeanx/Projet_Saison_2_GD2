@@ -3787,3 +3787,111 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
  at D:\build\++UE5\Sync\Engine\Source\Runtime\D3D12RHI\Private\D3D12PoolAllocator.cpp:430 
  with error E_OUTOFMEMORY
 
+[2024.05.05-16.38.10:249][136]LogConsoleResponse:      4 = 65536 KB (2D[2] 16384x512 PF_R32_UINT UAV) Shadow.Virtual.PhysicalPagePool
+[2024.05.05-16.38.10:249][136]LogConsoleResponse:     44 = 65536 KB (2D[2] 16384x512 PF_R32_UINT UAV) Shadow.Virtual.PhysicalPagePool
+[2024.05.05-16.38.10:249][136]LogConsoleResponse:     59 = 32768 KB (2D[1] 16384x512 PF_R32_UINT UAV) Shadow.Virtual.PhysicalPagePool unused(1)
+[2024.05.05-16.38.10:249][136]LogConsoleResponse:      5 = 20096 KB (2D 2864x1696 PF_R32_FLOAT RT) Editor.PrimitivesDepthHistory
+[2024.05.05-16.38.10:249][136]LogConsoleResponse:     25 = 20096 KB (2D 2864x1696 PF_R32_FLOAT RT) Editor.PrimitivesDepthHistory unused(1)
+[2024.05.05-16.38.10:249][136]LogConsoleResponse:     40 = 17920 KB (2D 2560x1696 PF_R32_FLOAT RT) Editor.PrimitivesDepthHistory
+[2024.05.05-16.38.10:249][136]LogConsoleResponse:     39 = 17920 KB (2D 2560x1696 PF_R32_FLOAT RT) Editor.PrimitivesDepthHistory unused(1)
+[2024.05.05-16.38.10:249][136]LogConsoleResponse:     23 = 16384 KB (3D 1024x1024x16 PF_R8 UAV) GlobalDistanceField.PageAtlas
+[2024.05.05-16.38.10:250][136]LogConsoleResponse:     11 = 10944 KB (2D 8192x256 PF_R32_FLOAT UAV) Shadow.Virtual.HZBPhysicalPagePool
+[2024.05.05-16.38.10:250][136]LogConsoleResponse:     33 = 10944 KB (2D 8192x256 PF_R32_FLOAT UAV) Shadow.Virtual.HZBPhysicalPagePool
+[2024.05.05-16.38.10:250][136]LogConsoleResponse:     12 = 10944 KB (2D 8192x256 PF_R32_FLOAT UAV) Shadow.Virtual.HZBPhysicalPagePool
+[2024.05.05-16.38.10:250][136]LogConsoleResponse:     13 = 10944 KB (2D 8192x256 PF_R32_FLOAT UAV) Shadow.Virtual.HZBPhysicalPagePool
+[2024.05.05-16.38.10:250][136]LogConsoleResponse:     14 = 10944 KB (2D 8192x256 PF_R32_FLOAT UAV) Shadow.Virtual.HZBPhysicalPagePool
+[2024.05.05-16.38.10:250][136]LogConsoleResponse:     41 = 10944 KB (2D 8192x256 PF_R32_FLOAT UAV) Shadow.Virtual.HZBPhysicalPagePool
+[2024.05.05-16.38.10:250][136]LogConsoleResponse:     58 = 8192 KB (3D 1024x1024x8 PF_G8 UAV) DistanceFields.DistanceFieldBrickTexture
+[2024.05.05-16.38.10:250][136]LogConsoleResponse:     37 = 8192 KB (3D 1024x1024x8 PF_G8 UAV) DistanceFields.DistanceFieldBrickTexture
+[2024.05.05-16.38.10:250][136]LogConsoleResponse:     38 = 5056 KB (2D 1432x848 PF_FloatR11G11B10 UAV) TSR.Output
+[2024.05.05-16.38.10:250][136]LogConsoleResponse:     35 = 5056 KB (2D 1432x848 PF_FloatR11G11B10 UAV) TSR.Output unused(1)
+[2024.05.05-16.38.10:250][136]LogConsoleResponse:     54 = 4480 KB (2D 1280x848 PF_A2B10G10R10 UAV) TSR.History.Guide
+[2024.05.05-16.38.10:250][136]LogConsoleResponse:     51 = 4480 KB (2D 1280x848 PF_A2B10G10R10 UAV) TSR.History.Guide
+[2024.05.05-16.38.10:250][136]LogConsoleResponse:     43 = 4480 KB (2D 1280x848 PF_FloatR11G11B10 UAV) TSR.Output
+[2024.05.05-16.38.10:250][136]LogConsoleResponse:     49 = 4480 KB (2D 1280x848 PF_FloatR11G11B10 UAV) TSR.Output unused(1)
+[2024.05.05-16.38.10:250][136]LogConsoleResponse:     56 = 4480 KB (2D 1280x848 PF_R32_UINT UAV) TSR.History.SubpixelDepth
+[2024.05.05-16.38.10:250][136]LogConsoleResponse:     53 = 4480 KB (2D 1280x848 PF_R32_UINT UAV) TSR.History.SubpixelDepth
+[2024.05.05-16.38.10:250][136]LogConsoleResponse:     50 = 2240 KB (2D 640x424 PF_FloatRGBA RT UAV) DistanceFieldAOHistory
+[2024.05.05-16.38.10:250][136]LogConsoleResponse:     52 = 2240 KB (2D 640x424 PF_FloatRGBA RT UAV) DistanceFieldAOHistory unused(1)
+[2024.05.05-16.38.10:250][136]LogConsoleResponse:     18 = 1920 KB (2D 639x379 PF_FloatRGBA RT) VolumetricRenderTarget.Reconstruct
+[2024.05.05-16.38.10:250][136]LogConsoleResponse:     29 = 1920 KB (2D 639x379 PF_FloatRGBA RT) VolumetricRenderTarget.Reconstruct
+[2024.05.05-16.38.10:250][136]LogConsoleResponse:     32 = 1344 KB (2D 1432x848 PF_R8 RT) Final Luminance
+[2024.05.05-16.38.10:250][136]LogConsoleResponse:     24 = 1344 KB (2D 1432x848 PF_R8 UAV) TSR.History.Metadata
+[2024.05.05-16.38.10:250][136]LogConsoleResponse:      6 = 1344 KB (2D 1432x848 PF_R8 UAV) TSR.History.Metadata unused(1)
+[2024.05.05-16.38.10:250][136]LogConsoleResponse:     34 = 1280 KB (2D 716x424 PF_FloatR11G11B10 UAV) TSR.HalfResOutput
+[2024.05.05-16.38.10:250][136]LogConsoleResponse:     46 = 1152 KB (2D 1280x848 PF_R8 RT) Final Luminance
+[2024.05.05-16.38.10:250][136]LogConsoleResponse:     42 = 1152 KB (2D 1280x848 PF_R8 UAV) TSR.History.Metadata
+[2024.05.05-16.38.10:250][136]LogConsoleResponse:     47 = 1152 KB (2D 1280x848 PF_R8 UAV) TSR.History.Metadata unused(1)
+[2024.05.05-16.38.10:250][136]LogConsoleResponse:     48 = 1152 KB (2D 640x424 PF_FloatR11G11B10 UAV) TSR.HalfResOutput
+[2024.05.05-16.38.10:250][136]LogConsoleResponse:     15 = 960 KB (2D 639x379 PF_G16R16F RT) VolumetricRenderTarget.ReconstructDepth
+[2024.05.05-16.38.10:250][136]LogConsoleResponse:     30 = 960 KB (2D 639x379 PF_G16R16F RT) VolumetricRenderTarget.ReconstructDepth
+[2024.05.05-16.38.10:250][136]LogConsoleResponse:     28 = 512 KB (2D 320x190 PF_FloatRGBA RT UAV) VolumetricRenderTarget.SecondaryTracing
+[2024.05.05-16.38.10:250][136]LogConsoleResponse:     26 = 512 KB (2D 320x190 PF_FloatRGBA RT UAV) VolumetricRenderTarget.Tracing
+[2024.05.05-16.38.10:250][136]LogConsoleResponse:     27 = 512 KB (2D 320x190 PF_FloatRGBA RT UAV) VolumetricRenderTarget.TracingDepth
+[2024.05.05-16.38.10:250][136]LogConsoleResponse:     21 = 448 KB (3D 35x35x140 PF_R8 UAV) GlobalDistanceField.MipTexture
+[2024.05.05-16.38.10:250][136]LogConsoleResponse:     22 = 320 KB (3D 20x20x80 PF_R32_UINT UAV) GlobalDistanceField.PageTableCombined
+[2024.05.05-16.38.10:250][136]LogConsoleResponse:     19 = 320 KB (3D 20x20x80 PF_R32_UINT UAV) GlobalDistanceField.PageTableMovableLayer
+[2024.05.05-16.38.10:250][136]LogConsoleResponse:     20 = 320 KB (3D 20x20x80 PF_R32_UINT UAV) GlobalDistanceField.PageTableStationaryLayer
+[2024.05.05-16.38.10:250][136]LogConsoleResponse:     36 = 128 KB (2D 192x104 PF_FloatRGB UAV) SkyAtmosphere.SkyViewLut unused(1)
+[2024.05.05-16.38.10:250][136]LogConsoleResponse:     10 = 128 KB (3D 32x32x16 PF_FloatRGBA UAV) SkyAtmosphere.CameraAPVolume0
+[2024.05.05-16.38.10:250][136]LogConsoleResponse:     57 = 128 KB (3D 32x32x32 PF_A2B10G10R10 RT) CombineLUTs
+[2024.05.05-16.38.10:250][136]LogConsoleResponse:     17 = 128 KB (3D 32x32x32 PF_A2B10G10R10 RT) CombineLUTs
+[2024.05.05-16.38.10:250][136]LogConsoleResponse:     16 = 64 KB (2D 1x1 PF_A32B32G32R32F UAV) EyeAdaptationTexture
+[2024.05.05-16.38.10:250][136]LogConsoleResponse:     45 = 64 KB (2D 1x1 PF_A32B32G32R32F UAV) EyeAdaptationTexture
+[2024.05.05-16.38.10:250][136]LogConsoleResponse:     55 = 64 KB (2D 1x1 PF_A32B32G32R32F UAV) EyeAdaptationTexture
+[2024.05.05-16.38.10:250][136]LogConsoleResponse:     31 = 64 KB (2D 1x1 PF_A32B32G32R32F UAV) EyeAdaptationTexture
+[2024.05.05-16.38.10:250][136]LogConsoleResponse:      7 = 64 KB (2D 1x1 PF_FloatRGB UAV) SkyAtmosphere.DistantSkyLightLut
+[2024.05.05-16.38.10:250][136]LogConsoleResponse:      9 = 64 KB (2D 256x64 PF_FloatRGB UAV) SkyAtmosphere.TransmittanceLut
+[2024.05.05-16.38.10:250][136]LogConsoleResponse:      8 = 64 KB (2D 32x32 PF_FloatRGB UAV) SkyAtmosphere.MultiScatteredLuminanceLut
+[2024.05.05-16.38.10:250][136]LogConsoleResponse:      1 = 64 KB (3D 1x1x1 PF_B8G8R8A8 RT) HairLUT0
+[2024.05.05-16.38.10:250][136]LogConsoleResponse:      3 = 36 KB (2D 66x64 PF_A16B16G16R16) SSProfiles
+[2024.05.05-16.38.10:250][136]LogConsoleResponse:      2 = 8 KB (2D 768x8 PF_R8) AsciiTexture
+[2024.05.05-16.38.10:250][136]LogConsoleResponse: 
+[2024.05.05-16.38.10:250][136]LogConsoleResponse: Pool: 307/391 MB (referenced/allocated)
+[2024.05.05-16.38.10:250][136]LogConsoleResponse: 
+[2024.05.05-16.38.10:250][136]LogConsoleResponse: RDGResourceName (what was rendered this frame, use <RDGResourceName>@<Version> to get intermediate versions):
+[2024.05.05-16.38.10:251][136]LogConsoleResponse:    AmbientOcclusion              GBufferD            Scene(1/8)                      TranslucentVolumeAmbient1     TSR.ParallaxFactor
+[2024.05.05-16.38.10:251][136]LogConsoleResponse:    AmbientOcclusionSetup         GBufferE            SceneColor                      TranslucentVolumeDirectional0 TSR.ParallaxRejectionMask
+[2024.05.05-16.38.10:251][136]LogConsoleResponse:    BloomX                        Histogram           SceneDepthZ                     TranslucentVolumeDirectional1 TSR.PrevClosestDepthTexture
+[2024.05.05-16.38.10:251][136]LogConsoleResponse:    BloomY                        Histogram.Scatter32 SceneVelocity                   TSR.AntiAliasing.Filtered     TSR.PrevScatteredSubpixelDepth
+[2024.05.05-16.38.10:251][136]LogConsoleResponse:    CombineLUTs                   HZBFurthest         ScreenSpaceAO                   TSR.AntiAliasing.Noise        TSR.PrevUseCountTexture
+[2024.05.05-16.38.10:251][136]LogConsoleResponse:    DebugSSR                      OIT.SampleColor     ScreenSpaceReflections          TSR.AntiAliasing.Raw          TSR.ReprojectedHistoryGuide
+[2024.05.05-16.38.10:251][136]LogConsoleResponse:    Editor.PrimitivesColor        OIT.SampleCount     Shadow.Virtual.MaskBits         TSR.ClosestDepthTexture       TSR.SceneColorLdrLuma
+[2024.05.05-16.38.10:251][136]LogConsoleResponse:    Editor.PrimitivesDepth        OIT.SampleDepth     Shadow.Virtual.PhysicalPagePool TSR.HalfResOutput             TSR.Velocity.Dilated
+[2024.05.05-16.38.10:251][136]LogConsoleResponse:    Editor.PrimitivesDepthHistory OIT.SampleTrans     Shadow.Virtual.ShadowMask       TSR.History.Guide             TSR.Velocity.HoleFilled
+[2024.05.05-16.38.10:251][136]LogConsoleResponse:    EyeAdaptationTexture          RenderTarget        ShadowMaskTexture               TSR.History.Metadata          TSR.velocity.HoleFillMask
+[2024.05.05-16.38.10:251][136]LogConsoleResponse:    Final Luminance               Scene(1/16)         Substrate.DummyWritableTexture  TSR.History.SubpixelDepth     ViewFamilyTexture
+[2024.05.05-16.38.10:251][136]LogConsoleResponse:    GBufferA                      Scene(1/32)         Tonemap                         TSR.HistoryRejection
+[2024.05.05-16.38.10:251][136]LogConsoleResponse:    GBufferB                      Scene(1/4)          Translucency.AfterDOF.Color     TSR.Moire.Luma
+[2024.05.05-16.38.10:251][136]LogConsoleResponse:    GBufferC                      Scene(1/64)         TranslucentVolumeAmbient0       TSR.Output
+[2024.05.05-16.38.10:251][136]LogConsoleResponse: 
+[2024.05.05-16.38.10:320][136]Cmd: rhi.DumpMemory
+[2024.05.05-16.38.11:176][136]RHI resource memory (not tracked by our allocator)
+[2024.05.05-16.38.11:191][136]         0.000MB  -  Pixel buffer memory - STAT_PixelBufferMemory - STATGROUP_RHI - STATCAT_Advanced
+[2024.05.05-16.38.11:191][136]       105.918MB  -  Structured buffer memory - STAT_StructuredBufferMemory - STATGROUP_RHI - STATCAT_Advanced
+[2024.05.05-16.38.11:191][136]         0.000MB  -  Ray Tracing Acceleration Structure memory - STAT_RTAccelerationStructureMemory - STATGROUP_RHI - STATCAT_Advanced
+[2024.05.05-16.38.11:191][136]        85.471MB  -  Vertex buffer memory - STAT_VertexBufferMemory - STATGROUP_RHI - STATCAT_Advanced
+[2024.05.05-16.38.11:191][136]         3.815MB  -  Index buffer memory - STAT_IndexBufferMemory - STATGROUP_RHI - STATCAT_Advanced
+[2024.05.05-16.38.11:191][136]        -8.250MB  -  Uniform buffer memory - STAT_UniformBufferMemory - STATGROUP_RHI - STATCAT_Advanced
+[2024.05.05-16.38.11:191][136]        56.059MB  -  Texture memory Cube - STAT_TextureMemoryCube - STATGROUP_RHI - STATCAT_Advanced
+[2024.05.05-16.38.11:191][136]         2.500MB  -  Texture memory 3D - STAT_TextureMemory3D - STATGROUP_RHI - STATCAT_Advanced
+[2024.05.05-16.38.11:191][136]       301.750MB  -  Texture memory 2D - STAT_TextureMemory2D - STATGROUP_RHI - STATCAT_Advanced
+[2024.05.05-16.38.11:191][136]         0.000MB  -  Render target memory Cube - STAT_RenderTargetMemoryCube - STATGROUP_RHI - STATCAT_Advanced
+[2024.05.05-16.38.11:191][136]        33.812MB  -  Render target memory 3D - STAT_RenderTargetMemory3D - STATGROUP_RHI - STATCAT_Advanced
+[2024.05.05-16.38.11:191][136]       976.500MB  -  Render target memory 2D - STAT_RenderTargetMemory2D - STATGROUP_RHI - STATCAT_Advanced
+[2024.05.05-16.38.11:192][136]1557.575MB total
+[2024.05.05-16.38.11:255][136]LogWindows: FPlatformMisc::RequestExit(1)
+[2024.05.05-16.38.11:255][136]LogWindows: FPlatformMisc::RequestExitWithStatus(1, 0)
+[2024.05.05-16.38.11:259][136]LogCore: Engine exit requested (reason: Win RequestExit)
+[2024.05.05-16.38.11:268][136]Cmd: Mem FromReport
+[2024.05.05-16.38.11:288][136]LogMemory: Platform Memory Stats for WindowsEditor
+[2024.05.05-16.38.11:288][136]LogMemory: Process Physical Memory: 4489.53 MB used, 6860.75 MB peak
+[2024.05.05-16.38.11:288][136]LogMemory: Process Virtual Memory: 14048.80 MB used, 14395.50 MB peak
+[2024.05.05-16.38.11:288][136]LogMemory: Physical Memory: 14080.55 MB used,  2079.57 MB free, 16160.11 MB total
+[2024.05.05-16.38.11:288][136]LogMemory: Virtual Memory: 33377.90 MB used,  4357.11 MB free, 37735.00 MB total
+[2024.05.05-16.38.11:288][136]LogMemory: 
+[2024.05.05-16.38.11:289][136]Allocator Stats for Mimalloc: (not implemented)
+[2024.05.05-16.38.11:289][136]LogMemory: Memory Stats:
+[2024.05.05-16.38.11:307][136]LogMemory: FMemStack (gamethread) current size = 0.00 MB
+[2024.05.05-16.38.11:307][136]LogMemory: FPageAllocator (all threads) allocation size [used/ unused] = [6.25 / 2.19] MB
+[2024.05.05-16.38.11:309][136]LogMemory: Nametable memory usage = 13.31 MB
