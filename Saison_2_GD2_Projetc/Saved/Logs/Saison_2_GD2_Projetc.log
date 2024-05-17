@@ -5606,3 +5606,222 @@ Script Stack (0 frames) :
 [2024.05.17-16.29.25:738][110]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonFox.BP_ThirdPersonFox
 [2024.05.17-16.29.25:738][110]LogContentValidation: Display: Validating /Game/ThirdPerson/Blueprints/BP_ThirdPersonFox.BP_ThirdPersonFox_C /Game/Maps/Level1.Level1:PersistentLevel.BP_ThirdPersonFox_C_UAID_842AFD4B6BADB2F301_1522816097
 [2024.05.17-16.29.25:738][110]LogContentValidation: Display: Validating /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C /Game/Maps/Level1.Level1:PersistentLevel.BP_ThirdPersonCharacter_C_UAID_842AFD4B6BADB1F301_1954905919
+[2024.05.17-16.30.40:443][846]Cmd: DELETE
+[2024.05.17-16.30.40:443][846]Cmd: ACTOR DELETE
+[2024.05.17-16.30.40:498][846]LogEditorActor: Deleted Actor: LevelSequenceActor
+[2024.05.17-16.30.40:531][846]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2024.05.17-16.30.40:536][846]LogEditorActor: Deleted 1 Actors (0.074 secs)
+[2024.05.17-16.30.46:071][ 87]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.17-16.30.51:151][298]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (SKM_Quinn_Simple) ...
+[2024.05.17-16.30.59:927][658]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2024.05.17-16.30.59:938][658]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.17-16.31.00:067][658]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.05.17-16.31.00:101][658]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.05.17-16.31.00:132][658]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2024.05.17-16.31.00:154][658]LogFileHelpers: InternalPromptForCheckoutAndSave took 217 ms (total: 5.36 sec)
+[2024.05.17-16.31.04:515][844]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2024.05.17-16.31.54:388][ 32]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2024.05.17-16.31.58:383][180]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Sphere.Sphere
+[2024.05.17-16.31.58:383][180]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Sphere.Sphere
+[2024.05.17-16.31.58:386][180]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Sphere.Sphere as actor: StaticMeshActor /Game/Maps/Level1.Level1:PersistentLevel.StaticMeshActor_UAID_842AFD4B6BAD87F601_1327692697
+[2024.05.17-16.31.58:386][180]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Sphere.Sphere as actor: StaticMeshActor /Game/Maps/Level1.Level1:PersistentLevel.StaticMeshActor_UAID_842AFD4B6BAD87F601_1327692697
+[2024.05.17-16.33.24:465][737]Cmd: DELETE
+[2024.05.17-16.33.24:465][737]Cmd: ACTOR DELETE
+[2024.05.17-16.33.24:468][737]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.17-16.33.24:508][737]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2024.05.17-16.33.24:512][737]LogEditorActor: Deleted 1 Actors (0.047 secs)
+[2024.05.17-16.33.34:035][159]Cmd: SELECT NONE
+[2024.05.17-16.33.36:495][263]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2024.05.17-16.33.51:045][893]LogMetaData: Removing '/Game/Menu_UI/BP_GameOver.BP_GameOver_C' ref from Metadata '/Game/UI/BP_GameOver.PackageMetaData'
+[2024.05.17-16.33.51:045][893]LogMetaData: Removing '/Game/Menu_UI/BP_GameOver.BP_GameOver:EventGraph.K2Node_Event_0' ref from Metadata '/Game/UI/BP_GameOver.PackageMetaData'
+[2024.05.17-16.33.51:045][893]LogMetaData: Removing '/Game/Menu_UI/BP_GameOver.BP_GameOver:EventGraph.K2Node_Event_1' ref from Metadata '/Game/UI/BP_GameOver.PackageMetaData'
+[2024.05.17-16.33.51:045][893]LogMetaData: Removing '/Game/Menu_UI/BP_GameOver.BP_GameOver:EventGraph.K2Node_Event_2' ref from Metadata '/Game/UI/BP_GameOver.PackageMetaData'
+[2024.05.17-16.33.51:045][893]LogMetaData: Removing '/Game/Menu_UI/BP_GameOver.SKEL_BP_GameOver_C:PreConstruct' ref from Metadata '/Game/UI/BP_GameOver.PackageMetaData'
+[2024.05.17-16.33.51:045][893]LogMetaData: Removing '/Game/Menu_UI/BP_GameOver.SKEL_BP_GameOver_C:Construct' ref from Metadata '/Game/UI/BP_GameOver.PackageMetaData'
+[2024.05.17-16.33.51:045][893]LogMetaData: Removing '/Game/Menu_UI/BP_GameOver.SKEL_BP_GameOver_C:Tick' ref from Metadata '/Game/UI/BP_GameOver.PackageMetaData'
+[2024.05.17-16.33.51:045][893]LogMetaData: Removing '/Game/Menu_UI/BP_GameOver.SKEL_BP_GameOver_C:BndEvt__BP_GameOver_Retry_K2Node_ComponentBoundEvent_0_OnButtonClickedEvent__DelegateSignature' ref from Metadata '/Game/UI/BP_GameOver.PackageMetaData'
+[2024.05.17-16.33.51:045][893]LogMetaData: Removing '/Game/Menu_UI/BP_GameOver.SKEL_BP_GameOver_C:BndEvt__BP_GameOver_Main_Menu_K2Node_ComponentBoundEvent_1_OnButtonClickedEvent__DelegateSignature' ref from Metadata '/Game/UI/BP_GameOver.PackageMetaData'
+[2024.05.17-16.33.51:045][893]LogMetaData: Removing '/Game/Menu_UI/BP_GameOver.SKEL_BP_GameOver_C' ref from Metadata '/Game/UI/BP_GameOver.PackageMetaData'
+[2024.05.17-16.33.51:047][893]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.17-16.33.51:180][893]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.05.17-16.33.51:180][893]LogSavePackage: Moving 'C:/Users/33638/OneDrive/Documents/GitHub/Projet_Saison_2_GD2/Saison_2_GD2_Projetc/Saved/BP_ThirdPersonCharacter69FC8DEF482E2E73392CD0B76D850A24.tmp' to 'C:/Users/33638/OneDrive/Documents/GitHub/Projet_Saison_2_GD2/Saison_2_GD2_Projetc/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.05.17-16.33.51:217][893]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonFox
+[2024.05.17-16.33.51:217][893]LogSavePackage: Moving 'C:/Users/33638/OneDrive/Documents/GitHub/Projet_Saison_2_GD2/Saison_2_GD2_Projetc/Saved/BP_ThirdPersonFox708B9DA54F902C7135F3B7B34E9F4DC6.tmp' to 'C:/Users/33638/OneDrive/Documents/GitHub/Projet_Saison_2_GD2/Saison_2_GD2_Projetc/Content/ThirdPerson/Blueprints/BP_ThirdPersonFox.uasset'
+[2024.05.17-16.33.51:219][893]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menu_UI/BP_GameOver" FILE="C:/Users/33638/OneDrive/Documents/GitHub/Projet_Saison_2_GD2/Saison_2_GD2_Projetc/Content/Menu_UI/BP_GameOver.uasset" SILENT=true
+[2024.05.17-16.33.51:226][893]LogSavePackage: Moving output files for package: /Game/Menu_UI/BP_GameOver
+[2024.05.17-16.33.51:226][893]LogSavePackage: Moving 'C:/Users/33638/OneDrive/Documents/GitHub/Projet_Saison_2_GD2/Saison_2_GD2_Projetc/Saved/BP_GameOverC66A9CFF4A03CFDA86504A8A9FC5C33E.tmp' to 'C:/Users/33638/OneDrive/Documents/GitHub/Projet_Saison_2_GD2/Saison_2_GD2_Projetc/Content/Menu_UI/BP_GameOver.uasset'
+[2024.05.17-16.33.51:246][893]LogFileHelpers: InternalPromptForCheckoutAndSave took 198 ms (total: 5.56 sec)
+[2024.05.17-16.33.51:298][893]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2024.05.17-16.33.51:336][893]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2024.05.17-16.33.51:370][893]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.05.17-16.33.51:411][893]AssetCheck: New page: Asset Save: multiple assets
+[2024.05.17-16.33.51:411][893]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.05.17-16.33.51:411][893]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Menu_UI/BP_GameOver.BP_GameOver
+[2024.05.17-16.33.51:412][893]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonFox.BP_ThirdPersonFox
+[2024.05.17-16.33.53:255][975]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Menu_UI/BP_GameOver.BP_GameOver
+[2024.05.17-16.33.53:255][975]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.17-16.33.53:255][975]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.17-16.33.53:293][975]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.17-16.33.53:293][975]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.17-16.34.13:782][828]LogSlate: Window 'Color Picker' being destroyed
+[2024.05.17-16.34.17:991][  3]LogSlate: Window 'Color Picker' being destroyed
+[2024.05.17-16.34.20:585][109]LogSlate: Window 'Color Picker' being destroyed
+[2024.05.17-16.34.23:825][243]LogSlate: Window 'Color Picker' being destroyed
+[2024.05.17-16.34.27:248][384]LogSlate: Window 'Color Picker' being destroyed
+[2024.05.17-16.34.31:123][545]LogSlate: Window 'Color Picker' being destroyed
+[2024.05.17-16.34.35:540][727]LogSlate: Window 'Color Picker' being destroyed
+[2024.05.17-16.34.39:160][877]LogSlate: Window 'Color Picker' being destroyed
+[2024.05.17-16.34.42:816][ 28]LogSlate: Window 'Color Picker' being destroyed
+[2024.05.17-16.34.46:011][160]LogSlate: Window 'Color Picker' being destroyed
+[2024.05.17-16.34.49:183][291]LogSlate: Window 'Color Picker' being destroyed
+[2024.05.17-16.34.56:543][599]LogSlate: Window 'Color Picker' being destroyed
+[2024.05.17-16.35.12:418][265]LogSlate: FontCache flush requested. Reason: Large atlases out of space; 2/1 Textures; frames since last flush: 255265
+[2024.05.17-16.35.12:423][265]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.17-16.35.12:492][266]LogSlate: Took 0.027965 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2024.05.17-16.35.12:496][266]LogSlate: Took 0.002751 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2024.05.17-16.35.12:514][266]LogSlate: Took 0.015938 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2024.05.17-16.35.12:523][266]LogSlate: Took 0.005220 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2024.05.17-16.35.12:548][266]LogSlate: Took 0.023846 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2024.05.17-16.35.12:580][266]LogSlate: Took 0.031015 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2024.05.17-16.35.13:794][312]LogSlate: Took 0.116335 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2024.05.17-16.35.30:148][  7]LogSlate: Took 0.005634 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.05.17-16.35.35:611][238]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Menu_UI/WBP_Pause_Menu.WBP_Pause_Menu
+[2024.05.17-16.35.35:611][238]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.17-16.35.35:611][238]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.17-16.35.35:648][238]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.17-16.35.35:648][238]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.17-16.37.29:846][ 35]BlueprintLog: New page: Compile BP_GameOver
+[2024.05.17-16.37.29:857][ 35]LogProperty: Warning: Serialized Class /Script/UMG.Button for a property of Class /Script/UMG.TextBlock. Reference will be nullptred.
+    Property = ObjectProperty /Game/Menu_UI/BP_GameOver.BP_GameOver_C:Retry
+    Item = Button /Game/Maps/Level1.Level1:REINST_BP_GameOver_C_0.WidgetTree_0.Retry
+[2024.05.17-16.37.29:918][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2024.05.17-16.37.37:366][344]LogSlate: Window 'Color Picker' being destroyed
+[2024.05.17-16.37.43:345][594]LogSlate: Window 'Color Picker' being destroyed
+[2024.05.17-16.37.49:535][855]LogSlate: Window 'Color Picker' being destroyed
+[2024.05.17-16.37.53:721][ 35]LogBlueprint: Warning: [AssetLog] C:\Users\33638\OneDrive\Documents\GitHub\Projet_Saison_2_GD2\Saison_2_GD2_Projetc\Content\Menu_UI\BP_GameOver.uasset: [Compiler] Pasted node  CustomEvent   conflicted with  On Hovered (Retry_Button)  and was replaced as a Custom Event!
+[2024.05.17-16.37.53:722][ 35]LogBlueprint: Warning: [AssetLog] C:\Users\33638\OneDrive\Documents\GitHub\Projet_Saison_2_GD2\Saison_2_GD2_Projetc\Content\Menu_UI\BP_GameOver.uasset: [Compiler] Pasted node  CustomEvent_1   conflicted with  On Unhovered (Retry_Button)  and was replaced as a Custom Event!
+[2024.05.17-16.39.25:426][908]BlueprintLog: New page: Compile BP_GameOver
+[2024.05.17-16.39.25:505][908]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2024.05.17-16.39.55:074][154]LogSlate: Window 'Color Picker' being destroyed
+[2024.05.17-16.40.10:745][804]BlueprintLog: New page: Compile BP_GameOver
+[2024.05.17-16.40.10:820][804]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2024.05.17-16.40.10:852][804]LogSlate: Window 'Color Picker' being destroyed
+[2024.05.17-16.40.20:470][200]LogSlate: Window 'Color Picker' being destroyed
+[2024.05.17-16.40.31:209][659]BlueprintLog: New page: Compile BP_GameOver
+[2024.05.17-16.40.31:282][659]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2024.05.17-16.40.33:136][736]LogWorld: UWorld::CleanupWorld for World_64, bSessionEnded=true, bCleanupResources=true
+[2024.05.17-16.40.33:136][736]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.17-16.40.33:146][736]LogWorld: UWorld::CleanupWorld for World_63, bSessionEnded=true, bCleanupResources=true
+[2024.05.17-16.40.33:146][736]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.17-16.40.35:635][842]LogSlate: Window 'WBP_Pause_Menu' being destroyed
+[2024.05.17-16.40.35:675][842]LogWorld: UWorld::CleanupWorld for World_66, bSessionEnded=true, bCleanupResources=true
+[2024.05.17-16.40.35:675][842]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.17-16.40.35:685][842]LogWorld: UWorld::CleanupWorld for World_65, bSessionEnded=true, bCleanupResources=true
+[2024.05.17-16.40.35:685][842]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.17-16.40.37:646][920]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2024.05.17-16.40.37:661][920]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.17-16.40.37:764][920]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menu_UI/BP_GameOver" FILE="C:/Users/33638/OneDrive/Documents/GitHub/Projet_Saison_2_GD2/Saison_2_GD2_Projetc/Content/Menu_UI/BP_GameOver.uasset" SILENT=true
+[2024.05.17-16.40.37:779][920]LogSavePackage: Moving output files for package: /Game/Menu_UI/BP_GameOver
+[2024.05.17-16.40.37:779][920]LogSavePackage: Moving 'C:/Users/33638/OneDrive/Documents/GitHub/Projet_Saison_2_GD2/Saison_2_GD2_Projetc/Saved/BP_GameOver9FFF47ED454BD5F3E0588594730C7724.tmp' to 'C:/Users/33638/OneDrive/Documents/GitHub/Projet_Saison_2_GD2/Saison_2_GD2_Projetc/Content/Menu_UI/BP_GameOver.uasset'
+[2024.05.17-16.40.37:790][920]LogFileHelpers: InternalPromptForCheckoutAndSave took 128 ms (total: 5.69 sec)
+[2024.05.17-16.40.37:802][920]AssetCheck: New page: Asset Save: BP_GameOver
+[2024.05.17-16.40.37:802][920]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Menu_UI/BP_GameOver.BP_GameOver
+[2024.05.17-16.40.51:514][533]Cmd: DELETE
+[2024.05.17-16.40.51:514][533]Cmd: ACTOR DELETE
+[2024.05.17-16.40.51:518][533]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.17-16.40.51:519][533]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.17-16.40.51:520][533]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.17-16.40.51:521][533]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.17-16.40.51:522][533]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.17-16.40.51:562][533]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2024.05.17-16.40.51:566][533]LogEditorActor: Deleted 5 Actors (0.052 secs)
+[2024.05.17-16.40.53:953][641]Cmd: DELETE
+[2024.05.17-16.40.53:953][641]Cmd: ACTOR DELETE
+[2024.05.17-16.40.53:956][641]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.17-16.40.53:996][641]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2024.05.17-16.40.54:000][641]LogEditorActor: Deleted 1 Actors (0.046 secs)
+[2024.05.17-16.40.54:561][663]Cmd: DELETE
+[2024.05.17-16.40.54:562][663]Cmd: ACTOR DELETE
+[2024.05.17-16.40.54:565][663]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.17-16.40.54:602][663]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2024.05.17-16.40.54:605][663]LogEditorActor: Deleted 1 Actors (0.043 secs)
+[2024.05.17-16.41.18:542][770]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2024.05.17-16.41.18:581][770]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.05.17-16.41.19:622][770]LogSlate: Window 'Save Content' being destroyed
+[2024.05.17-16.41.19:630][770]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.17-16.41.19:769][770]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2024.05.17-16.41.19:805][770]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.05.17-16.41.19:841][770]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.05.17-16.41.19:855][770]LogFileHelpers: InternalPromptForCheckoutAndSave took 225 ms (total: 5.92 sec)
+[2024.05.17-16.41.19:969][770]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.17-16.41.19:972][770]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Level1_Spiritual.Level1_Spiritual
+[2024.05.17-16.41.19:972][770]Cmd: MAP LOAD FILE="C:/Users/33638/OneDrive/Documents/GitHub/Projet_Saison_2_GD2/Saison_2_GD2_Projetc/Content/Maps/Level1_Spiritual.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.05.17-16.41.19:972][770]LightingResults: New page: Lighting Build
+[2024.05.17-16.41.19:973][770]LoadErrors: New page: Loading map: Level1_Spiritual.umap
+[2024.05.17-16.41.20:062][770]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2024.05.17-16.41.20:063][770]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.17-16.41.20:070][770]LogContentBundle: [Level1(Standalone)] Deleting container.
+[2024.05.17-16.41.20:070][770]MapCheck: New page: Map Check
+[2024.05.17-16.41.20:070][770]LightingResults: New page: Lighting Build
+[2024.05.17-16.41.20:111][770]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.05.17-16.41.20:136][770]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2024.05.17-16.41.20:149][770]LogWorld: UWorld::CleanupWorld for Level1_Spiritual, bSessionEnded=true, bCleanupResources=true
+[2024.05.17-16.41.20:149][770]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.17-16.41.20:183][770]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2024.05.17-16.41.20:220][770]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2024.05.17-16.41.20:248][770]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level1_Spiritual'.
+[2024.05.17-16.41.20:249][770]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.17-16.41.20:249][770]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.17-16.41.20:249][770]LogAIModule: Creating AISystem for world Level1_Spiritual
+[2024.05.17-16.41.20:250][770]LogWorldPartition: ULevel::OnLevelLoaded(Level1_Spiritual)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2024.05.17-16.41.20:250][770]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.05.17-16.41.20:250][770]LogWorldPartition: UWorldPartition::Initialize(Asset=Level1_Spiritual, IsEditor=1, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2024.05.17-16.41.20:608][770]LogContentBundle: [Level1_Spiritual(Standalone)] Creating new contrainer.
+[2024.05.17-16.41.20:608][770]LogWorldPartition: Display: WorldPartition initialize took 357 ms (total: 18.1 sec)
+[2024.05.17-16.41.21:249][770]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.05.17-16.41.21:286][770]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2024.05.17-16.41.21:293][770]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.05.17-16.41.21:294][770]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,94ms to complete.
+[2024.05.17-16.41.21:294][770]LogFileHelpers: Loading map 'Level1_Spiritual' took 1.322
+[2024.05.17-16.41.21:516][770]LogShaderCompilers: Display: ================================================
+[2024.05.17-16.41.21:516][770]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.05.17-16.41.21:516][770]LogShaderCompilers: Display: Total job queries 160, among them cache hits 56 (35.00%)
+[2024.05.17-16.41.21:516][770]LogShaderCompilers: Display: Tracking 104 distinct input hashes that result in 62 distinct outputs (59.62%)
+[2024.05.17-16.41.21:516][770]LogShaderCompilers: Display: RAM used: 2,50 MiB of 819,20 MiB budget. Usage: 0.31%
+[2024.05.17-16.41.21:516][770]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.05.17-16.41.21:516][770]LogShaderCompilers: Display: Shaders Compiled: 104
+[2024.05.17-16.41.21:516][770]LogShaderCompilers: Display: Jobs assigned 104, completed 104 (100.00%)
+[2024.05.17-16.41.21:516][770]LogShaderCompilers: Display: Average time worker was idle: 258.47 s
+[2024.05.17-16.41.21:516][770]LogShaderCompilers: Display: Time job spent in pending queue: average 5.77 s, longest 26.75 s
+[2024.05.17-16.41.21:516][770]LogShaderCompilers: Display: Job execution time: average 2.29 s, max 24.41 s
+[2024.05.17-16.41.21:516][770]LogShaderCompilers: Display: Job life time (pending + execution): average 8.06 s, max 28.13
+[2024.05.17-16.41.21:516][770]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 65.84 s
+[2024.05.17-16.41.21:516][770]LogShaderCompilers: Display: Jobs were issued in 104 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.05.17-16.41.21:516][770]LogShaderCompilers: Display: Average processing rate: 1.58 jobs/sec
+[2024.05.17-16.41.21:516][770]LogShaderCompilers: Display: Total thread time: 73,752 s
+[2024.05.17-16.41.21:516][770]LogShaderCompilers: Display: Total thread preprocess time: 12,355 s
+[2024.05.17-16.41.21:516][770]LogShaderCompilers: Display: Percentage time preprocessing: 16.75%
+[2024.05.17-16.41.21:516][770]LogShaderCompilers: Display: Effective parallelization: 1.12 (times faster than compiling all shaders on one thread). Compare with number of workers: 4
+[2024.05.17-16.41.21:516][770]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.05.17-16.41.21:516][770]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    5 times, average 1.38 sec, max 1.64 sec, min 1.09 sec)
+[2024.05.17-16.41.21:516][770]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   12 times, average 1.23 sec, max 2.85 sec, min 0.67 sec)
+[2024.05.17-16.41.21:516][770]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled   17 times, average 1.22 sec, max 2.20 sec, min 0.69 sec)
+[2024.05.17-16.41.21:516][770]LogShaderCompilers: Display:                                            FDistortionMeshVS (compiled    3 times, average 0.96 sec, max 1.12 sec, min 0.84 sec)
+[2024.05.17-16.41.21:516][770]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap (compiled    4 times, average 0.91 sec, max 1.07 sec, min 0.75 sec)
+[2024.05.17-16.41.21:516][770]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.05.17-16.41.21:516][770]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 28.23% of total time (compiled   17 times, average 1.22 sec, max 2.20 sec, min 0.69 sec)
+[2024.05.17-16.41.21:516][770]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 20.02% of total time (compiled   12 times, average 1.23 sec, max 2.85 sec, min 0.67 sec)
+[2024.05.17-16.41.21:516][770]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 9.36% of total time (compiled    5 times, average 1.38 sec, max 1.64 sec, min 1.09 sec)
+[2024.05.17-16.41.21:516][770]LogShaderCompilers: Display:                                               FNiagaraShader - 9.18% of total time (compiled   26 times, average 0.26 sec, max 0.67 sec, min 0.06 sec)
+[2024.05.17-16.41.21:516][770]LogShaderCompilers: Display:                                                 FLumenCardVS - 6.58% of total time (compiled    7 times, average 0.69 sec, max 0.97 sec, min 0.54 sec)
+[2024.05.17-16.41.21:517][770]LogShaderCompilers: Display: ================================================
+[2024.05.17-16.41.21:522][770]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.17-16.41.21:526][771]LogAutomationController: Ignoring very large delta of 3.04 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.05.17-16.41.38:423][449]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.17-16.41.45:629][722]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.17-16.41.45:741][722]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Level1_Spiritual/9/W6/ZFTSE037R6KB1Q06N7EYVM
+[2024.05.17-16.41.45:742][722]LogSavePackage: Moving 'C:/Users/33638/OneDrive/Documents/GitHub/Projet_Saison_2_GD2/Saison_2_GD2_Projetc/Saved/ZFTSE037R6KB1Q06N7EYVM2F7E1AC045191323C3259EA8F965B155.tmp' to 'C:/Users/33638/OneDrive/Documents/GitHub/Projet_Saison_2_GD2/Saison_2_GD2_Projetc/Content/__ExternalActors__/Maps/Level1_Spiritual/9/W6/ZFTSE037R6KB1Q06N7EYVM.uasset'
+[2024.05.17-16.41.45:751][722]LogFileHelpers: InternalPromptForCheckoutAndSave took 121 ms (total: 6.04 sec)
+[2024.05.17-16.41.45:759][722]AssetCheck: New page: Asset Save: NiagaraActor_UAID_842AFD4B6BAD86F601_1181423520
+[2024.05.17-16.41.45:759][722]LogContentValidation: Display: Validating /Script/Niagara.NiagaraActor /Game/Maps/Level1_Spiritual.Level1_Spiritual:PersistentLevel.NiagaraActor_UAID_842AFD4B6BAD86F601_1181423520
+[2024.05.17-16.41.47:206][776]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
