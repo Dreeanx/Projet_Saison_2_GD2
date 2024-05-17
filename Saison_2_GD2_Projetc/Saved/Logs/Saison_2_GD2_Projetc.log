@@ -5825,3 +5825,203 @@ Script Stack (0 frames) :
 [2024.05.17-16.41.45:759][722]AssetCheck: New page: Asset Save: NiagaraActor_UAID_842AFD4B6BAD86F601_1181423520
 [2024.05.17-16.41.45:759][722]LogContentValidation: Display: Validating /Script/Niagara.NiagaraActor /Game/Maps/Level1_Spiritual.Level1_Spiritual:PersistentLevel.NiagaraActor_UAID_842AFD4B6BAD86F601_1181423520
 [2024.05.17-16.41.47:206][776]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2024.05.17-16.42.49:158][712]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Water/M_Water_Inst.M_Water_Inst
+[2024.05.17-16.42.49:162][712]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.17-16.42.49:162][712]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.17-16.42.49:434][712]LogViewport: Scene viewport resized to 1333x848, mode Windowed.
+[2024.05.17-16.42.49:455][712]LogSlate: Took 0.000242 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.05.17-16.42.53:037][843]LogSlate: Window 'M_Water_Inst' being destroyed
+[2024.05.17-16.42.53:081][843]LogWorld: UWorld::CleanupWorld for World_68, bSessionEnded=true, bCleanupResources=true
+[2024.05.17-16.42.53:081][843]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.17-16.42.55:412][930]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Water/M_Water.M_Water
+[2024.05.17-16.42.55:536][930]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.17-16.42.55:536][930]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.17-16.42.55:886][930]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.17-16.42.55:886][930]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.05.17-16.42.55:886][930]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-16.42.55:886][930]MaterialEditorStats: Shader Count: 0
+[2024.05.17-16.42.55:897][930]LogViewport: Scene viewport resized to 432x421, mode Windowed.
+[2024.05.17-16.42.57:934][992]MaterialEditorStats: Texture samplers: 1/16
+[2024.05.17-16.42.57:934][992]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.05.17-16.42.57:934][992]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-16.42.57:934][992]MaterialEditorStats: Shader Count: 1
+[2024.05.17-16.42.58:228][  2]MaterialEditorStats: Base pass vertex shader: 249 instructions
+[2024.05.17-16.42.58:228][  2]MaterialEditorStats: Texture samplers: 1/16
+[2024.05.17-16.42.58:228][  2]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.05.17-16.42.58:228][  2]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-16.42.58:228][  2]MaterialEditorStats: Shader Count: 3
+[2024.05.17-16.43.00:448][ 78]MaterialEditorStats: Base pass vertex shader: 249 instructions
+[2024.05.17-16.43.00:449][ 78]MaterialEditorStats: Texture samplers: 3/16
+[2024.05.17-16.43.00:449][ 78]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.05.17-16.43.00:449][ 78]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-16.43.00:449][ 78]MaterialEditorStats: Shader Count: 4
+[2024.05.17-16.43.02:553][148]LogSlate: Window 'M_Water' being destroyed
+[2024.05.17-16.43.02:596][148]LogWorld: UWorld::CleanupWorld for World_69, bSessionEnded=true, bCleanupResources=true
+[2024.05.17-16.43.02:596][148]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.17-16.43.12:203][509]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2024.05.17-16.43.12:326][509]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.17-16.43.12:329][509]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Level1.Level1
+[2024.05.17-16.43.12:329][509]Cmd: MAP LOAD FILE="C:/Users/33638/OneDrive/Documents/GitHub/Projet_Saison_2_GD2/Saison_2_GD2_Projetc/Content/Maps/Level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.05.17-16.43.12:329][509]LightingResults: New page: Lighting Build
+[2024.05.17-16.43.12:329][509]LoadErrors: New page: Loading map: Level1.umap
+[2024.05.17-16.43.12:419][509]LogWorld: UWorld::CleanupWorld for Level1_Spiritual, bSessionEnded=true, bCleanupResources=true
+[2024.05.17-16.43.12:420][509]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.17-16.43.12:427][509]LogContentBundle: [Level1_Spiritual(Standalone)] Deleting container.
+[2024.05.17-16.43.12:446][509]LogNiagaraEditor: OnWorldDestroyed - matched up
+[2024.05.17-16.43.12:446][509]MapCheck: New page: Map Check
+[2024.05.17-16.43.12:446][509]LightingResults: New page: Lighting Build
+[2024.05.17-16.43.12:479][509]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.05.17-16.43.12:492][509]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2024.05.17-16.43.12:502][509]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2024.05.17-16.43.12:502][509]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.17-16.43.12:536][509]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2024.05.17-16.43.12:568][509]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2024.05.17-16.43.12:603][509]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level1'.
+[2024.05.17-16.43.12:603][509]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.17-16.43.12:603][509]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.17-16.43.12:604][509]LogAIModule: Creating AISystem for world Level1
+[2024.05.17-16.43.12:604][509]LogWorldPartition: ULevel::OnLevelLoaded(Level1)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2024.05.17-16.43.12:604][509]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.05.17-16.43.12:604][509]LogWorldPartition: UWorldPartition::Initialize(Asset=Level1, IsEditor=1, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2024.05.17-16.43.13:048][509]LogContentBundle: [Level1(Standalone)] Creating new contrainer.
+[2024.05.17-16.43.13:048][509]LogWorldPartition: Display: WorldPartition initialize took 444 ms (total: 18.5 sec)
+[2024.05.17-16.43.13:694][509]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.05.17-16.43.14:026][509]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2024.05.17-16.43.14:033][509]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.05.17-16.43.14:033][509]MapCheck: Error: Level Script Blueprint references streamed actor /Game/Maps/Level1.BP_ThirdPersonCharacter 
+[2024.05.17-16.43.14:034][509]MapCheck: Error: Level Script Blueprint references streamed actor /Game/Maps/Level1.BP_ThirdPersonFox 
+[2024.05.17-16.43.14:034][509]MapCheck: Warning: Spatially loaded actor /Game/Maps/Level1.BP_Plaque_de_pression_Wall_5 references Non-spatially loaded actor /Game/Maps/Level1.BP_ThirdPersonFox 
+[2024.05.17-16.43.14:034][509]MapCheck: Warning: Spatially loaded actor /Game/Maps/Level1.BP_Plaque_de_pression_Wall_4 references Non-spatially loaded actor /Game/Maps/Level1.BP_ThirdPersonFox 
+[2024.05.17-16.43.14:034][509]MapCheck: Warning: Spatially loaded actor /Game/Maps/Level1.BP_Plaque_de_pression_Wall_6 references Non-spatially loaded actor /Game/Maps/Level1.BP_ThirdPersonFox 
+[2024.05.17-16.43.14:034][509]MapCheck: Map check complete: 2 Error(s), 3 Warning(s), took 0,9ms to complete.
+[2024.05.17-16.43.14:109][509]LogFileHelpers: Loading map 'Level1' took 1.779
+[2024.05.17-16.43.14:425][509]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.17-16.43.14:456][510]LogAutomationController: Ignoring very large delta of 2.32 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.05.17-16.43.15:165][528]LogSlate: Window 'Message Log' being destroyed
+[2024.05.17-16.43.15:177][528]LogSlate: Window 'Message Log' being destroyed
+[2024.05.17-16.46.34:315][927]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Water/M_Water.M_Water
+[2024.05.17-16.46.34:318][927]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.17-16.46.34:318][927]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.17-16.46.34:522][927]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.17-16.46.34:522][927]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.05.17-16.46.34:522][927]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-16.46.34:522][927]MaterialEditorStats: Shader Count: 0
+[2024.05.17-16.46.34:529][927]LogViewport: Scene viewport resized to 432x421, mode Windowed.
+[2024.05.17-16.46.34:574][928]LogShaderCompilers: Display: ================================================
+[2024.05.17-16.46.34:575][928]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.05.17-16.46.34:575][928]LogShaderCompilers: Display: Total job queries 202, among them cache hits 94 (46.53%)
+[2024.05.17-16.46.34:575][928]LogShaderCompilers: Display: Tracking 108 distinct input hashes that result in 66 distinct outputs (61.11%)
+[2024.05.17-16.46.34:575][928]LogShaderCompilers: Display: RAM used: 2,60 MiB of 819,20 MiB budget. Usage: 0.32%
+[2024.05.17-16.46.34:575][928]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.05.17-16.46.34:575][928]LogShaderCompilers: Display: Shaders Compiled: 108
+[2024.05.17-16.46.34:575][928]LogShaderCompilers: Display: Jobs assigned 108, completed 108 (100.00%)
+[2024.05.17-16.46.34:575][928]LogShaderCompilers: Display: Average time worker was idle: 294.31 s
+[2024.05.17-16.46.34:575][928]LogShaderCompilers: Display: Time job spent in pending queue: average 5.56 s, longest 26.75 s
+[2024.05.17-16.46.34:575][928]LogShaderCompilers: Display: Job execution time: average 2.30 s, max 24.41 s
+[2024.05.17-16.46.34:575][928]LogShaderCompilers: Display: Job life time (pending + execution): average 7.86 s, max 28.13
+[2024.05.17-16.46.34:575][928]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 70.34 s
+[2024.05.17-16.46.34:575][928]LogShaderCompilers: Display: Jobs were issued in 108 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.05.17-16.46.34:575][928]LogShaderCompilers: Display: Average processing rate: 1.54 jobs/sec
+[2024.05.17-16.46.34:575][928]LogShaderCompilers: Display: Total thread time: 79,22 s
+[2024.05.17-16.46.34:575][928]LogShaderCompilers: Display: Total thread preprocess time: 12,759 s
+[2024.05.17-16.46.34:575][928]LogShaderCompilers: Display: Percentage time preprocessing: 16.11%
+[2024.05.17-16.46.34:575][928]LogShaderCompilers: Display: Effective parallelization: 1.13 (times faster than compiling all shaders on one thread). Compare with number of workers: 4
+[2024.05.17-16.46.34:575][928]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.05.17-16.46.34:575][928]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    6 times, average 1.66 sec, max 3.08 sec, min 1.09 sec)
+[2024.05.17-16.46.34:575][928]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   12 times, average 1.23 sec, max 2.85 sec, min 0.67 sec)
+[2024.05.17-16.46.34:575][928]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled   18 times, average 1.21 sec, max 2.20 sec, min 0.69 sec)
+[2024.05.17-16.46.34:575][928]LogShaderCompilers: Display:                                            FDistortionMeshVS (compiled    3 times, average 0.96 sec, max 1.12 sec, min 0.84 sec)
+[2024.05.17-16.46.34:575][928]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap (compiled    4 times, average 0.91 sec, max 1.07 sec, min 0.75 sec)
+[2024.05.17-16.46.34:575][928]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.05.17-16.46.34:575][928]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 27.44% of total time (compiled   18 times, average 1.21 sec, max 2.20 sec, min 0.69 sec)
+[2024.05.17-16.46.34:575][928]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 18.64% of total time (compiled   12 times, average 1.23 sec, max 2.85 sec, min 0.67 sec)
+[2024.05.17-16.46.34:575][928]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 12.60% of total time (compiled    6 times, average 1.66 sec, max 3.08 sec, min 1.09 sec)
+[2024.05.17-16.46.34:575][928]LogShaderCompilers: Display:                                               FNiagaraShader - 8.54% of total time (compiled   26 times, average 0.26 sec, max 0.67 sec, min 0.06 sec)
+[2024.05.17-16.46.34:575][928]LogShaderCompilers: Display:                                                 FLumenCardVS - 7.18% of total time (compiled    8 times, average 0.71 sec, max 0.97 sec, min 0.54 sec)
+[2024.05.17-16.46.34:575][928]LogShaderCompilers: Display: ================================================
+[2024.05.17-16.46.34:596][929]MaterialEditorStats: Base pass vertex shader: 249 instructions
+[2024.05.17-16.46.34:596][929]MaterialEditorStats: Texture samplers: 3/16
+[2024.05.17-16.46.34:596][929]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.05.17-16.46.34:596][929]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-16.46.34:596][929]MaterialEditorStats: Shader Count: 4
+[2024.05.17-16.46.36:511][ 12]LogSlate: Window 'M_Water' being destroyed
+[2024.05.17-16.46.36:544][ 12]LogWorld: UWorld::CleanupWorld for World_70, bSessionEnded=true, bCleanupResources=true
+[2024.05.17-16.46.36:544][ 12]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.17-16.46.45:964][469]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Water/M_Water_Inst.M_Water_Inst
+[2024.05.17-16.46.45:966][469]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.17-16.46.45:966][469]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.17-16.46.46:210][469]LogViewport: Scene viewport resized to 1333x848, mode Windowed.
+[2024.05.17-16.46.55:420][774]LogSlate: Window 'M_Water_Inst' being destroyed
+[2024.05.17-16.46.55:458][774]LogWorld: UWorld::CleanupWorld for World_71, bSessionEnded=true, bCleanupResources=true
+[2024.05.17-16.46.55:458][774]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.17-16.47.01:439][  6]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Mat_Overlay/MI_Overlay.MI_Overlay
+[2024.05.17-16.47.01:441][  6]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.17-16.47.01:441][  6]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.17-16.47.01:740][  6]LogViewport: Scene viewport resized to 1333x848, mode Windowed.
+[2024.05.17-16.47.08:408][198]LogSlate: Window 'MI_Overlay' being destroyed
+[2024.05.17-16.47.08:447][198]LogWorld: UWorld::CleanupWorld for World_72, bSessionEnded=true, bCleanupResources=true
+[2024.05.17-16.47.08:447][198]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.17-16.47.48:644][914]LogAssetEditorSubsystem: Opening Asset editor for NiagaraSystem /Game/Mist/NS_Lucioles.NS_Lucioles
+[2024.05.17-16.47.48:757][914]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.17-16.47.48:757][914]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.17-16.47.48:881][914]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.17-16.47.48:881][914]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.17-16.47.48:951][914]LogViewport: Scene viewport resized to 377x388, mode Windowed.
+[2024.05.17-16.47.49:146][920]126043_NS_Lucioles_MessageLog: System successfully compiled.
+[2024.05.17-16.48.13:555][843]LogSlate: Window 'NS_Lucioles' being destroyed
+[2024.05.17-16.48.13:621][843]LogWorld: UWorld::CleanupWorld for World_73, bSessionEnded=true, bCleanupResources=true
+[2024.05.17-16.48.13:621][843]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.17-16.48.13:638][843]LogWorld: UWorld::CleanupWorld for World_74, bSessionEnded=true, bCleanupResources=true
+[2024.05.17-16.48.13:639][843]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.17-16.48.13:703][843]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2024.05.17-16.48.15:830][931]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2024.05.17-16.48.15:835][931]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.17-16.48.15:932][931]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mist/NS_Lucioles" FILE="C:/Users/33638/OneDrive/Documents/GitHub/Projet_Saison_2_GD2/Saison_2_GD2_Projetc/Content/Mist/NS_Lucioles.uasset" SILENT=true
+[2024.05.17-16.48.16:008][931]LogSavePackage: Moving output files for package: /Game/Mist/NS_Lucioles
+[2024.05.17-16.48.16:009][931]LogSavePackage: Moving 'C:/Users/33638/OneDrive/Documents/GitHub/Projet_Saison_2_GD2/Saison_2_GD2_Projetc/Saved/NS_Lucioles140B71EF44506AD3E0B261A17239B305.tmp' to 'C:/Users/33638/OneDrive/Documents/GitHub/Projet_Saison_2_GD2/Saison_2_GD2_Projetc/Content/Mist/NS_Lucioles.uasset'
+[2024.05.17-16.48.16:017][931]LogFileHelpers: InternalPromptForCheckoutAndSave took 183 ms (total: 6.22 sec)
+[2024.05.17-16.48.16:026][931]AssetCheck: New page: Asset Save: NS_Lucioles
+[2024.05.17-16.48.16:026][931]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Mist/NS_Lucioles.NS_Lucioles
+[2024.05.17-16.50.23:517][402]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2024.05.17-16.50.23:519][402]LogStall: Shutdown...
+[2024.05.17-16.50.23:528][402]LogStall: Shutdown complete.
+[2024.05.17-16.50.23:617][402]LogSlate: Window 'Saison_2_GD2_Projetc - Unreal Editor' being destroyed
+[2024.05.17-16.50.24:002][403]Cmd: QUIT_EDITOR
+[2024.05.17-16.50.24:008][403]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2024.05.17-16.50.24:105][403]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2024.05.17-16.50.24:113][403]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2024.05.17-16.50.24:113][403]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2024.05.17-16.50.24:246][403]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2024.05.17-16.50.24:246][403]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.17-16.50.24:247][403]LogContentBundle: [Level1(Standalone)] Deleting container.
+[2024.05.17-16.50.24:562][403]LogStylusInput: Shutting down StylusInput subsystem.
+[2024.05.17-16.50.24:632][403]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2024.05.17-16.50.26:046][403]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2024.05.17-16.50.26:046][403]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2024.05.17-16.50.26:046][403]LogAudio: Display: Audio Device unregistered from world 'Level1'.
+[2024.05.17-16.50.26:051][403]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 1
+[2024.05.17-16.50.26:068][403]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2024.05.17-16.50.26:070][403]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2024.05.17-16.50.26:079][403]LogAudio: Display: Audio Device Manager Shutdown
+[2024.05.17-16.50.26:084][403]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2024.05.17-16.50.26:101][403]LogExit: Preparing to exit.
+[2024.05.17-16.50.26:671][403]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2024.05.17-16.50.26:692][403]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.05.17-16.50.26:694][403]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.05.17-16.50.26:698][403]LogPython: Display: Object '/Engine/PythonTypes.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.05.17-16.50.26:698][403]LogPython: Display: Object '/Engine/PythonTypes.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.05.17-16.50.26:698][403]LogPython: Display: Object '/Engine/PythonTypes.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.05.17-16.50.26:698][403]LogPython: Display: Object '/Engine/PythonTypes.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.05.17-16.50.26:698][403]LogPython: Display: Object '/Engine/PythonTypes.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.05.17-16.50.26:699][403]LogPython: Display: Object '/Engine/PythonTypes.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.05.17-16.50.26:699][403]LogPython: Display: Object '/Engine/PythonTypes.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.05.17-16.50.26:699][403]LogPython: Display: Object '/Engine/PythonTypes.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.05.17-16.50.26:699][403]LogPython: Display: Object '/Engine/PythonTypes.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.05.17-16.50.26:699][403]LogPython: Display: Object '/Engine/PythonTypes.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.05.17-16.50.26:699][403]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.05.17-16.50.26:699][403]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.05.17-16.50.26:699][403]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.05.17-16.50.26:699][403]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.05.17-16.50.26:699][403]LogPython: Display: Object '/Engine/PythonTypes.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.05.17-16.50.26:699][403]LogPython: Display: Object '/Engine/PythonTypes.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.05.17-16.50.26:699][403]LogPython: Display: Object '/Engine/PythonTypes.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
