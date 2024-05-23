@@ -12838,3 +12838,4 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.05.23-14.26.22:901][819]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
 [2024.05.23-14.26.22:936][822]LogPlayLevel: Display: Destroying online subsystem :Context_14
 [2024.05.23-14.26.28:138][122]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2024.05.23-14.32.56:669][251]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
