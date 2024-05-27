@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/apapa/OneDrive/Documents/GitHub/Projet_Saison_2_GD2/Saison_2_GD2_Projetc/Content/Push/BP_Cube_Push.uasset",
+				"C:/Users/apapa/OneDrive/Documents/GitHub/Projet_Saison_2_GD2/Saison_2_GD2_Projetc/Content/Respawn_Trigger/BP_Respawn.uasset",
+				"C:/Users/apapa/OneDrive/Documents/GitHub/Projet_Saison_2_GD2/Saison_2_GD2_Projetc/Content/__ExternalActors__/Maps/Level1/E/KI/GEJN94H3F6PIFILLW5U67A.uasset",
 				"C:/Users/33638/OneDrive/Documents/GitHub/Projet_Saison_2_GD2/Saison_2_GD2_Projetc/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"C:/Users/33638/OneDrive/Documents/GitHub/Projet_Saison_2_GD2/Saison_2_GD2_Projetc/Content/ThirdPerson/Input/IMC_Default.uasset",
 				"C:/Users/33638/OneDrive/Documents/GitHub/Projet_Saison_2_GD2/Saison_2_GD2_Projetc/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
