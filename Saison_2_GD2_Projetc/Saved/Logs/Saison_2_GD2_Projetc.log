@@ -3258,3 +3258,12 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.05.27-13.52.41:210][431]LogContentBundle: [Level1_Spiritual(Standalone)] Deleting container.
 [2024.05.27-13.52.47:579][431]LogStylusInput: Shutting down StylusInput subsystem.
 [2024.05.27-13.52.49:023][431]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2024.05.27-13.52.58:187][431]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2024.05.27-13.52.58:188][431]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2024.05.27-13.52.58:188][431]LogAudio: Display: Audio Device unregistered from world 'Level1_Spiritual'.
+[2024.05.27-13.52.58:301][431]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 1
+[2024.05.27-13.52.58:301][431]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2024.05.27-13.52.58:303][431]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2024.05.27-13.52.58:400][431]LogAudio: Display: Audio Device Manager Shutdown
+[2024.05.27-13.52.58:722][431]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2024.05.27-13.52.58:806][431]LogExit: Preparing to exit.
