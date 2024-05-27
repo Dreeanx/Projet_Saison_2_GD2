@@ -3199,3 +3199,60 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.05.27-13.50.48:046][955]LogHttp: Warning: 00000B5E0333CD00: libcurl info message cache 24 (Failed to connect to datarouter.ol.epicgames.com port 443 after 59698 ms: Timed out)
 [2024.05.27-13.50.48:046][955]LogHttp: Warning: 00000B5E0333CD00: libcurl info message cache 25 (Closing connection 4)
 [2024.05.27-13.50.48:046][955]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B65826119-4196-C1FC-93E3-8F9D5B605E58%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=1b15abe0464d2659ab4b95a29c705c89%7C6e100f1e424b4295bc5414d97b8a3f65%7Cfb66259b-dfc9-4eb9-bcfc-5e99915a433f&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.05.27-13.51.48:108][134]LogHttp: Warning: 00000B5E0333F000: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B65826119-4196-C1FC-93E3-8F9D5B605E58%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=1b15abe0464d2659ab4b95a29c705c89%7C6e100f1e424b4295bc5414d97b8a3f65%7Cfb66259b-dfc9-4eb9-bcfc-5e99915a433f&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.05.27-13.51.48:108][134]LogHttp: Warning: 00000B5E0333F000: request failed, libcurl error: 28 (Timeout was reached)
+[2024.05.27-13.51.48:108][134]LogHttp: Warning: 00000B5E0333F000: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2024.05.27-13.51.48:108][134]LogHttp: Warning: 00000B5E0333F000: libcurl info message cache 1 (  Trying 3.231.78.225:443...)
+[2024.05.27-13.51.48:108][134]LogHttp: Warning: 00000B5E0333F000: libcurl info message cache 2 (connect to 3.231.78.225 port 443 failed: Timed out)
+[2024.05.27-13.51.48:108][134]LogHttp: Warning: 00000B5E0333F000: libcurl info message cache 3 (  Trying 44.205.222.136:443...)
+[2024.05.27-13.51.48:108][134]LogHttp: Warning: 00000B5E0333F000: libcurl info message cache 4 (After 19430ms connect time, move on!)
+[2024.05.27-13.51.48:108][134]LogHttp: Warning: 00000B5E0333F000: libcurl info message cache 5 (connect to 44.205.222.136 port 443 failed: Timed out)
+[2024.05.27-13.51.48:109][134]LogHttp: Warning: 00000B5E0333F000: libcurl info message cache 6 (  Trying 3.228.71.134:443...)
+[2024.05.27-13.51.48:109][134]LogHttp: Warning: 00000B5E0333F000: libcurl info message cache 7 (After 9714ms connect time, move on!)
+[2024.05.27-13.51.48:109][134]LogHttp: Warning: 00000B5E0333F000: libcurl info message cache 8 (connect to 3.228.71.134 port 443 failed: Timed out)
+[2024.05.27-13.51.48:109][134]LogHttp: Warning: 00000B5E0333F000: libcurl info message cache 9 (  Trying 44.198.194.63:443...)
+[2024.05.27-13.51.48:109][134]LogHttp: Warning: 00000B5E0333F000: libcurl info message cache 10 (After 4856ms connect time, move on!)
+[2024.05.27-13.51.48:109][134]LogHttp: Warning: 00000B5E0333F000: libcurl info message cache 11 (connect to 44.198.194.63 port 443 failed: Timed out)
+[2024.05.27-13.51.48:109][134]LogHttp: Warning: 00000B5E0333F000: libcurl info message cache 12 (  Trying 174.129.80.98:443...)
+[2024.05.27-13.51.48:109][134]LogHttp: Warning: 00000B5E0333F000: libcurl info message cache 13 (After 2428ms connect time, move on!)
+[2024.05.27-13.51.48:109][134]LogHttp: Warning: 00000B5E0333F000: libcurl info message cache 14 (connect to 174.129.80.98 port 443 failed: Timed out)
+[2024.05.27-13.51.48:109][134]LogHttp: Warning: 00000B5E0333F000: libcurl info message cache 15 (  Trying 54.166.39.200:443...)
+[2024.05.27-13.51.48:109][134]LogHttp: Warning: 00000B5E0333F000: libcurl info message cache 16 (After 1213ms connect time, move on!)
+[2024.05.27-13.51.48:109][134]LogHttp: Warning: 00000B5E0333F000: libcurl info message cache 17 (connect to 54.166.39.200 port 443 failed: Timed out)
+[2024.05.27-13.51.48:109][134]LogHttp: Warning: 00000B5E0333F000: libcurl info message cache 18 (  Trying 52.205.194.155:443...)
+[2024.05.27-13.51.48:109][134]LogHttp: Warning: 00000B5E0333F000: libcurl info message cache 19 (After 606ms connect time, move on!)
+[2024.05.27-13.51.48:109][134]LogHttp: Warning: 00000B5E0333F000: libcurl info message cache 20 (connect to 52.205.194.155 port 443 failed: Timed out)
+[2024.05.27-13.51.48:109][134]LogHttp: Warning: 00000B5E0333F000: libcurl info message cache 21 (  Trying 52.203.82.193:443...)
+[2024.05.27-13.51.48:109][134]LogHttp: Warning: 00000B5E0333F000: libcurl info message cache 22 (After 302ms connect time, move on!)
+[2024.05.27-13.51.48:109][134]LogHttp: Warning: 00000B5E0333F000: libcurl info message cache 23 (connect to 52.203.82.193 port 443 failed: Timed out)
+[2024.05.27-13.51.48:109][134]LogHttp: Warning: 00000B5E0333F000: libcurl info message cache 24 (Failed to connect to datarouter.ol.epicgames.com port 443 after 59700 ms: Timed out)
+[2024.05.27-13.51.48:109][134]LogHttp: Warning: 00000B5E0333F000: libcurl info message cache 25 (Closing connection 5)
+[2024.05.27-13.51.48:109][134]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B65826119-4196-C1FC-93E3-8F9D5B605E58%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=1b15abe0464d2659ab4b95a29c705c89%7C6e100f1e424b4295bc5414d97b8a3f65%7Cfb66259b-dfc9-4eb9-bcfc-5e99915a433f&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.05.27-13.52.16:767][430]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2024.05.27-13.52.20:375][430]LogSlate: Window 'Save Content' being destroyed
+[2024.05.27-13.52.21:126][430]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.27-13.52.21:750][430]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.05.27-13.52.21:751][430]LogSavePackage: Moving 'C:/Users/33638/OneDrive/Documents/GitHub/Projet_Saison_2_GD2/Saison_2_GD2_Projetc/Saved/BP_ThirdPersonCharacter28E62ACD42221A52B68270858160916D.tmp' to 'C:/Users/33638/OneDrive/Documents/GitHub/Projet_Saison_2_GD2/Saison_2_GD2_Projetc/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.05.27-13.52.22:182][430]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.05 sec
+[2024.05.27-13.52.22:247][430]LogStall: Shutdown...
+[2024.05.27-13.52.22:507][430]LogStall: Shutdown complete.
+[2024.05.27-13.52.28:572][430]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2024.05.27-13.52.28:572][430]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.27-13.52.28:882][430]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2024.05.27-13.52.28:882][430]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.27-13.52.30:313][430]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2024.05.27-13.52.30:314][430]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.27-13.52.30:477][430]LogSlate: Window 'BP_ThirdPersonCharacter' being destroyed
+[2024.05.27-13.52.30:506][430]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2024.05.27-13.52.30:506][430]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.27-13.52.32:522][430]LogSlate: Window 'Saison_2_GD2_Projetc - Unreal Editor' being destroyed
+[2024.05.27-13.52.35:587][430]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2024.05.27-13.52.35:588][430]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.05.27-13.52.35:911][431]Cmd: QUIT_EDITOR
+[2024.05.27-13.52.35:948][431]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2024.05.27-13.52.38:477][431]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2024.05.27-13.52.38:951][431]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2024.05.27-13.52.39:065][431]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2024.05.27-13.52.40:731][431]LogWorld: UWorld::CleanupWorld for Level1_Spiritual, bSessionEnded=true, bCleanupResources=true
+[2024.05.27-13.52.40:731][431]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.27-13.52.41:210][431]LogContentBundle: [Level1_Spiritual(Standalone)] Deleting container.
