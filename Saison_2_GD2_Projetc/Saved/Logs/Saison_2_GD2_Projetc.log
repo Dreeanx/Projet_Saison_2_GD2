@@ -2565,3 +2565,637 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.05.27-10.42.53:268][  7]UATHelper: Packaging (Windows): BUILD SUCCESSFUL
 [2024.05.27-10.42.53:268][  7]UATHelper: Packaging (Windows): AutomationTool executed for 0h 4m 12s
 [2024.05.27-10.42.53:268][  7]UATHelper: Packaging (Windows): AutomationTool exiting with ExitCode=0 (Success)
+[2024.05.27-13.32.52:303][385]LogSlate: Took 0.015116 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.05.27-13.33.25:838][334]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Menu_UI/WBP_Pause_Menu.WBP_Pause_Menu
+[2024.05.27-13.33.25:857][334]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.27-13.33.25:857][334]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.27-13.33.26:037][334]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.27-13.33.26:038][334]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.27-13.33.26:059][334]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+Space Bar]
+[2024.05.27-13.33.27:821][334]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' exceeded budget of 2.000000s, reporting...
+[2024.05.27-13.33.41:103][334]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [12329ms] waiting for h/w. InstanceID=1
+[2024.05.27-13.33.41:104][334]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' report submitted, and took 0.049935s
+[2024.05.27-13.33.44:263][334]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' complete in 0.003590s (3.203206s overbudget)
+[2024.05.27-13.33.45:040][334]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=25632
+[2024.05.27-13.33.46:171][334]LogSlate: Took 0.016021 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2024.05.27-13.33.46:203][334]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find SlateColor 'Foreground'.'
+[2024.05.27-13.33.46:250][334]LogSlate: Took 0.042492 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2024.05.27-13.33.46:566][335]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{00f7f349-5376-4589-b608-faad5baca550}, Name=Speaker (Realtek(R) Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=26.24
+[2024.05.27-13.33.46:566][335]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.05.27-13.33.46:568][335]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.05.27-13.33.50:339][543]LogSlate: Took 0.105881 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2024.05.27-13.34.00:335][122]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2024.05.27-13.34.04:884][122]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/Characters/Mannequins/Animations/Manny/MM_Jump.MM_Jump
+[2024.05.27-13.34.04:885][122]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/Characters/Mannequins/Animations/Manny/MM_Fall_Loop.MM_Fall_Loop
+[2024.05.27-13.34.04:885][122]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/Characters/Mannequins/Animations/Manny/MM_Idle.MM_Idle
+[2024.05.27-13.34.04:905][122]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/Characters/Mannequins/Animations/Manny/MM_Land.MM_Land
+[2024.05.27-13.34.05:891][122]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/Characters/Mannequins/Animations/Manny/MM_Walk_InPlace.MM_Walk_InPlace
+[2024.05.27-13.34.06:617][122]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_calf_l_anim.Manny_calf_l_anim
+[2024.05.27-13.34.06:624][122]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_calf_r_anim.Manny_calf_r_anim
+[2024.05.27-13.34.06:632][122]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_clavicle_l_anim.Manny_clavicle_l_anim
+[2024.05.27-13.34.06:641][122]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_clavicle_r_anim.Manny_clavicle_r_anim
+[2024.05.27-13.34.06:648][122]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_foot_l_anim.Manny_foot_l_anim
+[2024.05.27-13.34.06:657][122]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_foot_r_anim.Manny_foot_r_anim
+[2024.05.27-13.34.06:666][122]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_hand_l_anim.Manny_hand_l_anim
+[2024.05.27-13.34.06:674][122]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_hand_r_anim.Manny_hand_r_anim
+[2024.05.27-13.34.06:683][122]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_lowerarm_l_anim.Manny_lowerarm_l_anim
+[2024.05.27-13.34.06:692][122]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_lowerarm_r_anim.Manny_lowerarm_r_anim
+[2024.05.27-13.34.06:700][122]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_thigh_l_anim.Manny_thigh_l_anim
+[2024.05.27-13.34.06:708][122]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_thigh_r_anim.Manny_thigh_r_anim
+[2024.05.27-13.34.06:718][122]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_upperarm_l_anim.Manny_upperarm_l_anim
+[2024.05.27-13.34.06:727][122]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_upperarm_r_anim.Manny_upperarm_r_anim
+[2024.05.27-13.34.07:185][122]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2024.05.27-13.34.07:979][122]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.27-13.34.08:095][122]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/Characters/Mannequins/Animations/Manny/MM_Walk_Fwd.MM_Walk_Fwd
+[2024.05.27-13.34.08:095][122]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/Characters/Mannequins/Animations/Manny/MM_Run_Fwd.MM_Run_Fwd
+[2024.05.27-13.34.08:095][122]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/Crouch/CrouchWalk.CrouchWalk
+[2024.05.27-13.34.08:098][122]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/Crouch/Crouch.Crouch
+[2024.05.27-13.34.08:108][122]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Level1_Spiritual.Level1_Spiritual
+[2024.05.27-13.34.08:121][122]Cmd: MAP LOAD FILE="C:/Users/33638/OneDrive/Documents/GitHub/Projet_Saison_2_GD2/Saison_2_GD2_Projetc/Content/Maps/Level1_Spiritual.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.05.27-13.34.08:121][122]LightingResults: New page: Lighting Build
+[2024.05.27-13.34.08:121][122]LoadErrors: New page: Loading map: Level1_Spiritual.umap
+[2024.05.27-13.34.08:249][122]LogWorld: UWorld::CleanupWorld for Menu_Map, bSessionEnded=true, bCleanupResources=true
+[2024.05.27-13.34.08:257][122]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.27-13.34.08:274][122]MapCheck: New page: Map Check
+[2024.05.27-13.34.08:274][122]LightingResults: New page: Lighting Build
+[2024.05.27-13.34.08:313][122]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.05.27-13.34.08:597][122]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2024.05.27-13.34.08:675][122]LogWorld: UWorld::CleanupWorld for Level1_Spiritual, bSessionEnded=true, bCleanupResources=true
+[2024.05.27-13.34.08:676][122]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.27-13.34.08:723][122]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2024.05.27-13.34.08:746][122]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2024.05.27-13.34.08:796][122]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level1_Spiritual'.
+[2024.05.27-13.34.08:796][122]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.27-13.34.08:796][122]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.27-13.34.08:796][122]LogAIModule: Creating AISystem for world Level1_Spiritual
+[2024.05.27-13.34.08:805][122]LogWorldPartition: ULevel::OnLevelLoaded(Level1_Spiritual)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2024.05.27-13.34.08:805][122]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.05.27-13.34.08:811][122]LogWorldPartition: UWorldPartition::Initialize(Asset=Level1_Spiritual, IsEditor=1, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2024.05.27-13.34.10:110][122]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' exceeded budget of 2.000000s
+[2024.05.27-13.34.10:507][122]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/AnimalVarietyPack/DeerStagAndDoe/Animations/ANIM_DeerStag_Rest.ANIM_DeerStag_Rest
+[2024.05.27-13.34.11:297][122]LogContentBundle: [Level1_Spiritual(Standalone)] Creating new contrainer.
+[2024.05.27-13.34.11:301][122]LogWorldPartition: Display: WorldPartition initialize took 2.49 sec
+[2024.05.27-13.34.14:345][122]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.05.27-13.34.14:470][122]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2024.05.27-13.34.14:476][122]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.05.27-13.34.14:521][122]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 45,568ms to complete.
+[2024.05.27-13.34.14:521][122]LogFileHelpers: Loading map 'Level1_Spiritual' took 6.400
+[2024.05.27-13.34.14:548][122]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' complete in 0.002155s (4.439256s overbudget)
+[2024.05.27-13.34.15:692][122]LogShaderCompilers: Display: ================================================
+[2024.05.27-13.34.15:693][122]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.05.27-13.34.15:693][122]LogShaderCompilers: Display: Total job queries 12, among them cache hits 0 (0.00%)
+[2024.05.27-13.34.15:693][122]LogShaderCompilers: Display: Tracking 12 distinct input hashes that result in 12 distinct outputs (100.00%)
+[2024.05.27-13.34.15:693][122]LogShaderCompilers: Display: RAM used: 225,38 KiB of 819,20 MiB budget. Usage: 0.03%
+[2024.05.27-13.34.15:693][122]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.05.27-13.34.15:693][122]LogShaderCompilers: Display: Shaders Compiled: 0
+[2024.05.27-13.34.15:693][122]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2024.05.27-13.34.15:693][122]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2024.05.27-13.34.15:693][122]LogShaderCompilers: Display: ================================================
+[2024.05.27-13.34.15:746][122]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.27-13.34.16:921][126]LogSlate: Took 0.017875 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2024.05.27-13.38.34:935][195]LogSlate: Took 0.000256 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.05.27-13.38.36:090][257]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Maps/Level1_Spiritual.Level1_Spiritual:PersistentLevel.Level1_Spiritual
+[2024.05.27-13.38.36:127][257]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.27-13.38.36:127][257]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.27-13.38.36:987][258]LogSlate: Took 0.011143 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2024.05.27-13.38.50:416][ 36]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.27-13.38.51:844][ 84]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.05.27-13.38.51:845][ 84]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.27-13.38.51:845][ 84]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.27-13.38.53:365][ 85]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.27-13.38.53:469][ 86]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.27-13.40.15:591][867]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.05.27-13.40.15:614][867]LogContentBundle: [Level1_Spiritual(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.05.27-13.40.15:620][867]LogWorldPartition: Display: GenerateStreaming started...
+[2024.05.27-13.40.15:620][867]LogWorldPartition: Display: GetPartitionedActors started...
+[2024.05.27-13.40.15:633][867]LogWorldPartition: Display: GetPartitionedActors took 11 ms
+[2024.05.27-13.40.16:029][867]LogWorldPartition: Display: GenerateStreaming took 408 ms
+[2024.05.27-13.40.16:170][867]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.27-13.40.16:182][867]PIE: New page: PIE session: Level1_Spiritual (27 mai 2024 à 17:40:16)
+[2024.05.27-13.40.16:430][867]LogOnline: OSS: Created online subsystem instance for: NULL
+[2024.05.27-13.40.16:506][867]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2024.05.27-13.40.16:522][867]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level1_Spiritual
+[2024.05.27-13.40.16:595][867]LogPlayLevel: PIE: StaticDuplicateObject took: (0.073009s)
+[2024.05.27-13.40.16:595][867]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1_Spiritual.Level1_Spiritual to /Game/Maps/UEDPIE_0_Level1_Spiritual.Level1_Spiritual (0.073053s)
+[2024.05.27-13.40.16:595][867]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.27-13.40.16:616][867]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.27-13.40.16:616][867]LogAIModule: Creating AISystem for world Level1_Spiritual
+[2024.05.27-13.40.16:666][867]LogWorldPartition: ULevel::OnLevelLoaded(Level1_Spiritual)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.05.27-13.40.16:666][867]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.05.27-13.40.16:666][867]LogWorldPartition: UWorldPartition::Initialize(Asset=Level1_Spiritual, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2024.05.27-13.40.16:682][867]LogContentBundle: [Level1_Spiritual(Standalone)] Creating new contrainer.
+[2024.05.27-13.40.16:683][867]LogWorldPartition: Display: WorldPartition initialize took 17 ms (total: 2.51 sec)
+[2024.05.27-13.40.16:722][867]LogPlayLevel: PIE: World Init took: (0.127651s)
+[2024.05.27-13.40.16:875][867]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2024.05.27-13.40.16:919][867]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2024.05.27-13.40.16:919][867]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.27-13.40.16:919][867]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.27-13.40.16:919][867]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.27-13.40.16:919][867]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.27-13.40.16:919][867]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.27-13.40.16:920][867]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.05.27-13.40.16:920][867]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.27-13.40.16:920][867]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.27-13.40.16:920][867]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.27-13.40.16:920][867]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.27-13.40.16:920][867]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.27-13.40.16:922][867]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.27-13.40.16:963][867]LogAudioMixer: Display: Using Audio Hardware Device Speaker (Realtek(R) Audio)
+[2024.05.27-13.40.16:963][867]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.27-13.40.16:963][867]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.27-13.40.16:963][867]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.27-13.40.16:965][867]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2024.05.27-13.40.16:965][867]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2024.05.27-13.40.16:966][867]LogInit: FAudioDevice initialized with ID 2.
+[2024.05.27-13.40.16:966][867]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2024.05.27-13.40.16:966][867]LogAudio: Display: Audio Device (ID: 2) registered with world 'Level1_Spiritual'.
+[2024.05.27-13.40.16:967][867]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2024.05.27-13.40.16:967][867]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2024.05.27-13.40.17:045][867]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.05.27-13.40.17:108][867]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1_Spiritual.Level1_Spiritual up for play (max tick rate 60) at 2024.05.27-15.40.17
+[2024.05.27-13.40.17:198][867]LogWorld: Bringing up level for play took: 0.090701
+[2024.05.27-13.40.17:213][867]LogOnline: OSS: Created online subsystem instance for: :Context_8
+[2024.05.27-13.40.17:756][867]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(41), CellsToLoad(0), CellsToUnload(0)
+[2024.05.27-13.40.17:756][867]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=10130.163 Y=-3702.389 Z=107.824,P=-0.000000 Y=-89.999999 R=0.000000
+[2024.05.27-13.40.17:792][867]LogStreaming: Display: FlushAsyncLoading(-1): 51 QueuedPackages, 0 AsyncPackages
+[2024.05.27-13.40.18:041][867]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Level1_Spiritual/0/14/P0BTEX6AV07LM8DWIQ4ROR.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.05.27-13.40.18:041][867]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Level1_Spiritual/0/42/TFJVRCCQP27ABT4N3F8E2F.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.05.27-13.40.18:041][867]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Level1_Spiritual/0/8N/DCIVTSHYRI67YMR8RQUXPL.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.05.27-13.40.18:041][867]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Level1_Spiritual/0/AN/NR593BILSPSDSMWF7C1I0P.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.05.27-13.40.18:041][867]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Level1_Spiritual/0/EC/OTGIDQF76W3LJGO8GATSC4.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.05.27-13.40.18:041][867]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Level1_Spiritual/0/PI/6ZSXL9UQMCKZIOJB8J2W1Z.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.05.27-13.40.18:041][867]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Level1_Spiritual/0/YE/EOBP3IP3CDOKN99SN7RMH8.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.05.27-13.40.18:041][867]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Level1_Spiritual/1/1G/TID69DCDGUKOLMW8AQD5K4.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.05.27-13.40.18:041][867]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Level1_Spiritual/1/K1/GEHC8JMKDV1LYO0F7ZH981.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.05.27-13.40.18:041][867]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Level1_Spiritual/1/K7/FNMUQER0Y894RCJUORNHNE.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.05.27-13.40.18:041][867]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Level1_Spiritual/1/ND/GHDVXSRMIBKCQ7I0XLXYEK.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.05.27-13.40.18:042][867]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Level1_Spiritual/1/ZQ/ZKMDN7UDUAZ5USR916YHW5.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.05.27-13.40.18:042][867]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Level1_Spiritual/2/9A/EQFH0N27744DM2V7GSP9TN.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.05.27-13.40.18:042][867]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Level1_Spiritual/2/KS/YULJJ3Z555RO4A4NKN6IN3.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.05.27-13.40.18:042][867]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Level1_Spiritual/2/MT/69VOTNUVFIZFL85Q121HF9.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.05.27-13.40.18:042][867]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Level1_Spiritual/2/TJ/OME9KKLG8NMM7G5W38M5DO.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.05.27-13.40.18:042][867]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Level1_Spiritual/3/73/XSPA44V69TT79JEFNMKZEN.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.05.27-13.40.18:042][867]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Level1_Spiritual/3/91/HZ8SX5YVO1MBLZOA84VZSD.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.05.27-13.40.18:042][867]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Level1_Spiritual/3/FT/ONCGFMZWH0OHSDGLKYT2F3.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.05.27-13.40.18:042][867]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Level1_Spiritual/3/GF/HC12R6DEMTVAHCGDC7LD0Y.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.05.27-13.40.18:042][867]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Level1_Spiritual/3/L8/KLUXXT94XXHLLLM3D79QHX.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.05.27-13.40.18:042][867]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Level1_Spiritual/4/7G/ODPZX2PLF6O9Q79I766SSQ.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.05.27-13.40.18:042][867]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Level1_Spiritual/4/DJ/69669W3LO2P53RG3WE2R15.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.05.27-13.40.18:042][867]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Level1_Spiritual/4/FD/WJOL152GTD5TA40YXTI3RC.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.05.27-13.40.18:042][867]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Level1_Spiritual/4/O6/927CNT5E2NB2GO4LJ64JE5.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.05.27-13.40.18:042][867]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Level1_Spiritual/5/8V/WYLREQ4HVOTR4W0890EY3J.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.05.27-13.40.18:042][867]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Level1_Spiritual/5/F4/BW6N6IT1MXOM15EU7MLVQ2.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.05.27-13.40.18:042][867]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Level1_Spiritual/5/TB/PLVDRXKOFJTVAE3UTFOCC2.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.05.27-13.40.18:042][867]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Level1_Spiritual/5/W6/TNYR39IIQ3MKTNYV282WEB.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.05.27-13.40.18:042][867]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Level1_Spiritual/6/7A/7SWU2RZP7GM1Y89HWOXMTM.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.05.27-13.40.18:042][867]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Level1_Spiritual/6/KT/14L0WAET7BUSQ3G8FRWF8H.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.05.27-13.40.18:042][867]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Level1_Spiritual/6/L8/PFFX3JJ0CI4IBF3S502HOX.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.05.27-13.40.18:042][867]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Level1_Spiritual/6/S8/3YSVYYHAKM01T11AY20NVL.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.05.27-13.40.18:042][867]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Level1_Spiritual/6/V2/R922Y33FUWWSXX5YTIX62Y.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.05.27-13.40.18:042][867]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Level1_Spiritual/6/Y2/440RWD6MBJTYMXD8MF1056.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.05.27-13.40.18:042][867]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Level1_Spiritual/6/YO/OFHKYI9O92R6HD3E6NYAF3.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.05.27-13.40.18:042][867]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Level1_Spiritual/7/1D/94U9DZUI3VOTADNW23JNDY.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.05.27-13.40.18:042][867]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Level1_Spiritual/8/1R/PENUZ8J8J5E71T7Y1YBBU3.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.05.27-13.40.18:042][867]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Level1_Spiritual/8/3F/DECIKOTWUL0O3LL95OE5OK.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.05.27-13.40.18:042][867]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Level1_Spiritual/8/84/QUREH7NLCN9B3SYYDTO0CE.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.05.27-13.40.18:042][867]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Level1_Spiritual/8/CI/SA7UWL04TG7SW32C0GRXE2.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.05.27-13.40.18:042][867]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Level1_Spiritual/8/N0/2ERXT1J7HO5IVJD394A2RJ.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.05.27-13.40.18:042][867]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Level1_Spiritual/9/78/QMLI2SHFH7UG2DIP8N5CPU.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.05.27-13.40.18:042][867]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Level1_Spiritual/9/CB/93981VXUFV97ON9X12P7OZ.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.05.27-13.40.18:042][867]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Level1_Spiritual/9/EP/616W670OX2NMYI97VPQ3P7.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.05.27-13.40.18:042][867]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Level1_Spiritual/9/N0/QZP5BRGFHUG08XN5O7LMD6.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.05.27-13.40.18:042][867]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Level1_Spiritual/9/ZF/ZS30UA00N1EUFOWEHNFH8Y.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.05.27-13.40.18:042][867]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Level1_Spiritual/A/J8/BYHX1P7F21KJ25TLNEKX4F.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.05.27-13.40.18:042][867]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Level1_Spiritual/A/KT/N72DELLWOEMNVI0QVSOVMV.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.05.27-13.40.18:042][867]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Level1_Spiritual/A/UG/9WHO9RHCUSE7GDIC14UXBS.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.05.27-13.40.18:042][867]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Level1_Spiritual/B/CN/PBDM4JU9S24PPVLSFA7N9C.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.05.27-13.40.18:042][867]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Level1_Spiritual/B/LA/59OGRIZ3BR73PHGSRU3P82.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.05.27-13.40.18:042][867]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Level1_Spiritual/C/04/T29560MTUMU71OUTD6NJAP.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.05.27-13.40.18:042][867]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Level1_Spiritual/C/82/1J31OKD4U4BWBTWB5EOW1W.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.05.27-13.40.18:042][867]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Level1_Spiritual/C/FN/V330GBR4O0SDLQ9BME7WD8.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.05.27-13.40.18:042][867]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Level1_Spiritual/C/I4/LG4ISMIY792FO25HA40Z8R.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.05.27-13.40.18:042][867]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Level1_Spiritual/C/P2/ADEKIA9PEERH78J6UIG23M.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.05.27-13.40.18:042][867]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Level1_Spiritual/D/39/N7T1MOKMJV39HH6E7NNF91.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.05.27-13.40.18:042][867]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Level1_Spiritual/D/DC/O5RQWXFWPRGGVKIU75MFQP.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.05.27-13.40.18:042][867]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Level1_Spiritual/D/IV/JZC8BW136XGMYG00CV6YBN.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.05.27-13.40.18:042][867]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Level1_Spiritual/D/OB/1XEQY6FT5JH59YWHX45JYT.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.05.27-13.40.18:042][867]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Level1_Spiritual/D/PJ/S46KHCHBOBGRZYBDEX1MKW.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.05.27-13.40.18:042][867]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Level1_Spiritual/E/3R/3M39MEYMY5KSDSVR27MLM0.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.05.27-13.40.18:042][867]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Level1_Spiritual/E/FC/S9E6HJP72Z2R8CASOLCPNO.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.05.27-13.40.18:390][867]PIE: Server logged in
+[2024.05.27-13.40.18:404][867]PIE: Play in editor total start time 2,8 seconds.
+[2024.05.27-13.40.18:744][867]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.27-13.40.18:744][867]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.27-13.40.18:745][867]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.27-13.40.18:745][867]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.27-13.40.18:745][867]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.27-13.40.18:746][867]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.27-13.40.18:746][867]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.27-13.40.18:747][867]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.27-13.40.18:747][867]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.27-13.40.18:747][867]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.27-13.40.18:748][867]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '/Memory/UEDPIE_0_Level1_Spiritual_MainGrid_L0_X0_Y-1_InstanceOf_/Game/__ExternalActors__/Maps/Level1_Spiritual/4/HY/TB6T6VQX20777GS7MHG9T2' is in a memory-only mount point.
+[2024.05.27-13.40.18:748][867]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.27-13.40.18:749][867]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.27-13.40.18:749][867]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '/Memory/UEDPIE_0_Level1_Spiritual_MainGrid_L0_X0_Y-1_InstanceOf_/Game/__ExternalActors__/Maps/Level1_Spiritual/D/Z3/UOI1DEHP65IDG2VAR6NKD4' is in a memory-only mount point.
+[2024.05.27-13.40.18:749][867]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '/Memory/UEDPIE_0_Level1_Spiritual_MainGrid_L0_X0_Y-1_InstanceOf_/Game/__ExternalActors__/Maps/Level1_Spiritual/6/84/U3Q12KKMIY4AUFWRQVRBII' is in a memory-only mount point.
+[2024.05.27-13.40.18:890][868]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.27-13.40.18:890][868]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.27-13.40.18:890][868]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.27-13.40.18:890][868]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.27-13.40.18:890][868]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.27-13.40.18:892][868]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.27-13.40.18:892][868]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.27-13.40.18:892][868]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.27-13.40.18:893][868]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.27-13.40.18:893][868]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.27-13.40.18:893][868]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '/Memory/UEDPIE_0_Level1_Spiritual_MainGrid_L0_X0_Y-1_InstanceOf_/Game/__ExternalActors__/Maps/Level1_Spiritual/4/HY/TB6T6VQX20777GS7MHG9T2' is in a memory-only mount point.
+[2024.05.27-13.40.18:894][868]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.27-13.40.18:894][868]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.27-13.40.18:895][868]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '/Memory/UEDPIE_0_Level1_Spiritual_MainGrid_L0_X0_Y-1_InstanceOf_/Game/__ExternalActors__/Maps/Level1_Spiritual/D/Z3/UOI1DEHP65IDG2VAR6NKD4' is in a memory-only mount point.
+[2024.05.27-13.40.18:895][868]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '/Memory/UEDPIE_0_Level1_Spiritual_MainGrid_L0_X0_Y-1_InstanceOf_/Game/__ExternalActors__/Maps/Level1_Spiritual/6/84/U3Q12KKMIY4AUFWRQVRBII' is in a memory-only mount point.
+[2024.05.27-13.40.23:231][122]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.05.27-13.40.23:231][122]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2024.05.27-13.40.25:914][283]LogNet: Browse: /Game/Maps/Menu_Map
+[2024.05.27-13.40.25:917][283]LogLoad: LoadMap: /Game/Maps/Menu_Map
+[2024.05.27-13.40.25:917][283]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level1_Spiritual
+[2024.05.27-13.40.25:961][283]LogWorld: UWorld::CleanupWorld for Level1_Spiritual, bSessionEnded=true, bCleanupResources=true
+[2024.05.27-13.40.26:117][283]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.27-13.40.26:117][283]LogContentBundle: [Level1_Spiritual(Standalone)] Deleting container.
+[2024.05.27-13.40.26:118][283]LogWorld: UWorld::CleanupWorld for Level1_Spiritual, bSessionEnded=true, bCleanupResources=true
+[2024.05.27-13.40.26:118][283]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.27-13.40.26:118][283]LogWorld: UWorld::CleanupWorld for Level1_Spiritual, bSessionEnded=true, bCleanupResources=true
+[2024.05.27-13.40.26:118][283]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.27-13.40.26:118][283]LogWorld: UWorld::CleanupWorld for Level1_Spiritual, bSessionEnded=true, bCleanupResources=true
+[2024.05.27-13.40.26:118][283]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.27-13.40.26:118][283]LogWorld: UWorld::CleanupWorld for Level1_Spiritual, bSessionEnded=true, bCleanupResources=true
+[2024.05.27-13.40.26:118][283]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.27-13.40.26:118][283]LogWorld: UWorld::CleanupWorld for Level1_Spiritual, bSessionEnded=true, bCleanupResources=true
+[2024.05.27-13.40.26:118][283]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.27-13.40.26:118][283]LogWorld: UWorld::CleanupWorld for Level1_Spiritual, bSessionEnded=true, bCleanupResources=true
+[2024.05.27-13.40.26:119][283]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.27-13.40.26:119][283]LogWorld: UWorld::CleanupWorld for Level1_Spiritual, bSessionEnded=true, bCleanupResources=true
+[2024.05.27-13.40.26:119][283]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.27-13.40.26:119][283]LogWorld: UWorld::CleanupWorld for Level1_Spiritual, bSessionEnded=true, bCleanupResources=true
+[2024.05.27-13.40.26:119][283]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.27-13.40.26:119][283]LogWorld: UWorld::CleanupWorld for Level1_Spiritual, bSessionEnded=true, bCleanupResources=true
+[2024.05.27-13.40.26:119][283]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.27-13.40.26:119][283]LogWorld: UWorld::CleanupWorld for Level1_Spiritual, bSessionEnded=true, bCleanupResources=true
+[2024.05.27-13.40.26:119][283]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.27-13.40.26:119][283]LogWorld: UWorld::CleanupWorld for Level1_Spiritual, bSessionEnded=true, bCleanupResources=true
+[2024.05.27-13.40.26:119][283]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.27-13.40.26:119][283]LogWorld: UWorld::CleanupWorld for Level1_Spiritual, bSessionEnded=true, bCleanupResources=true
+[2024.05.27-13.40.26:119][283]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.27-13.40.26:119][283]LogWorld: UWorld::CleanupWorld for Level1_Spiritual, bSessionEnded=true, bCleanupResources=true
+[2024.05.27-13.40.26:119][283]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.27-13.40.26:119][283]LogWorld: UWorld::CleanupWorld for Level1_Spiritual, bSessionEnded=true, bCleanupResources=true
+[2024.05.27-13.40.26:119][283]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.27-13.40.26:119][283]LogWorld: UWorld::CleanupWorld for Level1_Spiritual, bSessionEnded=true, bCleanupResources=true
+[2024.05.27-13.40.26:119][283]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.27-13.40.26:119][283]LogWorld: UWorld::CleanupWorld for Level1_Spiritual, bSessionEnded=true, bCleanupResources=true
+[2024.05.27-13.40.26:119][283]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.27-13.40.26:119][283]LogWorld: UWorld::CleanupWorld for Level1_Spiritual, bSessionEnded=true, bCleanupResources=true
+[2024.05.27-13.40.26:119][283]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.27-13.40.26:119][283]LogWorld: UWorld::CleanupWorld for Level1_Spiritual, bSessionEnded=true, bCleanupResources=true
+[2024.05.27-13.40.26:119][283]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.27-13.40.26:119][283]LogWorld: UWorld::CleanupWorld for Level1_Spiritual, bSessionEnded=true, bCleanupResources=true
+[2024.05.27-13.40.26:119][283]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.27-13.40.26:119][283]LogWorld: UWorld::CleanupWorld for Level1_Spiritual, bSessionEnded=true, bCleanupResources=true
+[2024.05.27-13.40.26:119][283]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.27-13.40.26:119][283]LogWorld: UWorld::CleanupWorld for Level1_Spiritual, bSessionEnded=true, bCleanupResources=true
+[2024.05.27-13.40.26:119][283]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.27-13.40.26:119][283]LogWorld: UWorld::CleanupWorld for Level1_Spiritual, bSessionEnded=true, bCleanupResources=true
+[2024.05.27-13.40.26:119][283]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.27-13.40.26:119][283]LogWorld: UWorld::CleanupWorld for Level1_Spiritual, bSessionEnded=true, bCleanupResources=true
+[2024.05.27-13.40.26:119][283]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.27-13.40.26:119][283]LogWorld: UWorld::CleanupWorld for Level1_Spiritual, bSessionEnded=true, bCleanupResources=true
+[2024.05.27-13.40.26:120][283]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.27-13.40.26:120][283]LogWorld: UWorld::CleanupWorld for Level1_Spiritual, bSessionEnded=true, bCleanupResources=true
+[2024.05.27-13.40.26:120][283]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.27-13.40.26:120][283]LogWorld: UWorld::CleanupWorld for Level1_Spiritual, bSessionEnded=true, bCleanupResources=true
+[2024.05.27-13.40.26:120][283]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.27-13.40.26:120][283]LogWorld: UWorld::CleanupWorld for Level1_Spiritual, bSessionEnded=true, bCleanupResources=true
+[2024.05.27-13.40.26:120][283]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.27-13.40.26:120][283]LogWorld: UWorld::CleanupWorld for Level1_Spiritual, bSessionEnded=true, bCleanupResources=true
+[2024.05.27-13.40.26:120][283]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.27-13.40.26:120][283]LogWorld: UWorld::CleanupWorld for Level1_Spiritual, bSessionEnded=true, bCleanupResources=true
+[2024.05.27-13.40.26:120][283]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.27-13.40.26:120][283]LogWorld: UWorld::CleanupWorld for Level1_Spiritual, bSessionEnded=true, bCleanupResources=true
+[2024.05.27-13.40.26:120][283]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.27-13.40.26:120][283]LogWorld: UWorld::CleanupWorld for Level1_Spiritual, bSessionEnded=true, bCleanupResources=true
+[2024.05.27-13.40.26:120][283]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.27-13.40.26:120][283]LogWorld: UWorld::CleanupWorld for Level1_Spiritual, bSessionEnded=true, bCleanupResources=true
+[2024.05.27-13.40.26:120][283]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.27-13.40.26:120][283]LogWorld: UWorld::CleanupWorld for Level1_Spiritual, bSessionEnded=true, bCleanupResources=true
+[2024.05.27-13.40.26:120][283]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.27-13.40.26:120][283]LogWorld: UWorld::CleanupWorld for Level1_Spiritual, bSessionEnded=true, bCleanupResources=true
+[2024.05.27-13.40.26:120][283]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.27-13.40.26:120][283]LogWorld: UWorld::CleanupWorld for Level1_Spiritual, bSessionEnded=true, bCleanupResources=true
+[2024.05.27-13.40.26:120][283]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.27-13.40.26:120][283]LogWorld: UWorld::CleanupWorld for Level1_Spiritual, bSessionEnded=true, bCleanupResources=true
+[2024.05.27-13.40.26:120][283]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.27-13.40.26:120][283]LogWorld: UWorld::CleanupWorld for Level1_Spiritual, bSessionEnded=true, bCleanupResources=true
+[2024.05.27-13.40.26:120][283]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.27-13.40.26:120][283]LogWorld: UWorld::CleanupWorld for Level1_Spiritual, bSessionEnded=true, bCleanupResources=true
+[2024.05.27-13.40.26:120][283]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.27-13.40.26:120][283]LogWorld: UWorld::CleanupWorld for Level1_Spiritual, bSessionEnded=true, bCleanupResources=true
+[2024.05.27-13.40.26:120][283]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.27-13.40.26:120][283]LogWorld: UWorld::CleanupWorld for Level1_Spiritual, bSessionEnded=true, bCleanupResources=true
+[2024.05.27-13.40.26:120][283]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.27-13.40.26:120][283]LogWorld: UWorld::CleanupWorld for Level1_Spiritual, bSessionEnded=true, bCleanupResources=true
+[2024.05.27-13.40.26:120][283]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.27-13.40.26:201][283]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.05.27-13.40.26:390][283]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2024.05.27-13.40.26:422][283]LogAudio: Display: Audio Device (ID: 2) registered with world 'Menu_Map'.
+[2024.05.27-13.40.26:422][283]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.27-13.40.26:423][283]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.27-13.40.26:423][283]LogAIModule: Creating AISystem for world Menu_Map
+[2024.05.27-13.40.26:423][283]LogPlayLevel: PIE: World Init took: (0.001002s)
+[2024.05.27-13.40.26:423][283]LogLoad: Game class is 'GameMode'
+[2024.05.27-13.40.26:424][283]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Menu_Map.Menu_Map up for play (max tick rate 60) at 2024.05.27-15.40.26
+[2024.05.27-13.40.26:424][283]LogWorld: Bringing up level for play took: 0.000373
+[2024.05.27-13.40.26:424][283]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2024.05.27-13.40.26:424][283]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2024.05.27-13.40.26:425][283]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2024.05.27-13.40.26:425][283]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2024.05.27-13.40.26:427][283]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2024.05.27-13.40.26:444][283]LogLoad: Took 0.527316 seconds to LoadMap(/Game/Maps/Menu_Map)
+[2024.05.27-13.40.26:451][283]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.27-13.40.26:452][283]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.27-13.40.26:452][283]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.27-13.40.26:452][283]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.27-13.40.26:453][283]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.27-13.40.26:453][283]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.27-13.40.26:454][283]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.27-13.40.26:454][283]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.27-13.40.26:455][283]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.27-13.40.26:455][283]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.27-13.40.26:455][283]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.27-13.40.26:523][284]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.27-13.40.26:525][284]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.27-13.40.26:525][284]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.27-13.40.26:526][284]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.27-13.40.26:526][284]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.27-13.40.26:526][284]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.27-13.40.26:527][284]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.27-13.40.26:527][284]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.27-13.40.26:528][284]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.27-13.40.26:528][284]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.27-13.40.26:529][284]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.27-13.43.11:919][511]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.27-13.43.12:069][511]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Menu_Map
+[2024.05.27-13.43.12:269][511]LogWorld: UWorld::CleanupWorld for Menu_Map, bSessionEnded=true, bCleanupResources=true
+[2024.05.27-13.43.12:269][511]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.27-13.43.12:965][511]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.27-13.43.13:340][511]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.27-13.43.13:368][511]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.27-13.43.13:497][511]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2024.05.27-13.43.13:721][511]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.05.27-13.43.13:722][511]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.05.27-13.43.14:432][511]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2024.05.27-13.43.14:531][511]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.27-13.43.14:622][512]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2024.05.27-13.43.14:733][515]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.05.27-13.43.14:745][515]LogContentBundle: [Level1_Spiritual(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.05.27-13.43.14:750][515]LogWorldPartition: Display: GenerateStreaming started...
+[2024.05.27-13.43.14:750][515]LogWorldPartition: Display: GetPartitionedActors started...
+[2024.05.27-13.43.14:750][515]LogWorldPartition: Display: GetPartitionedActors took 55 us (total: 11 ms)
+[2024.05.27-13.43.15:015][515]LogWorldPartition: Display: GenerateStreaming took 264 ms (total: 673 ms)
+[2024.05.27-13.43.15:017][515]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.27-13.43.15:017][515]PIE: New page: PIE session: Level1_Spiritual (27 mai 2024 à 17:43:15)
+[2024.05.27-13.43.15:017][515]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level1_Spiritual
+[2024.05.27-13.43.15:039][515]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021420s)
+[2024.05.27-13.43.15:039][515]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1_Spiritual.Level1_Spiritual to /Game/Maps/UEDPIE_0_Level1_Spiritual.Level1_Spiritual (0.021470s)
+[2024.05.27-13.43.15:039][515]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.27-13.43.15:039][515]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.27-13.43.15:039][515]LogAIModule: Creating AISystem for world Level1_Spiritual
+[2024.05.27-13.43.15:040][515]LogWorldPartition: ULevel::OnLevelLoaded(Level1_Spiritual)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.05.27-13.43.15:040][515]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.05.27-13.43.15:040][515]LogWorldPartition: UWorldPartition::Initialize(Asset=Level1_Spiritual, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2024.05.27-13.43.15:045][515]LogContentBundle: [Level1_Spiritual(Standalone)] Creating new contrainer.
+[2024.05.27-13.43.15:045][515]LogWorldPartition: Display: WorldPartition initialize took 5 ms (total: 2.51 sec)
+[2024.05.27-13.43.15:045][515]LogPlayLevel: PIE: World Init took: (0.006815s)
+[2024.05.27-13.43.15:150][515]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2024.05.27-13.43.15:151][515]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2024.05.27-13.43.15:151][515]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.27-13.43.15:151][515]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.27-13.43.15:151][515]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.27-13.43.15:151][515]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.27-13.43.15:151][515]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.27-13.43.15:151][515]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.05.27-13.43.15:151][515]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.27-13.43.15:151][515]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.27-13.43.15:152][515]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.27-13.43.15:152][515]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.27-13.43.15:152][515]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.27-13.43.15:154][515]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.27-13.43.15:208][515]LogAudioMixer: Display: Using Audio Hardware Device Speaker (Realtek(R) Audio)
+[2024.05.27-13.43.15:208][515]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.27-13.43.15:209][515]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.27-13.43.15:209][515]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.27-13.43.15:209][515]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2024.05.27-13.43.15:209][515]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2024.05.27-13.43.15:212][515]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2024.05.27-13.43.15:212][515]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2024.05.27-13.43.15:212][515]LogInit: FAudioDevice initialized with ID 3.
+[2024.05.27-13.43.15:212][515]LogAudio: Display: Audio Device (ID: 3) registered with world 'Level1_Spiritual'.
+[2024.05.27-13.43.15:212][515]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2024.05.27-13.43.15:221][515]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.05.27-13.43.15:222][515]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1_Spiritual.Level1_Spiritual up for play (max tick rate 60) at 2024.05.27-15.43.15
+[2024.05.27-13.43.15:222][515]LogWorld: Bringing up level for play took: 0.001517
+[2024.05.27-13.43.15:225][515]LogOnline: OSS: Created online subsystem instance for: :Context_9
+[2024.05.27-13.43.15:234][515]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(41), CellsToLoad(0), CellsToUnload(0)
+[2024.05.27-13.43.15:234][515]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=10130.163 Y=-3702.389 Z=107.824,P=-0.000000 Y=-89.999999 R=0.000000
+[2024.05.27-13.43.15:238][515]LogStreaming: Display: FlushAsyncLoading(-1): 51 QueuedPackages, 0 AsyncPackages
+[2024.05.27-13.43.15:499][515]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Level1_Spiritual/E/FC/S9E6HJP72Z2R8CASOLCPNO.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.05.27-13.43.15:499][515]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Level1_Spiritual/E/3R/3M39MEYMY5KSDSVR27MLM0.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.05.27-13.43.15:499][515]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Level1_Spiritual/D/PJ/S46KHCHBOBGRZYBDEX1MKW.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.05.27-13.43.15:499][515]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Level1_Spiritual/D/OB/1XEQY6FT5JH59YWHX45JYT.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.05.27-13.43.15:499][515]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Level1_Spiritual/D/IV/JZC8BW136XGMYG00CV6YBN.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.05.27-13.43.15:500][515]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Level1_Spiritual/D/DC/O5RQWXFWPRGGVKIU75MFQP.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.05.27-13.43.15:500][515]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Level1_Spiritual/D/39/N7T1MOKMJV39HH6E7NNF91.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.05.27-13.43.15:500][515]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Level1_Spiritual/C/P2/ADEKIA9PEERH78J6UIG23M.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.05.27-13.43.15:500][515]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Level1_Spiritual/C/I4/LG4ISMIY792FO25HA40Z8R.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.05.27-13.43.15:500][515]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Level1_Spiritual/C/FN/V330GBR4O0SDLQ9BME7WD8.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.05.27-13.43.15:500][515]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Level1_Spiritual/C/82/1J31OKD4U4BWBTWB5EOW1W.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.05.27-13.43.15:500][515]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Level1_Spiritual/C/04/T29560MTUMU71OUTD6NJAP.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.05.27-13.43.15:500][515]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Level1_Spiritual/B/LA/59OGRIZ3BR73PHGSRU3P82.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.05.27-13.43.15:500][515]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Level1_Spiritual/B/CN/PBDM4JU9S24PPVLSFA7N9C.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.05.27-13.43.15:500][515]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Level1_Spiritual/A/UG/9WHO9RHCUSE7GDIC14UXBS.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.05.27-13.43.15:500][515]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Level1_Spiritual/A/KT/N72DELLWOEMNVI0QVSOVMV.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.05.27-13.43.15:500][515]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Level1_Spiritual/A/J8/BYHX1P7F21KJ25TLNEKX4F.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.05.27-13.43.15:500][515]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Level1_Spiritual/9/ZF/ZS30UA00N1EUFOWEHNFH8Y.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.05.27-13.43.15:500][515]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Level1_Spiritual/9/N0/QZP5BRGFHUG08XN5O7LMD6.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.05.27-13.43.15:500][515]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Level1_Spiritual/9/EP/616W670OX2NMYI97VPQ3P7.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.05.27-13.43.15:500][515]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Level1_Spiritual/9/CB/93981VXUFV97ON9X12P7OZ.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.05.27-13.43.15:500][515]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Level1_Spiritual/9/78/QMLI2SHFH7UG2DIP8N5CPU.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.05.27-13.43.15:500][515]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Level1_Spiritual/8/N0/2ERXT1J7HO5IVJD394A2RJ.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.05.27-13.43.15:500][515]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Level1_Spiritual/8/CI/SA7UWL04TG7SW32C0GRXE2.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.05.27-13.43.15:500][515]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Level1_Spiritual/8/84/QUREH7NLCN9B3SYYDTO0CE.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.05.27-13.43.15:500][515]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Level1_Spiritual/8/3F/DECIKOTWUL0O3LL95OE5OK.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.05.27-13.43.15:500][515]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Level1_Spiritual/8/1R/PENUZ8J8J5E71T7Y1YBBU3.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.05.27-13.43.15:500][515]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Level1_Spiritual/7/1D/94U9DZUI3VOTADNW23JNDY.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.05.27-13.43.15:500][515]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Level1_Spiritual/6/YO/OFHKYI9O92R6HD3E6NYAF3.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.05.27-13.43.15:500][515]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Level1_Spiritual/6/Y2/440RWD6MBJTYMXD8MF1056.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.05.27-13.43.15:500][515]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Level1_Spiritual/6/V2/R922Y33FUWWSXX5YTIX62Y.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.05.27-13.43.15:500][515]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Level1_Spiritual/6/S8/3YSVYYHAKM01T11AY20NVL.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.05.27-13.43.15:500][515]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Level1_Spiritual/6/L8/PFFX3JJ0CI4IBF3S502HOX.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.05.27-13.43.15:500][515]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Level1_Spiritual/6/KT/14L0WAET7BUSQ3G8FRWF8H.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.05.27-13.43.15:500][515]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Level1_Spiritual/6/7A/7SWU2RZP7GM1Y89HWOXMTM.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.05.27-13.43.15:500][515]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Level1_Spiritual/5/W6/TNYR39IIQ3MKTNYV282WEB.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.05.27-13.43.15:500][515]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Level1_Spiritual/5/TB/PLVDRXKOFJTVAE3UTFOCC2.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.05.27-13.43.15:500][515]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Level1_Spiritual/5/F4/BW6N6IT1MXOM15EU7MLVQ2.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.05.27-13.43.15:500][515]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Level1_Spiritual/5/8V/WYLREQ4HVOTR4W0890EY3J.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.05.27-13.43.15:500][515]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Level1_Spiritual/4/O6/927CNT5E2NB2GO4LJ64JE5.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.05.27-13.43.15:500][515]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Level1_Spiritual/4/FD/WJOL152GTD5TA40YXTI3RC.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.05.27-13.43.15:500][515]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Level1_Spiritual/4/DJ/69669W3LO2P53RG3WE2R15.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.05.27-13.43.15:500][515]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Level1_Spiritual/4/7G/ODPZX2PLF6O9Q79I766SSQ.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.05.27-13.43.15:500][515]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Level1_Spiritual/3/L8/KLUXXT94XXHLLLM3D79QHX.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.05.27-13.43.15:501][515]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Level1_Spiritual/3/GF/HC12R6DEMTVAHCGDC7LD0Y.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.05.27-13.43.15:501][515]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Level1_Spiritual/3/FT/ONCGFMZWH0OHSDGLKYT2F3.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.05.27-13.43.15:501][515]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Level1_Spiritual/3/91/HZ8SX5YVO1MBLZOA84VZSD.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.05.27-13.43.15:501][515]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Level1_Spiritual/3/73/XSPA44V69TT79JEFNMKZEN.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.05.27-13.43.15:501][515]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Level1_Spiritual/2/TJ/OME9KKLG8NMM7G5W38M5DO.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.05.27-13.43.15:501][515]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Level1_Spiritual/2/MT/69VOTNUVFIZFL85Q121HF9.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.05.27-13.43.15:501][515]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Level1_Spiritual/2/KS/YULJJ3Z555RO4A4NKN6IN3.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.05.27-13.43.15:501][515]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Level1_Spiritual/2/9A/EQFH0N27744DM2V7GSP9TN.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.05.27-13.43.15:501][515]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Level1_Spiritual/1/ZQ/ZKMDN7UDUAZ5USR916YHW5.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.05.27-13.43.15:501][515]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Level1_Spiritual/1/ND/GHDVXSRMIBKCQ7I0XLXYEK.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.05.27-13.43.15:501][515]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Level1_Spiritual/1/K7/FNMUQER0Y894RCJUORNHNE.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.05.27-13.43.15:501][515]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Level1_Spiritual/1/K1/GEHC8JMKDV1LYO0F7ZH981.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.05.27-13.43.15:501][515]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Level1_Spiritual/1/1G/TID69DCDGUKOLMW8AQD5K4.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.05.27-13.43.15:501][515]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Level1_Spiritual/0/YE/EOBP3IP3CDOKN99SN7RMH8.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.05.27-13.43.15:501][515]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Level1_Spiritual/0/PI/6ZSXL9UQMCKZIOJB8J2W1Z.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.05.27-13.43.15:501][515]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Level1_Spiritual/0/EC/OTGIDQF76W3LJGO8GATSC4.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.05.27-13.43.15:501][515]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Level1_Spiritual/0/AN/NR593BILSPSDSMWF7C1I0P.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.05.27-13.43.15:501][515]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Level1_Spiritual/0/8N/DCIVTSHYRI67YMR8RQUXPL.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.05.27-13.43.15:501][515]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Level1_Spiritual/0/42/TFJVRCCQP27ABT4N3F8E2F.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.05.27-13.43.15:501][515]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/Level1_Spiritual/0/14/P0BTEX6AV07LM8DWIQ4ROR.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.05.27-13.43.15:553][515]PIE: Server logged in
+[2024.05.27-13.43.15:554][515]PIE: Play in editor total start time 0,809 seconds.
+[2024.05.27-13.43.15:579][515]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.27-13.43.15:580][515]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.27-13.43.15:580][515]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.27-13.43.15:580][515]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.27-13.43.15:581][515]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.27-13.43.15:582][515]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.27-13.43.15:582][515]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.27-13.43.15:582][515]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.27-13.43.15:583][515]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.27-13.43.15:583][515]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.27-13.43.15:584][515]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '/Memory/UEDPIE_0_Level1_Spiritual_MainGrid_L0_X0_Y-1_InstanceOf_/Game/__ExternalActors__/Maps/Level1_Spiritual/4/HY/TB6T6VQX20777GS7MHG9T2' is in a memory-only mount point.
+[2024.05.27-13.43.15:585][515]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.27-13.43.15:585][515]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.27-13.43.15:586][515]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '/Memory/UEDPIE_0_Level1_Spiritual_MainGrid_L0_X0_Y-1_InstanceOf_/Game/__ExternalActors__/Maps/Level1_Spiritual/D/Z3/UOI1DEHP65IDG2VAR6NKD4' is in a memory-only mount point.
+[2024.05.27-13.43.15:587][515]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '/Memory/UEDPIE_0_Level1_Spiritual_MainGrid_L0_X0_Y-1_InstanceOf_/Game/__ExternalActors__/Maps/Level1_Spiritual/6/84/U3Q12KKMIY4AUFWRQVRBII' is in a memory-only mount point.
+[2024.05.27-13.43.15:695][516]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.27-13.43.15:695][516]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.27-13.43.15:696][516]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.27-13.43.15:696][516]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.27-13.43.15:697][516]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.27-13.43.15:698][516]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.27-13.43.15:698][516]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.27-13.43.15:699][516]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.27-13.43.15:699][516]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.27-13.43.15:700][516]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.27-13.43.15:700][516]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '/Memory/UEDPIE_0_Level1_Spiritual_MainGrid_L0_X0_Y-1_InstanceOf_/Game/__ExternalActors__/Maps/Level1_Spiritual/4/HY/TB6T6VQX20777GS7MHG9T2' is in a memory-only mount point.
+[2024.05.27-13.43.15:700][516]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.27-13.43.15:701][516]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.27-13.43.15:702][516]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '/Memory/UEDPIE_0_Level1_Spiritual_MainGrid_L0_X0_Y-1_InstanceOf_/Game/__ExternalActors__/Maps/Level1_Spiritual/D/Z3/UOI1DEHP65IDG2VAR6NKD4' is in a memory-only mount point.
+[2024.05.27-13.43.15:703][516]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '/Memory/UEDPIE_0_Level1_Spiritual_MainGrid_L0_X0_Y-1_InstanceOf_/Game/__ExternalActors__/Maps/Level1_Spiritual/6/84/U3Q12KKMIY4AUFWRQVRBII' is in a memory-only mount point.
+[2024.05.27-13.43.16:853][567]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.27-13.43.16:853][567]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level1_Spiritual
+[2024.05.27-13.43.17:105][567]LogWorld: UWorld::CleanupWorld for Level1_Spiritual, bSessionEnded=true, bCleanupResources=true
+[2024.05.27-13.43.17:105][567]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.27-13.43.17:105][567]LogContentBundle: [Level1_Spiritual(Standalone)] Deleting container.
+[2024.05.27-13.43.17:111][567]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.27-13.43.17:122][567]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.27-13.43.17:158][567]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.05.27-13.43.17:169][567]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2024.05.27-13.43.17:169][567]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.05.27-13.43.17:172][567]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.05.27-13.43.17:178][567]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.27-13.43.17:200][567]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2024.05.27-13.43.17:232][567]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.27-13.43.17:278][568]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2024.05.27-13.43.17:297][568]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.27-13.46.59:885][311]LogUObjectHash: Compacting FUObjectHashTables data took   4.28ms
+[2024.05.27-13.46.59:888][311]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Level1_Spiritual' took 0.070
+[2024.05.27-13.47.00:767][311]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2024.05.27-13.47.01:040][311]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.27-13.47.01:594][311]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C]
+[2024.05.27-13.47.01:742][311]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2024.05.27-13.47.01:742][311]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2024.05.27-13.47.02:581][311]LogPackageLocalizationCache: Processed 44 localized package path(s) for 1 prioritized culture(s) in 0.088979 seconds
+[2024.05.27-13.47.06:913][311]LogSerialization: UsePackageTrailer: 'true'
+[2024.05.27-13.47.12:111][311]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto1
+[2024.05.27-13.47.12:113][311]LogSavePackage: Moving 'C:/Users/33638/OneDrive/Documents/GitHub/Projet_Saison_2_GD2/Saison_2_GD2_Projetc/Saved/BP_ThirdPersonCharacter_Auto1E5805F854F3F3F1EC3796F93DC8182DB.tmp' to 'C:/Users/33638/OneDrive/Documents/GitHub/Projet_Saison_2_GD2/Saison_2_GD2_Projetc/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto1.uasset'
+[2024.05.27-13.47.13:193][311]LogFileHelpers: Auto-saving content packages took 13.285
+[2024.05.27-13.48.07:637][475]LogHttp: Warning: 00000B5E0333B400: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B65826119-4196-C1FC-93E3-8F9D5B605E58%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=1b15abe0464d2659ab4b95a29c705c89%7C6e100f1e424b4295bc5414d97b8a3f65%7Cfb66259b-dfc9-4eb9-bcfc-5e99915a433f&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.05.27-13.48.07:785][475]LogHttp: Warning: 00000B5E0333B400: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2024.05.27-13.48.07:785][475]LogHttp: Warning: 00000B5E0333B400: libcurl info message cache 0 (Found bundle for host: 0xb5d77960db0 [serially])
+[2024.05.27-13.48.07:785][475]LogHttp: Warning: 00000B5E0333B400: libcurl info message cache 1 (Re-using existing connection #2 with host datarouter.ol.epicgames.com)
+[2024.05.27-13.48.07:785][475]LogHttp: Warning: 00000B5E0333B400: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.203.170.107) port 443 (#2))
+[2024.05.27-13.48.07:785][475]LogHttp: Warning: 00000B5E0333B400: libcurl info message cache 3 (We are completely uploaded and fine)
+[2024.05.27-13.48.07:785][475]LogHttp: Warning: 00000B5E0333B400: libcurl info message cache 4 (OpenSSL SSL_read: Connection was reset, errno 10054)
+[2024.05.27-13.48.07:785][475]LogHttp: Warning: 00000B5E0333B400: libcurl info message cache 5 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.05.27-13.48.07:785][475]LogHttp: Warning: 00000B5E0333B400: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2024.05.27-13.48.07:785][475]LogHttp: Warning: 00000B5E0333B400: libcurl info message cache 7 (Closing connection 2)
+[2024.05.27-13.48.07:785][475]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B65826119-4196-C1FC-93E3-8F9D5B605E58%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=1b15abe0464d2659ab4b95a29c705c89%7C6e100f1e424b4295bc5414d97b8a3f65%7Cfb66259b-dfc9-4eb9-bcfc-5e99915a433f&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.05.27-13.49.47:925][775]LogHttp: Warning: 00000B5E03332800: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B65826119-4196-C1FC-93E3-8F9D5B605E58%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=1b15abe0464d2659ab4b95a29c705c89%7C6e100f1e424b4295bc5414d97b8a3f65%7Cfb66259b-dfc9-4eb9-bcfc-5e99915a433f&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.05.27-13.49.47:925][775]LogHttp: Warning: 00000B5E03332800: request failed, libcurl error: 28 (Timeout was reached)
+[2024.05.27-13.49.47:925][775]LogHttp: Warning: 00000B5E03332800: libcurl info message cache 0 (  Trying 54.205.192.181:443...)
+[2024.05.27-13.49.47:925][775]LogHttp: Warning: 00000B5E03332800: libcurl info message cache 1 (connect to 54.205.192.181 port 443 failed: Timed out)
+[2024.05.27-13.49.47:925][775]LogHttp: Warning: 00000B5E03332800: libcurl info message cache 2 (  Trying 18.234.20.80:443...)
+[2024.05.27-13.49.47:925][775]LogHttp: Warning: 00000B5E03332800: libcurl info message cache 3 (After 19432ms connect time, move on!)
+[2024.05.27-13.49.47:925][775]LogHttp: Warning: 00000B5E03332800: libcurl info message cache 4 (connect to 18.234.20.80 port 443 failed: Timed out)
+[2024.05.27-13.49.47:925][775]LogHttp: Warning: 00000B5E03332800: libcurl info message cache 5 (  Trying 3.211.114.232:443...)
+[2024.05.27-13.49.47:925][775]LogHttp: Warning: 00000B5E03332800: libcurl info message cache 6 (After 9715ms connect time, move on!)
+[2024.05.27-13.49.47:925][775]LogHttp: Warning: 00000B5E03332800: libcurl info message cache 7 (connect to 3.211.114.232 port 443 failed: Timed out)
+[2024.05.27-13.49.47:925][775]LogHttp: Warning: 00000B5E03332800: libcurl info message cache 8 (  Trying 54.243.86.139:443...)
+[2024.05.27-13.49.47:925][775]LogHttp: Warning: 00000B5E03332800: libcurl info message cache 9 (After 4856ms connect time, move on!)
+[2024.05.27-13.49.47:925][775]LogHttp: Warning: 00000B5E03332800: libcurl info message cache 10 (connect to 54.243.86.139 port 443 failed: Timed out)
+[2024.05.27-13.49.47:925][775]LogHttp: Warning: 00000B5E03332800: libcurl info message cache 11 (  Trying 3.231.251.2:443...)
+[2024.05.27-13.49.47:925][775]LogHttp: Warning: 00000B5E03332800: libcurl info message cache 12 (After 2426ms connect time, move on!)
+[2024.05.27-13.49.47:926][775]LogHttp: Warning: 00000B5E03332800: libcurl info message cache 13 (connect to 3.231.251.2 port 443 failed: Timed out)
+[2024.05.27-13.49.47:926][775]LogHttp: Warning: 00000B5E03332800: libcurl info message cache 14 (  Trying 23.20.237.241:443...)
+[2024.05.27-13.49.47:926][775]LogHttp: Warning: 00000B5E03332800: libcurl info message cache 15 (After 1212ms connect time, move on!)
+[2024.05.27-13.49.47:926][775]LogHttp: Warning: 00000B5E03332800: libcurl info message cache 16 (connect to 23.20.237.241 port 443 failed: Timed out)
+[2024.05.27-13.49.47:926][775]LogHttp: Warning: 00000B5E03332800: libcurl info message cache 17 (  Trying 174.129.221.139:443...)
+[2024.05.27-13.49.47:926][775]LogHttp: Warning: 00000B5E03332800: libcurl info message cache 18 (After 603ms connect time, move on!)
+[2024.05.27-13.49.47:926][775]LogHttp: Warning: 00000B5E03332800: libcurl info message cache 19 (connect to 174.129.221.139 port 443 failed: Timed out)
+[2024.05.27-13.49.47:926][775]LogHttp: Warning: 00000B5E03332800: libcurl info message cache 20 (  Trying 34.197.124.186:443...)
+[2024.05.27-13.49.47:926][775]LogHttp: Warning: 00000B5E03332800: libcurl info message cache 21 (After 302ms connect time, move on!)
+[2024.05.27-13.49.47:926][775]LogHttp: Warning: 00000B5E03332800: libcurl info message cache 22 (connect to 34.197.124.186 port 443 failed: Timed out)
+[2024.05.27-13.49.47:926][775]LogHttp: Warning: 00000B5E03332800: libcurl info message cache 23 (Failed to connect to datarouter.ol.epicgames.com port 443 after 59700 ms: Timed out)
+[2024.05.27-13.49.47:926][775]LogHttp: Warning: 00000B5E03332800: libcurl info message cache 24 (Closing connection 3)
+[2024.05.27-13.49.47:926][775]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B65826119-4196-C1FC-93E3-8F9D5B605E58%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=1b15abe0464d2659ab4b95a29c705c89%7C6e100f1e424b4295bc5414d97b8a3f65%7Cfb66259b-dfc9-4eb9-bcfc-5e99915a433f&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.05.27-13.50.48:045][955]LogHttp: Warning: 00000B5E0333CD00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B65826119-4196-C1FC-93E3-8F9D5B605E58%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=1b15abe0464d2659ab4b95a29c705c89%7C6e100f1e424b4295bc5414d97b8a3f65%7Cfb66259b-dfc9-4eb9-bcfc-5e99915a433f&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.05.27-13.50.48:045][955]LogHttp: Warning: 00000B5E0333CD00: request failed, libcurl error: 28 (Timeout was reached)
+[2024.05.27-13.50.48:045][955]LogHttp: Warning: 00000B5E0333CD00: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2024.05.27-13.50.48:045][955]LogHttp: Warning: 00000B5E0333CD00: libcurl info message cache 1 (  Trying 3.221.68.196:443...)
+[2024.05.27-13.50.48:045][955]LogHttp: Warning: 00000B5E0333CD00: libcurl info message cache 2 (connect to 3.221.68.196 port 443 failed: Timed out)
+[2024.05.27-13.50.48:045][955]LogHttp: Warning: 00000B5E0333CD00: libcurl info message cache 3 (  Trying 52.20.46.61:443...)
+[2024.05.27-13.50.48:045][955]LogHttp: Warning: 00000B5E0333CD00: libcurl info message cache 4 (After 19467ms connect time, move on!)
+[2024.05.27-13.50.48:045][955]LogHttp: Warning: 00000B5E0333CD00: libcurl info message cache 5 (connect to 52.20.46.61 port 443 failed: Timed out)
+[2024.05.27-13.50.48:045][955]LogHttp: Warning: 00000B5E0333CD00: libcurl info message cache 6 (  Trying 3.219.94.49:443...)
+[2024.05.27-13.50.48:045][955]LogHttp: Warning: 00000B5E0333CD00: libcurl info message cache 7 (After 9732ms connect time, move on!)
+[2024.05.27-13.50.48:045][955]LogHttp: Warning: 00000B5E0333CD00: libcurl info message cache 8 (connect to 3.219.94.49 port 443 failed: Timed out)
+[2024.05.27-13.50.48:045][955]LogHttp: Warning: 00000B5E0333CD00: libcurl info message cache 9 (  Trying 34.227.181.81:443...)
+[2024.05.27-13.50.48:045][955]LogHttp: Warning: 00000B5E0333CD00: libcurl info message cache 10 (After 4866ms connect time, move on!)
+[2024.05.27-13.50.48:045][955]LogHttp: Warning: 00000B5E0333CD00: libcurl info message cache 11 (connect to 34.227.181.81 port 443 failed: Timed out)
+[2024.05.27-13.50.48:045][955]LogHttp: Warning: 00000B5E0333CD00: libcurl info message cache 12 (  Trying 3.231.78.225:443...)
+[2024.05.27-13.50.48:045][955]LogHttp: Warning: 00000B5E0333CD00: libcurl info message cache 13 (After 2431ms connect time, move on!)
+[2024.05.27-13.50.48:045][955]LogHttp: Warning: 00000B5E0333CD00: libcurl info message cache 14 (connect to 3.231.78.225 port 443 failed: Timed out)
+[2024.05.27-13.50.48:045][955]LogHttp: Warning: 00000B5E0333CD00: libcurl info message cache 15 (  Trying 52.205.194.155:443...)
+[2024.05.27-13.50.48:045][955]LogHttp: Warning: 00000B5E0333CD00: libcurl info message cache 16 (After 1215ms connect time, move on!)
+[2024.05.27-13.50.48:046][955]LogHttp: Warning: 00000B5E0333CD00: libcurl info message cache 17 (connect to 52.205.194.155 port 443 failed: Timed out)
+[2024.05.27-13.50.48:046][955]LogHttp: Warning: 00000B5E0333CD00: libcurl info message cache 18 (  Trying 34.228.133.231:443...)
+[2024.05.27-13.50.48:046][955]LogHttp: Warning: 00000B5E0333CD00: libcurl info message cache 19 (After 606ms connect time, move on!)
+[2024.05.27-13.50.48:046][955]LogHttp: Warning: 00000B5E0333CD00: libcurl info message cache 20 (connect to 34.228.133.231 port 443 failed: Timed out)
+[2024.05.27-13.50.48:046][955]LogHttp: Warning: 00000B5E0333CD00: libcurl info message cache 21 (  Trying 34.200.68.65:443...)
+[2024.05.27-13.50.48:046][955]LogHttp: Warning: 00000B5E0333CD00: libcurl info message cache 22 (After 302ms connect time, move on!)
+[2024.05.27-13.50.48:046][955]LogHttp: Warning: 00000B5E0333CD00: libcurl info message cache 23 (connect to 34.200.68.65 port 443 failed: Timed out)
+[2024.05.27-13.50.48:046][955]LogHttp: Warning: 00000B5E0333CD00: libcurl info message cache 24 (Failed to connect to datarouter.ol.epicgames.com port 443 after 59698 ms: Timed out)
+[2024.05.27-13.50.48:046][955]LogHttp: Warning: 00000B5E0333CD00: libcurl info message cache 25 (Closing connection 4)
+[2024.05.27-13.50.48:046][955]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B65826119-4196-C1FC-93E3-8F9D5B605E58%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=1b15abe0464d2659ab4b95a29c705c89%7C6e100f1e424b4295bc5414d97b8a3f65%7Cfb66259b-dfc9-4eb9-bcfc-5e99915a433f&AppEnvironment=datacollector-binary&UploadType=eteventstream
